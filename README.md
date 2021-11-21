@@ -1,11 +1,11 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/142779553-82147e51-7e6d-47bd-9db6-fe2f5ad95355.png">
   <br />
   Steam Deck Guide
 </h1>
 
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/142779557-400f19c8-6084-41ee-9449-fb08a15d6c45.png">
 <br />
 </p>
 
@@ -52,7 +52,7 @@
 [Steam Deck](https://www.steamdeck.com/) is a handheld gaming computer developed by [Valve Corporation](https://valvesoftware.com/) in cooperation with [Advanced Micro Devices (AMD)](https://www.amd.com/). It allows users to play their entire Steam game library but can be modified by the user to run other gaming storefronts or applications. The Steam Deck will start shipping February 2022.
 
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/142779563-30ada576-1bf4-42fb-8ad5-3fa3a6e40103.png">
 <br />
 </p>
 
@@ -109,14 +109,14 @@ Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
 [Deck Verified](https://www.steamdeck.com/en/verified) is a program that reviews games in Steam's catalog verifying their compatibility with the Steam Deck. So when you visit your Library on Steam Deck, you’ll find a compatibility badge on each title, reflecting the kind of experience you can expect when playing each game on Steam Deck.
 
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/142779573-254b3ce4-e0e8-401f-a343-bf5b3aa29b66.png">
 <br />
 </p>
 
 Deck Verified Program Categories. Source: [Steam Deck](https://www.steamdeck.com/en/verified)
 
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/142779574-d0410dc5-12cd-41ef-9cfa-03488c50b2ff.png">
 <br />
 </p>
 
@@ -127,9 +127,9 @@ Steam Library Compatibility Badges for Games. Source: [Steam Deck](https://www.s
  **[Manjaro Linux](https://manjaro.org/)**
 
  <h3 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/107439879-9da8b100-6ae7-11eb-81a5-219d713130dc.png">
+ <img src="https://user-images.githubusercontent.com/45159366/142779587-fbfac305-7cae-4768-80e8-d87830471232.png">
   <br />
-  Manjaro Linux Desktop
+  Manjaro Linux Desktop with KDE
 </h3>
 
 **[EndeavourOS](https://endeavouros.com/)**
@@ -159,7 +159,7 @@ ArcoLinux Desktop
 **[ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) created by [ChrisTitusTech](https://www.youtube.com/channel/UCg6gPGh8HU2U01vaFCAsvmQ)**
 
 <h3 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/142780015-51242184-ff8b-4705-b6b3-f1913b734bf2.png">
   <br />
 ArchTitus Desktop
 </h3>
@@ -167,7 +167,7 @@ ArchTitus Desktop
 **[Fedora 35](https://getfedora.org/)**
 
 <h3 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/142779592-8b70c81e-ac10-4bb3-91b5-efe25fa9afb4.png">
   <br />
 Fedora Desktop
 </h3>
@@ -175,7 +175,7 @@ Fedora Desktop
 **[Pop!_OS](https://pop.system76.com)** created by [System76](https://system76.com).
 
 <h3 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/142779593-390dfd58-a246-4299-baf2-adf0207da696.png">
   <br />
 Pop!_OS Desktop
 </h3>
@@ -530,7 +530,7 @@ Pop!_OS Desktop
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/129622295-1bd0e123-57bb-4460-baab-8dbc8818052a.png">
+ <img src="https://user-images.githubusercontent.com/45159366/142779599-6a46ab05-c64a-48fe-a775-3e4f46e41f63.png">
   <br />
 </p>
 
@@ -764,7 +764,7 @@ Pop!_OS Desktop
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/142779605-1b1ad21d-c33d-4a95-b88a-e7f168771008.png">
   <br />
 </p>
 
@@ -793,12 +793,12 @@ Pop!_OS Desktop
    - [Streams](https://docs.pipewire.org/page_streams.html)
    - [Thread Loop](https://docs.pipewire.org/page_thread_loop.html)
 
+[WirePlumber Documentation](https://pipewire.pages.freedesktop.org/wireplumber/)
+
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/142779615-d631251b-a2d6-48b4-8194-7985604a8563.png">
   <br />
 </p>
-
-[WirePlumber Documentation](https://pipewire.pages.freedesktop.org/wireplumber/)
 
 How WirePlumber, the PipeWire session manager works. Source: [Collabora](https://www.collabora.com/news-and-blog/blog/2020/05/07/wireplumber-the-pipewire-session-manager/)
 
