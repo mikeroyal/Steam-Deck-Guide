@@ -47,7 +47,7 @@
 8. [Audio Development](https://github.com/mikeroyal/Steam-Deck-Guide#audio-development)
 
 
-# Getting Started with Steam Deck
+# Getting Started with the Steam Deck
 
 [Steam Deck](https://www.steamdeck.com/) is a handheld gaming computer developed by [Valve Corporation](https://valvesoftware.com/) in cooperation with [Advanced Micro Devices (AMD)](https://www.amd.com/). It allows users to play their entire Steam game library but can be modified by the user to run other gaming storefronts or applications. The Steam Deck will start shipping February 2022.
 
