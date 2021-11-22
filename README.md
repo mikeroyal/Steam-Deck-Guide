@@ -764,7 +764,7 @@ Pop!_OS Desktop
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/142779605-1b1ad21d-c33d-4a95-b88a-e7f168771008.png">
+ <img src="https://user-images.githubusercontent.com/45159366/142936394-b546784e-231a-4391-9dd8-c686e5a7eee9.png">
   <br />
 </p>
 
