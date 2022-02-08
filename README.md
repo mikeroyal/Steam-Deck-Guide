@@ -51,6 +51,12 @@
 
 [Steam Deck](https://www.steamdeck.com/) is a handheld gaming computer developed by [Valve Corporation](https://valvesoftware.com/) in cooperation with [Advanced Micro Devices (AMD)](https://www.amd.com/). It allows users to play their entire Steam game library but can be modified by the user to run other gaming storefronts or applications. The Steam Deck will start shipping February 2022.
 
+[Steam Deck Hardware Review by Linus Tech Tips](https://www.youtube.com/watch?v=HjZ4POvk14c)
+
+[Steam Deck Unboxing Experience by Linus Tech Tips](https://www.youtube.com/watch?v=_UB9XoPlJ0U)
+
+[Steam Deck Tear Down by Linus Tech Tips](https://www.youtube.com/watch?v=ZK43RAc90ZA)
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/142779563-30ada576-1bf4-42fb-8ad5-3fa3a6e40103.png">
 <br />
@@ -95,6 +101,10 @@ Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
 ## Steam Deck Development
 
 [Steamworks](https://partner.steamgames.com/doc/home) is a free suite of tools available to any developer to use in their game or software on Steam and the Steam Deck.
+
+[Dynamic Cloud Sync](https://steamcommunity.com/groups/steamworks/announcements/detail/3142949576401813670) is a tool that Steam will use  to automatically upload all modified save game data to the cloud prior to the device entering sleep mode. Users can then resume their game on any PC, laptop or other device. Steam will also automatically download any save game changes when users return to their Steam Deck and wake up the device.
+
+[Steam Cloud](https://partner.steamgames.com/doc/features/cloud) is a tool that provides an easy and transparent remote file storage system for your game. Files specified in the Auto-Cloud configuration or written to disk (created, modified, deleted, etc.) using the Cloud API will automatically be replicated to the Steam servers after the game exits. If the user changes computers, the files are automatically downloaded to the new computer prior to the game launching. The game can then access the files by reading them through the Cloud API or reading them directly from disk as usual. Avoid machine specific configurations such as video settings.
 
 [Getting your game ready for Steam Deck](https://partner.steamgames.com/doc/steamdeck/recommendations)
 
