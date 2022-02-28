@@ -49,6 +49,7 @@
 
 
 # Getting Started with the Steam Deck
+[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
 [Steam Deck](https://www.steamdeck.com/) is a handheld gaming computer developed by [Valve Corporation](https://valvesoftware.com/) in cooperation with [Advanced Micro Devices (AMD)](https://www.amd.com/). It allows users to play their entire Steam game library but can be modified by the user to run other gaming storefronts or applications. The Steam Deck will start shipping February 2022.
 
@@ -102,6 +103,7 @@ Docked: Up to 8K @ 60Hz or 4K @ 120Hz.
 Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
 
 ## Steam Deck Accessories
+[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
 [PROJECT Killswitch](https://dbrand.com/killswitch) is a custom protective case for the Steam Deck designed by [Dbrand](https://dbrand.com/).
 
@@ -131,6 +133,7 @@ Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
 
 
 ## Steam Deck Development
+[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
 [Steamworks](https://partner.steamgames.com/doc/home) is a free suite of tools available to any developer to use in their game or software on Steam and the Steam Deck.
 
@@ -187,6 +190,7 @@ Steam Library Compatibility Badges for Games. Source: [Steam Deck](https://www.s
    - [ProtonDB Anti-Cheat list for Games](https://www.protondb.com/explore?selectedFilters=antiCheat)
 
 ## Other Linux Operating Systems for the Steam Deck.
+[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
  **[Manjaro Linux](https://manjaro.org/)**
 
@@ -245,6 +249,7 @@ Pop!_OS Desktop
 </h3>
 
 ## Getting Windows 10 or 11 on the Steam Deck
+[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
 **[Windows 11](https://www.microsoft.com/en-us/software-download/windows11)**
 
