@@ -67,12 +67,6 @@
 
 Steam Deck device. Source: [Steam Deck](https://www.steamdeck.com/)
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/155908540-166c2b05-86fa-488f-9041-3ab8c5d29a29.png">
-<br />
- Inside Look of Steam Deck
-</p>
-
 [Steam OS 3.0](https://store.steampowered.com/steamdeck) is an [immutable](https://en.wikipedia.org/wiki/Immutable_object) Operating System(OS) using the [KDE Plasma](https://kde.org/plasma-desktop) desktop. This allows you to install applications in containers using [Flatpak](https://flatpak.org/), rather than onto the root filesystem. This means not only that the installation of applications is isolated from the core filesystem, but also that the ability for malicious applications to compromise/break your system is significantly reduced.
 
 <h3 align="center">
@@ -114,11 +108,13 @@ Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/155908502-f015431e-6abd-4e31-8ad1-2d43f5ba6850.png">
 <br />
+ Front
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/155908521-7d98d92f-3778-44ed-ad87-6909d32a9db0.png">
+<img src="https://user-images.githubusercontent.com/45159366/155910314-78b454c8-94d3-43dc-a9e2-75b9819c9398.png">
 <br />
+ Back
 </p>
 
 [Glass Sceen Protector for Steam Deck](https://www.amazon.com/Tempered-Protector-Compatible-Installation-Manufacturer/dp/B09L9F65JG)
