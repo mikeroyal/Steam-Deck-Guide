@@ -22,6 +22,8 @@
 
      - [Steam Deck Accessories](https://github.com/mikeroyal/Steam-Deck-Guide#Steam-Deck-Accessories)
      - [Steam Deck Development](https://github.com/mikeroyal/Steam-Deck-Guide#steam-deck-development)
+     - [SteamDB](https://github.com/mikeroyal/Steam-Deck-Guide#steamdb)
+     - [Getting Software](https://github.com/mikeroyal/Steam-Deck-Guide#getting-software)
      - [Other Linux Operating Systems for the Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#Other-Linux-Operating-Systems-for-the-Steam-Deck)
      - [Getting Windows 10 or 11 on the Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#Getting-Windows-10-or-11-on-the-Steam-Deck)
 
@@ -71,7 +73,7 @@ Steam Deck device. Source: [Steam Deck](https://www.steamdeck.com/)
 [Steam OS 3.0](https://store.steampowered.com/steamdeck) is an [immutable](https://en.wikipedia.org/wiki/Immutable_object) Operating System(OS) using the [KDE Plasma](https://kde.org/plasma-desktop) desktop. This allows you to install applications in containers using [Flatpak](https://flatpak.org/), rather than onto the root filesystem. This means not only that the installation of applications is isolated from the core filesystem, but also that the ability for malicious applications to compromise/break your system is significantly reduced.
 
 <h3 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/127042111-e8264a0a-7619-42eb-9ee6-abb96252b565.png">
+ <img src="https://user-images.githubusercontent.com/45159366/156265237-ff8b9eaa-e5a2-4cd8-ae06-e03b4582931d.png">
   <br />
   SteamOS 3.0 with KDE Plasma Deskop
 </h3>
@@ -185,6 +187,9 @@ Deck Verified Program Categories. Source: [Steam Deck](https://www.steamdeck.com
 
 Steam Library Compatibility Badges for Games. Source: [Steam Deck](https://www.steamdeck.com/en/verified)
 
+## SteamDB
+[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+
 [SteamDB](https://steamdb.info/instantsearch/) is a database of everything on Steam. Important note SteamDB is a hobby project and is not affiliated with Valve or Steam.
    
    - [Steam Deck Verified Games List](https://steamdb.info/instantsearch/?refinementList%5Boslist%5D%5B0%5D=Steam%20Deck%20Verified)
@@ -194,6 +199,25 @@ Steam Library Compatibility Badges for Games. Source: [Steam Deck](https://www.s
    - [Steam Deck Unsupported Games List](https://steamdb.info/instantsearch/?refinementList%5Boslist%5D%5B0%5D=Steam%20Deck%20Unsupported)
 
    - [ProtonDB Anti-Cheat list for Games](https://www.protondb.com/explore?selectedFilters=antiCheat)
+
+## Getting Software
+[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+
+[Discover](https://apps.kde.org/discover/) is an software center that let's you manage software from multiple sources, including your operating system's software repository, Flatpak repos, the Snap store, or even AppImages from store.kde.org. Also, Discover allows you to find, install, and manage add-ons for Plasma and all your favorite KDE apps.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/156265563-1e9776f6-048f-4c20-b93b-d06ddcafed6d.png">
+<br />
+ KDE Plasma Discover App Store
+</p>
+
+[Flathub](https://flathub.org/) is an app store and build service for hundreds of apps which can be easily installed on any Linux distribution. Browse the apps online, from your app center or the command line.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/156265570-56fe8837-3963-49c8-b3f9-24a219929625.png">
+<br />
+ Flathub App Store
+</p>
 
 ## Other Linux Operating Systems for the Steam Deck.
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
