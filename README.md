@@ -143,6 +143,18 @@ Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
 ## Steam Deck Development
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
+**Quick links to Development Resources**
+
+  - [Getting your game ready for Steam Deck](https://partner.steamgames.com/doc/steamdeck/recommendations)
+
+  - [Developing for Steam Deck without a Dev-Kit](https://partner.steamgames.com/doc/steamdeck/testing)
+
+  - [Steam Deck Developer Kits](https://partner.steamgames.com/doc/steamdeck/devkits)
+
+  - [Steam Deck and Proton](https://partner.steamgames.com/doc/steamdeck/proton)
+
+  - [Steam Deck Developer Forums](https://steamcommunity.com/groups/steamworks/discussions/27/)
+
 [Steamworks](https://partner.steamgames.com/doc/home) is a free suite of tools available to any developer to use in their game or software on Steam and the Steam Deck.
 
 [Steam Hardware GitLab Repo](https://gitlab.steamos.cloud/SteamDeck/hardware) is a repository that contains CAD files for the external shell (surface topology) of Steam Deck, under a Creative Commons license. This includes an STP model, STL model, and drawings (DWG) for reference.
@@ -160,16 +172,6 @@ Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
 [GOverlay](https://github.com/benjamimgois/goverlay) is an open source project aimed to create a Graphical UI to manage Vulkan/OpenGL overlays. It is still in early development.
 
 [ReplaySorcery](https://github.com/matanui159/ReplaySorcery) is an open-source, instant-replay solution for Linux.
-
-[Getting your game ready for Steam Deck](https://partner.steamgames.com/doc/steamdeck/recommendations)
-
-[Developing for Steam Deck without a Dev-Kit](https://partner.steamgames.com/doc/steamdeck/testing)
-
-[Steam Deck Developer Kits](https://partner.steamgames.com/doc/steamdeck/devkits)
-
-[Steam Deck and Proton](https://partner.steamgames.com/doc/steamdeck/proton)
-
-[Steam Deck Developer Forums](https://steamcommunity.com/groups/steamworks/discussions/27/)
 
 [Deck Verified](https://www.steamdeck.com/en/verified) is a program that reviews games in Steam's catalog verifying their compatibility with the Steam Deck. So when you visit your Library on Steam Deck, you’ll find a compatibility badge on each title, reflecting the kind of experience you can expect when playing each game on Steam Deck.
 
