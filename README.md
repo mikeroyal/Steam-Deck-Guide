@@ -221,6 +221,26 @@ Steam Library Compatibility Badges for Games. Source: [Steam Deck](https://www.s
  Flathub App Store
 </p>
 
+### Install Flatpak/Flathub on your system
+
+**Open your terminal app AKA Konsole and type:**
+
+   1.```sudo pacman -Syu```
+
+   2.```sudo pacman -S flatpak```
+
+   3.```flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo```
+
+To complete setup, restart your system. 
+
+**To activate the Flathub repository in Discover, just follow the instructions below:**
+
+ - Open Discover and click on Settings (lower left corner).
+
+ - Check that in the Flatpak section the box is checked. 
+
+**Note:** Flathub app search will be integrated in Discover, if you want to limit the app search to Flathub you can mark Flatpak as default by clicking on the star.
+
 ## Other Linux Operating Systems for the Steam Deck.
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
