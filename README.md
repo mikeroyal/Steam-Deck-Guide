@@ -303,6 +303,10 @@ Pop!_OS Desktop
 ## Getting Windows 10 or 11 on the Steam Deck
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
+**[Steam Deck Windows Resources](https://help.steampowered.com/en/faqs/view/6121-ECCD-D643-BAA8)**
+
+**[Recovery instructions](https://help.steampowered.com/en/faqs/view/1B71-EDF2-EB6D-2BB3) for getting back to the default Steam Deck OS.**
+
 **[Windows 11](https://www.microsoft.com/en-us/software-download/windows11)**
 
 <h3 align="center">
