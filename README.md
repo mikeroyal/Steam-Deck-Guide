@@ -26,6 +26,7 @@
      - [Getting Software](https://github.com/mikeroyal/Steam-Deck-Guide#getting-software)
      - [Other Linux Operating Systems for the Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#Other-Linux-Operating-Systems-for-the-Steam-Deck)
      - [Getting Windows 10 or 11 on the Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#Getting-Windows-10-or-11-on-the-Steam-Deck)
+     - [Improving Battery Life](https://github.com/mikeroyal/Steam-Deck-Guide#improving-battery-life)
 
 2. [Gaming](https://github.com/mikeroyal/Steam-Deck-Guide#gaming)
 
@@ -150,6 +151,10 @@ Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
   - [Developing for Steam Deck without a Dev-Kit](https://partner.steamgames.com/doc/steamdeck/testing)
 
   - [Steam Deck Developer Kits](https://partner.steamgames.com/doc/steamdeck/devkits)
+  
+  - [SteamOS Devkit Service on GitLab](https://gitlab.steamos.cloud/devkit/steamos-devkit-service)
+
+  - [SteamOS Devkit Client on GitLab](https://gitlab.steamos.cloud/devkit/steamos-devkit)
 
   - [Steam Deck and Proton](https://partner.steamgames.com/doc/steamdeck/proton)
 
@@ -321,6 +326,15 @@ Pop!_OS Desktop
   Windows 10 Desktop
 </h3>
 
+## Improving Battery Life
+[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+
+[![Steam Deck - How To Get The Best Battery Life In Games! | The Phawx YouTube](https://img.youtube.com/watch?v=zB6tkjuXX8A-Y/0.jpg)](https://www.youtube.com/watch?v=zB6tkjuXX8A-Y "Steam Deck - How To Get The Best Battery Life In Games!")
+
+[auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) is an automatic CPU speed & power optimizer for Linux based on active monitoring of laptop's battery state, CPU usage, CPU temperature and system load. Ultimately allowing you to improve battery life without making any compromises. [![auto-cpufreq - tool demo (Automatic CPU speed & power optimizer for Linux) | YouTube](https://img.youtube.com/watch?v=QkYRpVEEIlg-Y/0.jpg)](https://www.youtube.com/watch?v=QkYRpVEEIlg-Y "auto-cpufreq - tool demo (Automatic CPU speed & power optimizer for Linux)")
+
+[Power-Control-Panel](https://github.com/project-sbc/Power-Control-Panel) is a software tool that allows easy change of TDP on **windows handheld devices(including Steam Deck)**. Features include: -configurable profiles with charger vs battery values -xinput TDP change capability (hold LB RB and a dpad direction) -assign an exe to a profile to auto start when exe opens -auto startup at logon to system tray -touch friendly interface, keyboard (mostly) not required. [![Power Control App | Project-SBC YouTube](https://img.https://www.youtube.com/watch?v=PcSV1tto2OM-Y/0.jpg)](https://www.youtube.com/watch?v=PcSV1tto2OM-Y "Power Control App")
+
 # Gaming
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
@@ -400,7 +414,7 @@ Pop!_OS Desktop
 ## Epic Games Store
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
-[Heroic](https://heroicgameslauncher.com/) is an Open Source Game Launcher for Linux, Windows and MacOS (for both Native and Windows Games using Crossover). It supports launching games from the Epic Games Store using Legendary, a CLI alternative to the Epic Games Launcher. 
+[Heroic](https://heroicgameslauncher.com/) is an Open Source Game Launcher for Linux, Windows and MacOS (for both Native and Windows Games using Crossover). It supports launching games from the Epic Games Store using Legendary, a CLI alternative to the Epic Games Launcher. [Flatpak for Heroic Games Launcher](https://flathub.org/apps/details/com.heroicgameslauncher.hgl)
 
 [Epic Games Store](https://www.epicgames.com/store/) is a digital video game storefront for Microsoft Windows and macOS, operated by Epic Games.
 
