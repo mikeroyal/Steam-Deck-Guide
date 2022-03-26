@@ -522,18 +522,18 @@ Pop!_OS Desktop
 
 **Also checkout these subreddits for more great Game Emulators recommendations**
   
-    - [r/emulation](https://www.reddit.com/r/emulation/)
-    - [r/emulations](https://www.reddit.com/r/emulators/)
-    - [r/RetroArch](https://www.reddit.com/r/RetroArch/)
-    - [r/RetroPie](https://www.reddit.com/r/RetroPie/)
-    - [r/DolphinEmulator](https://www.reddit.com/r/DolphinEmulator/)
-    - [r/Citra](https://www.reddit.com/r/Citra/)
-    - [r/cemu](https://www.reddit.com/r/cemu/)
-    - [r/yuzu](https://www.reddit.com/r/yuzu/)
-    - [r/OpenEmu](https://www.reddit.com/r/OpenEmu/)
-    - [r/MAME](https://www.reddit.com/r/MAME/)
-    - [r/EmuDev](https://www.reddit.com/r/EmuDev/)
-    - [r/Roms](https://www.reddit.com/r/Roms/)
+   - [r/emulation](https://www.reddit.com/r/emulation/)
+   - [r/emulations](https://www.reddit.com/r/emulators/)
+   - [r/RetroArch](https://www.reddit.com/r/RetroArch/)
+   - [r/RetroPie](https://www.reddit.com/r/RetroPie/)
+   - [r/DolphinEmulator](https://www.reddit.com/r/DolphinEmulator/)
+   - [r/Citra](https://www.reddit.com/r/Citra/)
+   - [r/cemu](https://www.reddit.com/r/cemu/)
+   - [r/yuzu](https://www.reddit.com/r/yuzu/)
+   - [r/OpenEmu](https://www.reddit.com/r/OpenEmu/)
+   - [r/MAME](https://www.reddit.com/r/MAME/)
+   - [r/EmuDev](https://www.reddit.com/r/EmuDev/)
+   - [r/Roms](https://www.reddit.com/r/Roms/)
 
 # Game Development
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
