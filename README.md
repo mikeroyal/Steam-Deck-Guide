@@ -12,7 +12,7 @@
 
 #### A guide covering Steam Deck including the applications and tools that will make you a better and more efficient with your Steam Deck  device.
 
-**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf) or the handy online tool [AnyConv](https://anyconv.com/md-to-pdf-converter/).**
 
 **Note 2: This guide will constantly be updated with new info as becomes available and please feel to make an [issue](https://github.com/mikeroyal/Steam-Deck-Guide/issues) if you think something should be added.**
 
@@ -27,6 +27,7 @@
      - [Other Linux Operating Systems for the Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#Other-Linux-Operating-Systems-for-the-Steam-Deck)
      - [Getting Windows 10 or 11 on the Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#Getting-Windows-10-or-11-on-the-Steam-Deck)
      - [Improving Battery Life](https://github.com/mikeroyal/Steam-Deck-Guide#improving-battery-life)
+     - [Tools to Copy/Transfer files to your Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#tools-to-copytransfer-files-your-steam-deck)
 
 2. [Gaming](https://github.com/mikeroyal/Steam-Deck-Guide#gaming)
 
@@ -343,6 +344,20 @@ Pop!_OS Desktop
         - Touch friendly interface, keyboard (mostly) not required. 
         
  [![Power Control App | Project-SBC YouTube](https://img.https://www.youtube.com/watch?v=PcSV1tto2OM-Y/0.jpg)](https://www.youtube.com/watch?v=PcSV1tto2OM-Y "Power Control App")
+ 
+ ## Tools to Copy/Transfer files to your Steam Deck
+ [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+
+[Warpinator](https://github.com/linuxmint/warpinator) is a free, open-source tool for sending and receiving files between computers that are on the same network. [Warpinator Flatpak](https://flathub.org/apps/details/org.x.Warpinator)
+
+[FileZilla Client](https://filezilla-project.org/) is a fast and reliable cross-platform FTP, FTPS and SFTP client with lots of useful features and an intuitive graphical user interface. [FileZilla Flatpak](https://flathub.org/apps/details/org.filezillaproject.Filezilla)
+
+[Dragit](https://github.com/sireliah/dragit) is an application for intuitive file sharing between devices. It's useful for when you want to send file from one computer to another with minimal effort. Dragit automatically detects devices in the local network with help of mDNS protocol and allows you to send file immediately. [Dragit Flatpak](https://flathub.org/apps/details/com.sireliah.Dragit)
+
+[WinFsp](https://github.com/winfsp/winfsp) is a set of software components for Windows computers that allows the creation of user mode file systems. In this sense it is similar to FUSE (Filesystem in Userspace), which provides the same functionality on UNIX-like computers.
+
+[SSHFS-Win](https://github.com/winfsp/sshfs-win) is a minimal port of SSHFS to Windows. Looking under the hood it uses Cygwin for the POSIX environment and WinFsp for the FUSE (Filesystem in Userspace) functionality.
+
 
 # Gaming
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
