@@ -27,7 +27,7 @@
      - [Other Linux Operating Systems for the Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#Other-Linux-Operating-Systems-for-the-Steam-Deck)
      - [Getting Windows 10 or 11 on the Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#Getting-Windows-10-or-11-on-the-Steam-Deck)
      - [Improving Battery Life](https://github.com/mikeroyal/Steam-Deck-Guide#improving-battery-life)
-     - [Tools to Copy/Transfer files to your Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#tools-to-copytransfer-files-your-steam-deck)
+     - [Tools to Copy/Transfer files to your Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#tools-to-copytransfer-files-to-your-steam-deck)
      - [Running Android Apps on your Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#running-android-apps-on-your-steam-deck)
 
 2. [Gaming](https://github.com/mikeroyal/Steam-Deck-Guide#gaming)
@@ -514,13 +514,26 @@ Pop!_OS Desktop
 
 [RPCS3](https://rpcs3.net/) is an experimental open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows and Linux. RPCS3 started development in May of 2011 by its founders DH and Hykem. The emulator is currently capable of running over 1800 commercial titles powered by Vulkan and OpenGL. [RPCS3 Flatpak](https://flathub.org/apps/details/net.rpcs3.RPCS3)
 
-[PCXS4](https://ps4emulator.org/) is a PlayStation 4 emulator for playing PS4 games.
-
 [MAME](https://www.mamedev.org/) is a Arcade Machine Emulator.
 
 [xemu](https://xemu.app/) is an original Xbox emulator.
 
 [Xenia](https://github.com/xenia-project/xenia) is an Xbox 360 Emulator.
+
+**Also checkout these subreddits for more great Game Emulators recommendations**
+  
+    - [r/emulation](https://www.reddit.com/r/emulation/)
+    - [r/emulations](https://www.reddit.com/r/emulators/)
+    - [r/RetroArch](https://www.reddit.com/r/RetroArch/)
+    - [r/RetroPie](https://www.reddit.com/r/RetroPie/)
+    - [r/DolphinEmulator](https://www.reddit.com/r/DolphinEmulator/)
+    - [r/Citra](https://www.reddit.com/r/Citra/)
+    - [r/cemu](https://www.reddit.com/r/cemu/)
+    - [r/yuzu](https://www.reddit.com/r/yuzu/)
+    - [r/OpenEmu](https://www.reddit.com/r/OpenEmu/)
+    - [r/MAME](https://www.reddit.com/r/MAME/)
+    - [r/EmuDev](https://www.reddit.com/r/EmuDev/)
+    - [r/Roms](https://www.reddit.com/r/Roms/)
 
 # Game Development
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
