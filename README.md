@@ -56,7 +56,7 @@
 # Getting Started with the Steam Deck
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
-[Steam Deck](https://www.steamdeck.com/) is a handheld gaming computer developed by [Valve Corporation](https://valvesoftware.com/) in cooperation with [Advanced Micro Devices (AMD)](https://www.amd.com/). It allows users to play their entire Steam game library but can be modified by the user to run other gaming storefronts or applications. The Steam Deck will start shipping February 2022.
+[Steam Deck](https://www.steamdeck.com/) is a handheld gaming computer developed by [Valve Corporation](https://valvesoftware.com/) in cooperation with [Advanced Micro Devices (AMD)](https://www.amd.com/). It allows users to play their entire Steam game library but can be modified by the user to run other gaming storefronts or applications. The Steam Deck started shipping in February 2022.
 
 [Steam Deck Teardown by Jeff Suovanen | iFixit](https://www.ifixit.com/News/57101/steam-deck-teardown)
 
@@ -110,7 +110,7 @@ Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
 ## Steam Deck Accessories
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
-[PROJECT Killswitch](https://dbrand.com/killswitch) is a custom protective case for the Steam Deck designed by [Dbrand](https://dbrand.com/).
+[PROJECT Killswitch](https://dbrand.com/killswitch) is a custom protective case for the Steam Deck designed by [dbrand](https://dbrand.com/).
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/155908502-f015431e-6abd-4e31-8ad1-2d43f5ba6850.png">
@@ -146,14 +146,14 @@ Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
 ## Steam Deck Development
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
-**Quick links to Development Resources**
+**Quick links to development resources**
 
   - [Getting your game ready for Steam Deck](https://partner.steamgames.com/doc/steamdeck/recommendations)
 
   - [Developing for Steam Deck without a Dev-Kit](https://partner.steamgames.com/doc/steamdeck/testing)
 
   - [Steam Deck Developer Kits](https://partner.steamgames.com/doc/steamdeck/devkits)
-  
+
   - [SteamOS Devkit Service on GitLab](https://gitlab.steamos.cloud/devkit/steamos-devkit-service)
 
   - [SteamOS Devkit Client on GitLab](https://gitlab.steamos.cloud/devkit/steamos-devkit)
