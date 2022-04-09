@@ -56,7 +56,7 @@
 # Getting Started with the Steam Deck
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
-[Steam Deck](https://www.steamdeck.com/) is a handheld gaming computer developed by [Valve Corporation](https://valvesoftware.com/) in cooperation with [Advanced Micro Devices (AMD)](https://www.amd.com/). It allows users to play their entire Steam game library but can be modified by the user to run other gaming storefronts or applications. The Steam Deck will start shipping February 2022.
+[Steam Deck](https://www.steamdeck.com/) is a handheld gaming computer developed by [Valve Corporation](https://valvesoftware.com/) in cooperation with [Advanced Micro Devices (AMD)](https://www.amd.com/). It allows users to play their entire Steam game library but can be modified by the user to run other gaming storefronts or applications. The Steam Deck started shipping in February 2022.
 
 [Steam Deck Teardown by Jeff Suovanen | iFixit](https://www.ifixit.com/News/57101/steam-deck-teardown)
 
@@ -78,7 +78,7 @@ Steam Deck device. Source: [Steam Deck](https://www.steamdeck.com/)
 <h3 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/157353163-6f5c4c1a-a89f-4ee5-9ffe-1d9f991c773c.png">
   <br />
-  SteamOS 3.0 with KDE Plasma Deskop
+  SteamOS 3.0 with KDE Plasma Desktop
 </h3>
 
 **Steam Deck Specs:**
@@ -110,7 +110,7 @@ Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
 ## Steam Deck Accessories
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
-[PROJECT Killswitch](https://dbrand.com/killswitch) is a custom protective case for the Steam Deck designed by [Dbrand](https://dbrand.com/).
+[PROJECT Killswitch](https://dbrand.com/killswitch) is a custom protective case for the Steam Deck designed by [dbrand](https://dbrand.com/).
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/155908502-f015431e-6abd-4e31-8ad1-2d43f5ba6850.png">
@@ -146,7 +146,7 @@ Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
 ## Steam Deck Development
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
-**Quick links to Development Resources**
+**Quick Links to Development Resources**
 
   - [Getting your game ready for Steam Deck](https://partner.steamgames.com/doc/steamdeck/recommendations)
 
@@ -269,12 +269,12 @@ To complete setup, restart your system.
   EndeavourOS Desktop
 </h3>
 
-**[Gauruda Linux](https://garudalinux.org/)**
+**[Garuda Linux](https://garudalinux.org/)**
 
 <h3 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/127042105-f6a6d97e-77bd-402e-af4f-df7af588eb08.png">
   <br />
- Gauruda Linux Desktop
+ Garuda Linux Desktop
 </h3>
 
 **[ArcoLinux](https://arcolinux.com/)**
@@ -412,7 +412,7 @@ Pop!_OS Desktop
 ## Lutris
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
-[Lutris](https://lutris.net) is a gaming client for Linux. It gives you access to all your video games with the exception of the current console generation. Also, integrates nicely with other stores like GOG, Steam, Battle.net, Origin, Uplay and many other sources that allow you to import your existing game library and community maintained install scripts give you a completely automated setup.
+[Lutris](https://lutris.net) is a gaming client for Linux. It gives you access to all your video games with the exception of the current console generation. Also, integrates nicely with other stores like GOG, Steam, Battle.net, Origin, Ubisoft Connect and many other sources that allow you to import your existing game library and community maintained install scripts give you a completely automated setup.
 
 [Add Epic Games Store](https://lutris.net/games/epic-games-store/)
 
@@ -447,7 +447,7 @@ Pop!_OS Desktop
 ## Epic Games Store
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
-[Heroic](https://heroicgameslauncher.com/) is an Open Source Game Launcher for Linux, Windows and MacOS (for both Native and Windows Games using Crossover). It supports launching games from the Epic Games Store using Legendary, a CLI alternative to the Epic Games Launcher. [Flatpak for Heroic Games Launcher](https://flathub.org/apps/details/com.heroicgameslauncher.hgl)
+[Heroic](https://heroicgameslauncher.com/) is an Open Source Game Launcher for Linux, Windows and macOS (for both Native and Windows Games using Crossover). It supports launching games from the Epic Games Store using Legendary, a CLI alternative to the Epic Games Launcher. [Flatpak for Heroic Games Launcher](https://flathub.org/apps/details/com.heroicgameslauncher.hgl)
 
 [Epic Games Store](https://www.epicgames.com/store/) is a digital video game storefront for Microsoft Windows and macOS, operated by Epic Games.
 
@@ -468,7 +468,7 @@ Pop!_OS Desktop
 
 [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) is a Free and Open Source Software Client for PlayStation 4 and PlayStation 5 Remote Play for Linux, FreeBSD, OpenBSD, Android, macOS, Windows, Nintendo Switch and potentially even more platforms. [Chiaki Flatpak](https://flathub.org/apps/details/re.chiaki.Chiaki)
 
-[Xbox Project xCloud](https://www.xbox.com/en-US/xbox-game-streaming/project-xcloud) is Microsoft's cloud-based Xbox game-streaming technology **(currently in Beta)**. **Play games like Forza Horizon 4, Halo 5: Guardians, Gears of War 4, Sea of Thieves, Cuphead, Red Dead Redemption 2, and 100+ other games on your mobile device or Chrome web browser**. Microsoft's Xbox Project xCloud does require an [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass/cloud-gaming) subscription.
+[Xbox Cloud Gaming](https://www.xbox.com/en-US/xbox-game-pass/cloud-gaming) is Microsoft's cloud-based Xbox game-streaming technology **(currently in Beta)**. **Play games like Forza Horizon 4, Halo 5: Guardians, Gears of War 4, Sea of Thieves, Cuphead, Red Dead Redemption 2, and 100+ other games on your mobile device or Chrome web browser**. Xbox Cloud Gaming does require an [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass/cloud-gaming) subscription.
 
 <img src="https://user-images.githubusercontent.com/45159366/108111388-74d56e00-7049-11eb-8aeb-3e5d65f9e832.png">
 
@@ -487,7 +487,7 @@ Pop!_OS Desktop
 ## Game Emulators
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
-[EmuDeck](https://www.emudeck.com/) is a tool that takes care of everything for your retrogaming needs from RetroArch Configuration, Bezels, Gamepad Configuration for Gamecube, Wii, Citra, SNES, etc. EmuDeck will even install EmulationStation Desktop Edition and carry over all their custom configurations and no need to configure path roms or anything. 
+[EmuDeck](https://www.emudeck.com/) is a tool that takes care of everything for your retrogaming needs from RetroArch Configuration, Bezels, Gamepad Configuration for GameCube, Wii, Citra, SNES, etc. EmuDeck will even install EmulationStation Desktop Edition and carry over all their custom configurations and no need to configure ROM paths or anything. 
 
 [RetroPie](https://retropie.org.uk/) is a frontend for emulators that allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine. It builds upon Raspbian, [EmulationStation](https://github.com/Aloshi/EmulationStation), RetroArch and many other projects to enable you to play your favourite Arcade, home-console, and classic PC games with the minimum set-up.
 
@@ -516,11 +516,11 @@ Pop!_OS Desktop
 
 [DOSBox](https://www.dosbox.com/) is an open-source DOS emulator which primarily focuses on running DOS Games.
 
-[DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging) is a full x86 CPU emulator (independent of host architecture), capable of running DOS programs that require real or protected mode.[DOSBox Staging Flatpak](https://flathub.org/apps/details/io.github.dosbox-staging)
+[DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging) is a full x86 CPU emulator (independent of host architecture), capable of running DOS programs that require real or protected mode. [DOSBox Staging Flatpak](https://flathub.org/apps/details/io.github.dosbox-staging)
 
 [Flycast](https://github.com/flyinghead/flycast) is a multi-platform Sega Dreamcast, Naomi and Atomiswave emulator derived from reicast. [Flycast Flatpak](https://flathub.org/apps/details/org.flycast.Flycast)
 
-[PCSX2](https://pcsx2.net/) is a Playstation 2 'emulator', a free program that tries to replicate the Playstation 2 console to enable you to play PS2 games on your PC. [PCSX2 Flatpak](https://flathub.org/apps/details/net.pcsx2.PCSX2)
+[PCSX2](https://pcsx2.net/) is a PlayStation 2 'emulator', a free program that tries to replicate the PlayStation 2 console to enable you to play PS2 games on your PC. [PCSX2 Flatpak](https://flathub.org/apps/details/net.pcsx2.PCSX2)
 
 [RPCS3](https://rpcs3.net/) is an experimental open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows and Linux. RPCS3 started development in May of 2011 by its founders DH and Hykem. The emulator is currently capable of running over 1800 commercial titles powered by Vulkan and OpenGL. [RPCS3 Flatpak](https://flathub.org/apps/details/net.rpcs3.RPCS3)
 
@@ -649,7 +649,7 @@ Pop!_OS Desktop
 
 [DirectX 12 Ultimate](https://github.com/Microsoft/DirectX-Graphics-Samples) is an API(for high performance 2D & 3D graphics) from Microsoft. DirectX 12 Ultimate brings support for ray tracing, mesh shaders, variable rate shading, and sampler feedback. Available in Windows 2004 version(May 2020 Update).
 
-[Vulkan](https://www.khronos.org/vulkan/) is a modern cross-platform graphics and compute API that provides high-efficiency, cross-platform access to modern GPUs used in a wide variety of devices from PCs and consoles to mobile phones and embedded platforms. Vulkan is currently in development by the Khronos consortium.
+[Vulkan](https://www.khronos.org/vulkan/) is a modern cross-platform graphics and compute API that provides high-efficiency, cross-platform access to modern GPUs used in a wide variety of devices from PCs and consoles to mobile phones and embedded platforms. Vulkan is currently in development by the Khronos Group consortium.
 
 [Mesa 3D Graphics Library](https://docs.mesa3d.org/index.html) is a project began as an open-source implementation of the OpenGL specification. A system for rendering interactive 3D graphics. Mesa ties into several other open-source projects: the [Direct Rendering Infrastructure](https://dri.freedesktop.org/), [X.org](https://x.org/), and [Wayland](https://wayland.freedesktop.org/) to provide OpenGL support on Linux, FreeBSD, and other operating systems.
 
@@ -721,7 +721,7 @@ Pop!_OS Desktop
 
 [SPIRV-Reflect](https://github.com/KhronosGroup/SPIRV-Reflect) is a lightweight library that provides a C/C++ reflection API for SPIR-V shader bytecode in Vulkan applications.
 
-[Vulkan® Tools](https://github.com/KhronosGroup/Vulkan-Tools) is a project that provides Khronos official Vulkan Tools and Utilities for Windows, Linux, Android, and macOS.
+[Vulkan® Tools](https://github.com/KhronosGroup/Vulkan-Tools) is a project that provides Khronos Group's official Vulkan Tools and Utilities for Windows, Linux, Android, and macOS.
 
 [Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) is a API that provides a header only C++ bindings for the Vulkan C API to improve the developers Vulkan experience without introducing CPU runtime cost. It adds features like type safety for enums and bitfields, STL container support, exceptions and simple enumerations.
 
@@ -837,7 +837,7 @@ Pop!_OS Desktop
 
 ## OpenGL Learning Resources
 
-[Open Graphics Library(OpenGL)™](https://www.opengl.org/) is an API used acrossed mulitple  programming languages and platforms for hardware-accelerated rendering of 2D/3D vector graphics currently developed by the [Khronos Group](https://www.khronos.org/).
+[Open Graphics Library(OpenGL)™](https://www.opengl.org/) is an API used across multiple  programming languages and platforms for hardware-accelerated rendering of 2D/3D vector graphics currently developed by the [Khronos Group](https://www.khronos.org/).
 
 [OpenGL ES™](https://www.khronos.org/opengles/) is the mobile subset of OpenGL for Embedded Systems(ES). It's supported on all major mobile platforms, and is also the base for WebGL.
 
@@ -893,7 +893,7 @@ Pop!_OS Desktop
 
 [EGL](https://www.khronos.org/egl/) is an interface between Khronos rendering APIs such as OpenGL or OpenVG and the underlying native platform window system.
 
-[Equalizer](https://www.opengl.org/sdk/libs/Equalizer/) is an open source programming interface and resource management system for scalable OpenGL applications. An Equalizer application can be deployed on any visualization system, from a singlepipe workstation to large scale graphics clusters.
+[Equalizer](https://www.opengl.org/sdk/libs/Equalizer/) is an open source programming interface and resource management system for scalable OpenGL applications. An Equalizer application can be deployed on any visualization system, from a single-pipe workstation to large scale graphics clusters.
 
 [GLee](https://www.opengl.org/sdk/libs/GLee/) is a free cross-platform extension loading library that takes the burden off your application. GLee makes it easy to check for OpenGL extension and core version availability, automatically setting up the entry points with no effort on your part.
 
@@ -919,7 +919,7 @@ Pop!_OS Desktop
 
 ## Wayland Learning Resources
 
-[Wayland](https://wayland.freedesktop.org) is a protocol for a compositor to talk to its clients as well as a C library implementation of that protocol. The compositor can be a standalone display server running on Linux kernel modesetting and evdev input devices, an [X application](https://www.x.org/wiki/XServer/), or a wayland client itself.
+[Wayland](https://wayland.freedesktop.org) is a protocol for a compositor to talk to its clients as well as a C library implementation of that protocol. The compositor can be a standalone display server running on Linux kernel modesetting and evdev input devices, an [X application](https://www.x.org/wiki/XServer/), or a Wayland client itself.
 
 [Wayland Architecture](https://wayland.freedesktop.org/architecture.html)
 
@@ -989,7 +989,7 @@ Pop!_OS Desktop
 
 [x11docker](https://github.com/mviereck/x11docker) is an application that you allows to run graphical desktop applications (and entire desktops) in Docker Linux containers.
 
-[Mako](https://github.com/emersion/mako) is alightweight notification daemon for Wayland. It also works on [Sway](https://swaywm.org/).
+[Mako](https://github.com/emersion/mako) is a lightweight notification daemon for Wayland. It also works on [Sway](https://swaywm.org/).
 
 [Wayland-rs](https://github.com/Smithay/wayland-rs) is a Rust implementation of the wayland protocol (client and server).
 
@@ -1039,7 +1039,7 @@ How WirePlumber, the PipeWire session manager works. Source: [Collabora](https:/
 
 ## Audio Tools
 
-[PipeWire](https://pipewire.org) is a server and user space API to deal with multimedia pipelines.It provides a low-latency, graph based processing engine on top of audio and video devices that can be used to support the use cases currently handled by both pulseaudio and JACK. PipeWire was designed with a powerful security model that makes interacting with audio and video devices from containerized applications easy. Nodes in the graph can be implemented as separate processes, communicating with sockets and exchanging multimedia content using fd passing.
+[PipeWire](https://pipewire.org) is a server and user space API to deal with multimedia pipelines. It provides a low-latency, graph based processing engine on top of audio and video devices that can be used to support the use cases currently handled by both pulseaudio and JACK. PipeWire was designed with a powerful security model that makes interacting with audio and video devices from containerized applications easy. Nodes in the graph can be implemented as separate processes, communicating with sockets and exchanging multimedia content using fd passing.
 
 [WirePlumber](https://pipewire.pages.freedesktop.org/wireplumber/) is a modular session / policy manager for [PipeWire](https://pipewire.org/) and a GObject-based high-level library that wraps PipeWire’s API, providing convenience for writing the daemon’s modules as well as external tools for managing PipeWire. The WirePlumber daemon implements the session & policy management service. It follows a modular design, having plugins that implement the actual management functionality.
 
