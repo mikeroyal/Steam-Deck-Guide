@@ -101,7 +101,7 @@ Storage Options:
 
 Removable Storage: **microSD** supports up to 2TB of additional storage for games.
 
-Display: 7-inch, 1280 × 800 LCD, native 720p @ 60Hz.
+Display: 7-inch, 1280 × 800 LCD, native 800p @ 60Hz.
 
 Docked: Up to 8K @ 60Hz or 4K @ 120Hz.
 
@@ -123,6 +123,15 @@ Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
 <br />
  Back
 </p>
+
+[NexDock](https://nexdock.com/features/) is an accessory with a HDMI-in port and Type-C cable NexDock that turns the Steam Deck into a fully functional computer.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/163284895-74fdfeaa-54df-4d7c-8e79-6117ca40b794.jpg">
+<br />
+</p>
+
+**NexDock 2-in-1. Source: [NexDock](https://nexdock.com/features/)**
 
 [Glass Sceen Protector for Steam Deck](https://www.amazon.com/Tempered-Protector-Compatible-Installation-Manufacturer/dp/B09L9F65JG)
 
@@ -253,6 +262,15 @@ To complete setup, restart your system.
 ## Other Linux Operating Systems for the Steam Deck.
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
+[WinesapOS](https://github.com/LukeShortCloud/winesapOS) is a project developed by [LukeShortCloud](https://github.com/LukeShortCloud) that provides an easy to setup installation of Linux. It can be used on a flash drive, SD card, HDD, SSD, NVMe, or any other storage device. The [release images](https://github.com/LukeShortCloud/winesapOS/releases) are based on SteamOS 3 and the KDE Plasma desktop environment to align with what Valve's [Steam Deck](https://store.steampowered.com/steamdeck/) uses.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/163284898-ca65b1ac-8ebc-4adc-b5aa-bd6b5195295e.jpg">
+  <br />
+</p>
+
+WineapOS Desktop. Credit: [LukeShortCloud](https://github.com/LukeShortCloud)
+
  **[Manjaro Linux](https://manjaro.org/)**
 
  <h3 align="center">
@@ -356,8 +374,10 @@ Emulation Station Front End
         
  [![Power Control App | Project-SBC YouTube](https://img.https://www.youtube.com/watch?v=PcSV1tto2OM-Y/0.jpg)](https://www.youtube.com/watch?v=PcSV1tto2OM-Y "Power Control App")
  
- ## Tools to Copy/Transfer files to your Steam Deck
+## Tools to Copy/Transfer files to your Steam Deck
  [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+ 
+[KDE Connect](https://kdeconnect.kde.org/) is a tool that lets you easily link up your phone to your computer, your computer to your tablet; or your computer to your Steam Deck device. It can be used to share files across devices, read and send SMS directly from your laptop, and lock up your computer remotely.
 
 [Warpinator](https://github.com/linuxmint/warpinator) is a free, open-source tool for sending and receiving files between computers that are on the same network. [Warpinator Flatpak](https://flathub.org/apps/details/org.x.Warpinator)
 
@@ -496,6 +516,8 @@ Emulation Station Front End
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
 [EmuDeck](https://www.emudeck.com/) is a tool that takes care of everything for your retrogaming needs from RetroArch Configuration, Bezels, Gamepad Configuration for GameCube, Wii, Citra, SNES, etc. EmuDeck will even install EmulationStation Desktop Edition and carry over all their custom configurations and no need to configure ROM paths or anything. 
+
+[EmulationStation Desktop Edition (ES-DE)](https://www.es-de.org/) is a frontend application for browsing and launching games from your multi-platform game collection. It's  available for Unix/Linux, macOS(M1 & Intel) and Windows.
 
 [RetroPie](https://retropie.org.uk/) is a frontend for emulators that allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine. It builds upon Raspbian, [EmulationStation](https://github.com/Aloshi/EmulationStation), RetroArch and many other projects to enable you to play your favourite Arcade, home-console, and classic PC games with the minimum set-up.
 
