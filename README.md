@@ -309,6 +309,14 @@ Fedora Desktop
 Pop!_OS Desktop
 </h3>
 
+**[Batocera](https://batocera.org/)**
+
+<h3 align="center">
+ <img src="https://user-images.githubusercontent.com/4238928/163190916-d39124bb-c67e-42e4-a97c-dac78684c452.png">
+  <br />
+Emulation Station Front End
+</h3>
+
 ## Getting Windows 10 or 11 on the Steam Deck
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
