@@ -218,7 +218,6 @@ Steam Library Compatibility Badges for Games. Source: [Steam Deck](https://www.s
    
    - [Steam Deck Unsupported Games List](https://steamdb.info/instantsearch/?refinementList%5Boslist%5D%5B0%5D=Steam%20Deck%20Unsupported)
 
-   - [ProtonDB Anti-Cheat list for Games](https://www.protondb.com/explore?selectedFilters=antiCheat)
 
 ## Getting Software
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
@@ -239,28 +238,19 @@ Steam Library Compatibility Badges for Games. Source: [Steam Deck](https://www.s
  Flathub App Store
 </p>
 
-### Install Flatpak/Flathub on your system
-
-**Open your terminal app AKA Konsole and type:**
-
-   1.```sudo pacman -Syu```
-
-   2.```sudo pacman -S flatpak```
-
-   3.```flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo```
-
-To complete setup, restart your system. 
-
-**To activate the Flathub repository in Discover, just follow the instructions below:**
-
- - Open Discover and click on Settings (lower left corner).
-
- - Check that in the Flatpak section the box is checked. 
-
 **Note:** Flathub app search will be integrated in Discover, if you want to limit the app search to Flathub you can mark Flatpak as default by clicking on the star.
 
 ## Other Linux Operating Systems for the Steam Deck.
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+
+[HoloISO](https://github.com/theVakhovskeIsTaken/holoiso) is a SteamOS 3 (Holo) archiso configuration. It aims to bring the Steam Deck's Holo OS into a generic, installable format, and provide a close-to-official SteamOS experience.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/167318762-c54fffa2-9ed4-4695-9d7d-4d03eb5ba49d.png">
+  <br />
+</p>
+
+HoloISO Desktop. Credit: [theVakhovskeIsTaken](https://github.com/theVakhovskeIsTaken/)
 
 [WinesapOS](https://github.com/LukeShortCloud/winesapOS) is a project developed by [LukeShortCloud](https://github.com/LukeShortCloud) that provides an easy to setup installation of Linux. It can be used on a flash drive, SD card, HDD, SSD, NVMe, or any other storage device. The [release images](https://github.com/LukeShortCloud/winesapOS/releases) are based on SteamOS 3 and the KDE Plasma desktop environment to align with what Valve's [Steam Deck](https://store.steampowered.com/steamdeck/) uses.
 
@@ -430,6 +420,8 @@ Emulation Station Front End
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
 [ProtonDB](https://www.protondb.com) is a collection of over 100,000 gaming reports from other gamers as they test games with Proton on Linux and provide aggregate scores of how well games perform. A growing pool of suggestions provides tweaks that you can try to get games working while Proton continues development. In addition to this, you may explore the Steam game catalog on this site to browse and discover a wide range of titles that were previously unavailable for use on Linux.
+
+ - [ProtonDB Anti-Cheat list for Games](https://www.protondb.com/explore?selectedFilters=antiCheat)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/108773213-dcd8f800-7512-11eb-8775-19b0c8924d55.png">
@@ -1007,7 +999,7 @@ Emulation Station Front End
 
 [XWayland](https://wayland.freedesktop.org/xserver.html) is an X Server running as a Wayland client(for backwards compatibility), allowing the [Xorg server](https://www.x.org/wiki/XServer/) can be modified to use wayland input devices for input and forward either the root window or individual top-level windows as wayland surfaces.
 
-[KWayland](https://github.com/KDE/kwayland-server) is a Qt-style API to interact with the wayland-client and wayland-server API.
+[KWin](https://community.kde.org/KWin/Wayland) is the window manager for the KDE Plasma Desktop. It gives you complete control over your windows, making sure they're not in the way but aid you in your task. It paints the window decoration, the bar on top of every window with (configurable) buttons like close, maximize and minimize.
 
 [Qt](https://www.qt.io/) is the faster, smarter way to create innovative devices, modern UIs & applications for multiple screens. It is one of the most popular toolkits for the Wayland and X11 windowing.
 
