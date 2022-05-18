@@ -29,6 +29,7 @@
      - [Improving Battery Life](https://github.com/mikeroyal/Steam-Deck-Guide#improving-battery-life)
      - [Tools to Copy/Transfer files to your Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#tools-to-copytransfer-files-to-your-steam-deck)
      - [Running Android Apps on your Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#running-android-apps-on-your-steam-deck)
+     - [Steam Deck PowerTools](https://github.com/mikeroyal/Steam-Deck-Guide#steam-deck-powertools)
 
 2. [Gaming](https://github.com/mikeroyal/Steam-Deck-Guide#gaming)
 
@@ -388,6 +389,22 @@ Emulation Station Front End
 
 [Anbox](https://github.com/anbox) is a container-based software for running a full Android system on Linux distributions. Make sure to checkout the [Anbox Arch wiki page](https://wiki.archlinux.org/title/Anbox).
 
+## Steam Deck Power Tools
+[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+
+[Steam Deck PowerTools](https://github.com/NGnius/PowerTools) is a tool that provides system tweaks for power users.
+
+   - Enable & disable CPU threads & SMT
+   - Set CPU max frequency and toggle boost
+   - Set some GPU power parameters (fastPPT & slowPPT)
+   - Set the fan RPM (unsupported on SteamOS beta)
+   - Display supplementary battery info
+   - Keep settings between restarts (stored in ~/.config/powertools.json)
+  
+  <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/168942613-685cf180-3b1d-4a29-ba10-f5bdfbcfdfb6.png">
+ </p>
+
 # Gaming
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
@@ -409,12 +426,7 @@ Emulation Station Front End
 
 [Proton](https://github.com/ValveSoftware/Proton/) is a tool for use with the Steam client which allows games which are exclusive to Windows to run on the Linux operating system. It uses Wine to facilitate this.
 
-### Enable Proton in Steam
-
- - Click on “Steam” then “Settings” to open the Settings window at the far-left corner.
- - On the “Settings” window, click on “Steam Play.” Ensure you check the “Enable Steam Play for supported files” and “Enable Steam Play for   all other titles” checkboxes. Lastly, select the Proton version you wish to use from the drop-down menu.
-
- <img src="https://user-images.githubusercontent.com/45159366/106686402-13100100-657f-11eb-9012-6bdac264a808.png">
+[ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) is a tool to install and manage [Proton-GE](https://github.com/GloriousEggroll/proton-ge-custom) and [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) for Steam and [Wine-GE](https://github.com/GloriousEggroll/wine-ge-custom) for Lutris with this graphical user interface. Based on AUNaseef's [ProtonUp](https://github.com/AUNaseef/protonup), made with Python 3 and Qt 6.
 
 ## ProtonDB
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
