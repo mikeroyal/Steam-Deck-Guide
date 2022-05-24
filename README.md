@@ -29,7 +29,7 @@
      - [Improving Battery Life](https://github.com/mikeroyal/Steam-Deck-Guide#improving-battery-life)
      - [Tools to Copy/Transfer files to your Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#tools-to-copytransfer-files-to-your-steam-deck)
      - [Running Android Apps on your Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#running-android-apps-on-your-steam-deck)
-     - [Steam Deck PowerTools](https://github.com/mikeroyal/Steam-Deck-Guide#steam-deck-powertools)
+     - [Steam Deck Power Tools](https://github.com/mikeroyal/Steam-Deck-Guide#steam-deck-power-tools)
 
 2. [Gaming](https://github.com/mikeroyal/Steam-Deck-Guide#gaming)
 
