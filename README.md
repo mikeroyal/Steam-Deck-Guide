@@ -352,11 +352,11 @@ Emulation Station Front End
 ## Improving Battery Life
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
-[![Steam Deck - How To Get The Best Battery Life In Games! | The Phawx YouTube](https://img.youtube.com/watch?v=zB6tkjuXX8A-Y/0.jpg)](https://www.youtube.com/watch?v=zB6tkjuXX8A-Y "Steam Deck - How To Get The Best Battery Life In Games!")
+[Steam Deck - How To Get The Best Battery Life In Games! | The Phawx YouTube](https://www.youtube.com/watch?v=zB6tkjuXX8A-Y)
 
 [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) is an automatic CPU speed & power optimizer for Linux based on active monitoring of laptop's battery state, CPU usage, CPU temperature and system load. Ultimately allowing you to improve battery life without making any compromises. 
    
-   - [![auto-cpufreq - tool demo (Automatic CPU speed & power optimizer for Linux) | YouTube](https://img.youtube.com/watch?v=QkYRpVEEIlg-Y/0.jpg)](https://www.youtube.com/watch?v=QkYRpVEEIlg-Y "auto-cpufreq - tool demo (Automatic CPU speed & power optimizer for Linux)")
+   - [auto-cpufreq - tool demo (Automatic CPU speed & power optimizer for Linux) | YouTube](https://www.youtube.com/watch?v=QkYRpVEEIlg-Y)
 
 [Power-Control-Panel](https://github.com/project-sbc/Power-Control-Panel) is a software tool that allows easy change of TDP on **windows handheld devices(including Steam Deck)**. Features include: 
 
@@ -365,7 +365,7 @@ Emulation Station Front End
         - Auto startup at logon to system tray 
         - Touch friendly interface, keyboard (mostly) not required. 
         
- [![Power Control App | Project-SBC YouTube](https://img.https://www.youtube.com/watch?v=PcSV1tto2OM-Y/0.jpg)](https://www.youtube.com/watch?v=PcSV1tto2OM-Y "Power Control App")
+ [Power Control App | Project-SBC YouTube](https://www.youtube.com/watch?v=PcSV1tto2OM-Y)
  
 ## Tools to Copy/Transfer files to your Steam Deck
  [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
