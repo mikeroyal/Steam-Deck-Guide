@@ -360,10 +360,10 @@ Emulation Station Front End
 
 [Power-Control-Panel](https://github.com/project-sbc/Power-Control-Panel) is a software tool that allows easy change of TDP on **windows handheld devices(including Steam Deck)**. Features include: 
 
-        - Configurable profiles with charger vs battery values -xinput TDP change capability (hold LB, RB, and a dpad direction) 
-        - Assign an exe to a profile to auto start when exe opens 
-        - Auto startup at logon to system tray 
-        - Touch friendly interface, keyboard (mostly) not required. 
+  - Configurable profiles with charger vs battery values -xinput TDP change capability (hold LB, RB, and a dpad direction) 
+  - Assign an exe to a profile to auto start when exe opens 
+  - Auto startup at logon to system tray 
+  - Touch friendly interface, keyboard (mostly) not required. 
         
  [Power Control App | Project-SBC YouTube](https://www.youtube.com/watch?v=PcSV1tto2OM-Y)
  
