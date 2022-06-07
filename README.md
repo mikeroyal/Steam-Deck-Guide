@@ -554,6 +554,23 @@ Emulation Station Front End
 
 [RetroArch](https://www.retroarch.com/) is a frontend for emulators, game engines and media players. It enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all. [RetroArch Flatpak](https://flathub.org/apps/details/org.libretro.RetroArch)
 
+[Cartridge](https://github.com/unclebacon-live/cartridge) is a self-hosted game library made with Laravel + Vue.js.
+
+**Cartridge Features**
+
+   - Scan for ROM files and match with IGDB game information
+   - Serve ROM download links alongside game details
+   - Manage access to library with user creation and permissions (WIP)
+   - Allow users to request games (Planned)
+   - Play select ROMs in-browser using JS emulators (Planned)
+   - Track played and favorite games (even ones that aren't available for download) (Planned)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/172274231-d691a850-1879-44fb-8fa0-08e549d7bb29.png">
+<br />
+ Cartridge UI
+</p>
+
 [Dolphin](https://dolphin-emu.org) is an emulator for two recent Nintendo video game consoles: the GameCube and the Wii. It allows PC gamers to enjoy games for these two consoles in full HD (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, networked multiplayer, and even more. [Dolphin Flatpak](https://flathub.org/apps/details/org.DolphinEmu.dolphin-emu)
 
 [Citra](https://citra-emu.org/) is an open-source emulator for the Nintendo 3DS capable of playing many of your favorite games. [Citra Flatpak](https://flathub.org/apps/details/org.citra_emu.citra)
