@@ -30,6 +30,7 @@
      - [Tools to Copy/Transfer files to your Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#tools-to-copytransfer-files-to-your-steam-deck)
      - [Running Android Apps on your Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#running-android-apps-on-your-steam-deck)
      - [Steam Deck Power Tools](https://github.com/mikeroyal/Steam-Deck-Guide#steam-deck-power-tools)
+     - [Adding Btrfs on Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#btrfs-on-steam-deck)
 
 2. [Gaming](https://github.com/mikeroyal/Steam-Deck-Guide#gaming)
 
@@ -405,6 +406,17 @@ Emulation Station Front End
   
   <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/168942613-685cf180-3b1d-4a29-ba10-f5bdfbcfdfb6.png">
+ </p>
+ 
+ ## Btrfs on Steam Deck
+ [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+ 
+ **Warning: This project is still experimental and buggy so this is only recommended for advanced users!**
+ 
+ [Btrfdeck](https://github.com/Trevo525/btrfdeck) is a project that will help get you from using ext4 on your Steam Deck's microSD card, to [Btrfs](https://btrfs.wiki.kernel.org/). 
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/172273657-f184233d-56d8-429b-9a63-d8a2b8e7412b.png">
  </p>
 
 # Gaming
