@@ -30,6 +30,7 @@
      - [Tools to Copy/Transfer files to your Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#tools-to-copytransfer-files-to-your-steam-deck)
      - [Running Android Apps on your Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#running-android-apps-on-your-steam-deck)
      - [Steam Deck Power Tools](https://github.com/mikeroyal/Steam-Deck-Guide#steam-deck-power-tools)
+     - [Steam Tinker Launch](https://github.com/mikeroyal/Steam-Deck-Guide#steam-tinker-launch)
      - [Adding Btrfs on Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#btrfs-on-steam-deck)
      - [Plugin Loader for Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#plugin-loader)
 
@@ -407,6 +408,16 @@ Emulation Station Front End
   
   <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/168942613-685cf180-3b1d-4a29-ba10-f5bdfbcfdfb6.png">
+ </p>
+ 
+ ## Steam Tinker Launch
+ 
+ [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+ 
+ [Steam Tinker Launch](https://github.com/frostworx/steamtinkerlaunch) is a Linux wrapper tool for use with the Steam client which allows customizing and start tools and options for games quickly on the fly.
+ 
+  <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/176962906-5d388e16-955e-4936-a676-c591d0937acd.png">
  </p>
  
  ## Btrfs on Steam Deck
