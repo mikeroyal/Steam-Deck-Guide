@@ -31,6 +31,7 @@
      - [Running Android Apps on your Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#running-android-apps-on-your-steam-deck)
      - [Steam Deck Power Tools](https://github.com/mikeroyal/Steam-Deck-Guide#steam-deck-power-tools)
      - [Adding Btrfs on Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#btrfs-on-steam-deck)
+     - [Plugin Loader for Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#plugin-loader)
 
 2. [Gaming](https://github.com/mikeroyal/Steam-Deck-Guide#gaming)
 
@@ -418,7 +419,24 @@ Emulation Station Front End
  <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/172273657-f184233d-56d8-429b-9a63-d8a2b8e7412b.png">
  </p>
+ 
+ ## Plugin Loader
+ [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+ 
+[Plugin Loader](https://github.com/SteamDeckHomebrew/PluginLoader) is a plugin loader tool for the Steam Deck.
 
+**Features:**
+
+  - Clean injecting and loading of one or more plugins.
+  - Persistent, meaning it doesn't need to be reinstalled after every system update.
+  - Allows 2-way communication between the plugins and the loader.
+  - Allows plugins to define python functions and run them from javascript.
+  - Allows plugins to make fetch calls, bypassing cors completely.
+ 
+  <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/176962910-9bf09ad0-1ab2-4524-bd50-7420afec2c4a.png">
+ </p>
+ 
 # Gaming
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
