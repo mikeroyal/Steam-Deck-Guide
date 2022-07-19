@@ -246,6 +246,9 @@ Steam Library Compatibility Badges for Games. Source: [Steam Deck](https://www.s
 
 **Note:** Flathub app search will be integrated in Discover, if you want to limit the app search to Flathub you can mark Flatpak as default by clicking on the star.
 
+[Flatseal](https://github.com/tchx84/flatseal) is a graphical utility to review and modify permissions from your [Flatpak](https://flatpak.org/) applications. [Get it on Flathub store](https://flathub.org/apps/details/com.github.tchx84.Flatseal).
+
+
 ## Other Linux Operating Systems for the Steam Deck.
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
@@ -257,6 +260,13 @@ Steam Library Compatibility Badges for Games. Source: [Steam Deck](https://www.s
 </p>
 
 HoloISO Desktop. Credit: [theVakhovskeIsTaken](https://github.com/theVakhovskeIsTaken/)
+
+[Nobara Project](https://gitlab.com/GloriousEggroll/nobara-images) is an unofficial Fedora Linux Spin that's tailored for Gaming. It adds the necessary packages/tools (such as [Lutris](https://lutris.net/) and [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/)), and fixes issues to make Fedora awesome for gaming. This project is developed and maintained by [Thomas Crider AKA Glorious Eggroll](https://gitlab.com/GloriousEggroll).
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/179671757-008ac6ef-ee95-43e9-b6eb-2f9bb928f91b.png">
+  <br />
+</p>
 
 [WinesapOS](https://github.com/LukeShortCloud/winesapOS) is a project developed by [LukeShortCloud](https://github.com/LukeShortCloud) that provides an easy to setup installation of Linux. It can be used on a flash drive, SD card, HDD, SSD, NVMe, or any other storage device. The [release images](https://github.com/LukeShortCloud/winesapOS/releases) are based on SteamOS 3 and the KDE Plasma desktop environment to align with what Valve's [Steam Deck](https://store.steampowered.com/steamdeck/) uses.
 
