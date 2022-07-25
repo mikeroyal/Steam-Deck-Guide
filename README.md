@@ -31,6 +31,7 @@
      - [Running Android Apps on your Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#running-android-apps-on-your-steam-deck)
      - [Steam Deck Power Tools](https://github.com/mikeroyal/Steam-Deck-Guide#steam-deck-power-tools)
      - [Steam Tinker Launch](https://github.com/mikeroyal/Steam-Deck-Guide#steam-tinker-launch)
+     - [RetroDECK](https://github.com/mikeroyal/Steam-Deck-Guide#RetroDECK)
      - [Adding Btrfs on Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#btrfs-on-steam-deck)
      - [Plugin Loader for Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#plugin-loader)
 
@@ -428,6 +429,16 @@ Emulation Station Front End
  
   <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/176962906-5d388e16-955e-4936-a676-c591d0937acd.png">
+ </p>
+ 
+ ## RetroDECK
+ 
+ [Back to the Top](#table-of-contents)
+ 
+[RetroDECK](https://retrodeck.net/) is a tool that brings an environment to catalog and play your retro games directly from SteamOS and it's tailored specifically for the Steam Deck. It's powered by EmulationStation Desktop Edition, which uses RetroArch and other standalone emulators to allow you to import and play your favorite retro (and even non-retro) games in a tidy environment without flooding your Steam library.
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/180627466-718dd292-cad0-48bb-93d0-e071a9e42194.png">
  </p>
  
  ## Btrfs on Steam Deck
