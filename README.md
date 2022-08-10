@@ -66,6 +66,8 @@
 
 [Steam Deck Teardown by Jeff Suovanen | iFixit](https://www.ifixit.com/News/57101/steam-deck-teardown)
 
+[Unlock Steam Deck tutorial | Chris Titus Tech](https://christitus.com/unlock-steam-deck/)
+
 [Steam Deck Hardware Review by Linus Tech Tips](https://www.youtube.com/watch?v=HjZ4POvk14c)
 
 [Steam Deck Unboxing Experience by Linus Tech Tips](https://www.youtube.com/watch?v=_UB9XoPlJ0U)
