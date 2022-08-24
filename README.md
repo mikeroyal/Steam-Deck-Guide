@@ -132,6 +132,14 @@ Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
  Back
 </p>
 
+[JSAUX Steam Deck Docking Station](https://www.jsaux.com/products/steam-deck-docking-station) is a 6-in-1 Docking Station for Steam Deck. Equipped with an HDMI 4K@60Hz output, a Gigabit LAN Ethernet input, a USB-C port for charging, and three USB-A 3.0 ports, letting you explore a new way to play with Steam Deck. It supports 100W(Maximum) power delivery, which is enough power to charge your Steam Deck at full speed (45W) when paired with the original charger.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/186289763-9eca1e86-ed13-4cd4-a1ce-c4e433442d78.png">
+<br />
+JSAUX Steam Deck Docking Station
+</p>
+
 [NexDock](https://nexdock.com/features/) is an accessory with a HDMI-in port and Type-C cable NexDock that turns the Steam Deck into a fully functional computer.
 
 <p align="center">
