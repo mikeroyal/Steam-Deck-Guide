@@ -35,6 +35,7 @@
      - [RetroDECK](https://github.com/mikeroyal/Steam-Deck-Guide#RetroDECK)
      - [Adding Btrfs on Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#btrfs-on-steam-deck)
      - [Plugin Loader for Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#plugin-loader)
+     - [Installing Unreal Engine 5 on your Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#-installing-unreal-engine-on-linux)
 
 2. [Gaming](https://github.com/mikeroyal/Steam-Deck-Guide#gaming)
 
@@ -485,6 +486,42 @@ Emulation Station Front End
   <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/176962910-9bf09ad0-1ab2-4524-bd50-7420afec2c4a.png">
  </p>
+ 
+## Installing Unreal Engine on Linux
+
+[Back to the Top](#table-of-contents)
+
+The easiest way to install Unreal Engine 5 on your Linux system is using the Epic Asset Manager that's availble on [FlatHub](https://flathub.org/) as a [Flatpak](https://flatpak.org). If you don't have Flatpak installed on your Linux system follow these [simple instructions to get started](https://flatpak.org/setup/).
+
+[Epic Asset Manager](https://flathub.org/apps/details/io.github.achetagames.epic_asset_manager) is an unofficial client to install [Unreal Engine](https://www.unrealengine.com/), download and manage purchased assets, projects, plugins and games from the [Epic Games Store](https://www.unrealengine.com/marketplace?lang=en-US).
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/180886562-ef6aa63d-8117-4719-9af1-e25108042c2c.png">
+<br />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/180886564-3ebc8ecb-e2c0-4e53-9f45-f986bd24a89d.png">
+<br />
+</p>
+
+**Quick links to Development Resources**
+
+ - [Sign-up for Epic Games Acount](https://www.epicgames.com/account/password)
+ 
+ - [Sign-up for Epic Games GitHub](https://github.com/EpicGames/Signup)
+ 
+ - [Unreal Engine 5 Linux Binary Download](https://www.unrealengine.com/en-US/linux)
+ 
+ - [Linux Development Requirements for Unreal Engine](https://docs.unrealengine.com/5.0/en-US/linux-development-requirements-for-unreal-engine/)
+ 
+ - [Unreal Engine Performance and Profiling](https://docs.unrealengine.com/5.0/en-US/TestingAndOptimization/PerformanceAndProfiling/)
+ 
+ - [Unreal Engine Blueprint API Reference](https://docs.unrealengine.com/5.0/en-US/BlueprintAPI/index.html)
+
+ - [Unreal Engine C++ API Reference](https://docs.unrealengine.com/5.0/en-US/API/index.html)
+
+ - [Unreal Engine Python API Reference](https://docs.unrealengine.com/5.0/en-US/PythonAPI/index.html)
  
 # Gaming
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
