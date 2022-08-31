@@ -65,6 +65,8 @@
 
 [Steam Deck](https://www.steamdeck.com/) is a handheld gaming computer developed by [Valve Corporation](https://valvesoftware.com/) in cooperation with [Advanced Micro Devices (AMD)](https://www.amd.com/). It allows users to play their entire Steam game library but can be modified by the user to run other gaming storefronts or applications. The Steam Deck started shipping in February 2022.
 
+[Steam Deck Booklet](https://store.steampowered.com/news/app/1675200/view/3401926123919972634)
+
 [Steam Deck Teardown by Jeff Suovanen | iFixit](https://www.ifixit.com/News/57101/steam-deck-teardown)
 
 [Unlock Steam Deck tutorial | Chris Titus Tech](https://christitus.com/unlock-steam-deck/)
