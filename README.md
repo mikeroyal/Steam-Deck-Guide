@@ -150,6 +150,22 @@ JSAUX Steam Deck Docking Station
 
 **NexDock 2-in-1. Source: [NexDock](https://nexdock.com/features/)**
 
+[Xbox Wireless Controller + USB-C® Cable](https://www.xbox.com/en-us/accessories/controllers/xbox-wireless-controller-usb-c)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/187094245-3c406751-4e4b-42fd-bd2c-a72181722fad.png">
+<br />
+Xbox Controller
+</p>
+
+[PlayStation 5 DualSense™ Wireless Controller](https://www.playstation.com/en-us/accessories/dualsense-wireless-controller/)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/187094347-109c80cd-5cc3-4a97-8a8f-0181687ab0d4.png">
+<br />
+PS 5  DualSense™ Controller
+</p>
+
 [Glass Sceen Protector for Steam Deck](https://www.amazon.com/Tempered-Protector-Compatible-Installation-Manufacturer/dp/B09L9F65JG)
 
 [M.2 2230 SSDs on Amazon](https://www.amazon.com/m-2-2230-ssd/s?k=m.2+2230+ssd)
