@@ -65,17 +65,21 @@
 
 [Steam Deck](https://www.steamdeck.com/) is a handheld gaming computer developed by [Valve Corporation](https://valvesoftware.com/) in cooperation with [Advanced Micro Devices (AMD)](https://www.amd.com/). It allows users to play their entire Steam game library but can be modified by the user to run other gaming storefronts or applications. The Steam Deck started shipping in February 2022.
 
-[Steam Deck Booklet](https://store.steampowered.com/news/app/1675200/view/3401926123919972634)
+* [Steam Deck Booklet](https://store.steampowered.com/news/app/1675200/view/3401926123919972634)
 
-[Steam Deck Teardown by Jeff Suovanen | iFixit](https://www.ifixit.com/News/57101/steam-deck-teardown)
+* [Top Steam Deck Tips and Tricks Part 1 | GamingOnLinux](https://www.gamingonlinux.com/2022/08/top-quick-steam-deck-tips-and-tricks/)
+ 
+* [Steam Deck Tips and Tricks Part 2 | GamingOnLinux](https://www.gamingonlinux.com/2022/08/steam-deck-tips-and-tricks-part-2/)
 
-[Unlock Steam Deck tutorial | Chris Titus Tech](https://christitus.com/unlock-steam-deck/)
+* [Steam Deck Teardown by Jeff Suovanen | iFixit](https://www.ifixit.com/News/57101/steam-deck-teardown)
 
-[Steam Deck Hardware Review by Linus Tech Tips](https://www.youtube.com/watch?v=HjZ4POvk14c)
+* [Unlock Steam Deck tutorial | Chris Titus Tech](https://christitus.com/unlock-steam-deck/)
 
-[Steam Deck Unboxing Experience by Linus Tech Tips](https://www.youtube.com/watch?v=_UB9XoPlJ0U)
+* [Steam Deck Hardware Review by Linus Tech Tips](https://www.youtube.com/watch?v=HjZ4POvk14c)
 
-[Steam Deck Tear Down by Linus Tech Tips](https://www.youtube.com/watch?v=ZK43RAc90ZA)
+* [Steam Deck Unboxing Experience by Linus Tech Tips](https://www.youtube.com/watch?v=_UB9XoPlJ0U)
+
+* [Steam Deck Tear Down by Linus Tech Tips](https://www.youtube.com/watch?v=ZK43RAc90ZA)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/142779563-30ada576-1bf4-42fb-8ad5-3fa3a6e40103.png">
