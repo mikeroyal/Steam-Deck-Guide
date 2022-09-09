@@ -232,6 +232,12 @@ PS 5  DualSense™ Controller
 
 [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) is a Steam Play compatibility tool to run games using native Linux engines.
 
+[SteamGridDB](https://www.steamgriddb.com/projects) is a huge database where you can download and share custom video game assets and personalize your gaming library.
+
+[SGDBoop](https://www.steamgriddb.com/boop) is a tool that automatically applies assets from SteamGridDB directly to your Steam library with a click of a button, removing the need to download and set them manually. [Available as a Flatpak](https://flathub.org/apps/details/com.steamgriddb.SGDBoop)
+
+[Crankshaft](https://crankshaft.space/) is a Steam client plugin manager and framework. It lets you install and create plugins to add more functionality to your Steam client. [Available as a Flatpak](https://flathub.org/apps/details/space.crankshaft.Crankshaft)
+
 [Deck Verified](https://www.steamdeck.com/en/verified) is a program that reviews games in Steam's catalog verifying their compatibility with the Steam Deck. So when you visit your Library on Steam Deck, you’ll find a compatibility badge on each title, reflecting the kind of experience you can expect when playing each game on Steam Deck.
 
 <p align="center">
