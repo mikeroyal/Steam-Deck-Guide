@@ -43,7 +43,7 @@
      - [ProtonDB](https://github.com/mikeroyal/Steam-Deck-Guide#protondb)
      - [Lutris](https://github.com/mikeroyal/Steam-Deck-Guide#lutris)
         * [Epic Games Store integration](https://github.com/mikeroyal/Steam-Deck-Guide#Epic-Games-Store-integration)
-        * [Blizzard Battle.net integration](https://github.com/mikeroyal/Steam-Deck-Guide#Blizzard-Battlenet-integration)
+        * [Blizzard Battle.net integration](https://github.com/mikeroyal/Steam-Deck-Guide#blizzard-battlenet-intgeration)
         * [EA Play integration](https://github.com/mikeroyal/Steam-Deck-Guide#EA-Play-integration)
         * [Origin integration](https://github.com/mikeroyal/Steam-Deck-Guide#Origin-integration)
         * [Ubisoft Connect integration](https://github.com/mikeroyal/Steam-Deck-Guide#Ubisoft-Connect-integration)
