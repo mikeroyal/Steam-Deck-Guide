@@ -521,7 +521,7 @@ Emulation Station Front End
  ## Plugin Loader
  [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
  
-[Plugin Loader](https://github.com/SteamDeckHomebrew/PluginLoader) is a plugin loader tool for the Steam Deck.
+[Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) is a plugin loader tool for the Steam Deck.
 
 **Features:**
 
