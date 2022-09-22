@@ -525,7 +525,7 @@ Emulation Station Front End
   - Allows plugins to define python functions and run them from javascript.
   - Allows plugins to make fetch calls, bypassing cors completely.
 
-A list of avaible plugins for this loader can be found in [this store](https://plugins.deckbrew.xyz/).
+A list of available plugins for Decky Loader can be found in [this store](https://plugins.deckbrew.xyz/).
  
   <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/176962910-9bf09ad0-1ab2-4524-bd50-7420afec2c4a.png">
