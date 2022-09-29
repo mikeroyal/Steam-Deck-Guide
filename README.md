@@ -510,9 +510,7 @@ Emulation Station Front End
  ## Btrfs on Steam Deck
  [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
  
- **Warning: This project is still experimental and buggy so this is only recommended for advanced users!**
- 
- [Btrfdeck](https://github.com/Trevo525/btrfdeck) is a project that will help get you from using ext4 on your Steam Deck's microSD card, to [Btrfs](https://btrfs.wiki.kernel.org/). 
+ [SteamOS Btrfs](https://gitlab.com/popsulfr/steamos-btrfs/) is a project that will help get you from using ext4 on your Steam Deck's microSD card or home directory, to [Btrfs](https://btrfs.wiki.kernel.org/). 
  
  <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/172273657-f184233d-56d8-429b-9a63-d8a2b8e7412b.png">
