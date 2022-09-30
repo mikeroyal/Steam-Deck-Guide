@@ -242,8 +242,6 @@ PS 5  DualSense™ Controller
 
 [SGDBoop](https://www.steamgriddb.com/boop) is a tool that automatically applies assets from SteamGridDB directly to your Steam library with a click of a button, removing the need to download and set them manually. [Available as a Flatpak](https://flathub.org/apps/details/com.steamgriddb.SGDBoop)
 
-[Crankshaft](https://crankshaft.space/) is a Steam client plugin manager and framework. It lets you install and create plugins to add more functionality to your Steam client. [Available as a Flatpak](https://flathub.org/apps/details/space.crankshaft.Crankshaft)
-
 [Deck Verified](https://www.steamdeck.com/en/verified) is a program that reviews games in Steam's catalog verifying their compatibility with the Steam Deck. So when you visit your Library on Steam Deck, you’ll find a compatibility badge on each title, reflecting the kind of experience you can expect when playing each game on Steam Deck.
 
 <p align="center">
@@ -531,10 +529,17 @@ Emulation Station Front End
 
 A list of available plugins for Decky Loader can be found in [this store](https://plugins.deckbrew.xyz/).
  
-  <p align="center">
+ <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/176962910-9bf09ad0-1ab2-4524-bd50-7420afec2c4a.png">
  </p>
  
+[Crankshaft](https://crankshaft.space/) is a Steam client plugin manager and framework. It lets you install and create plugins to add more functionality to your Steam client. [Available as a Flatpak](https://flathub.org/apps/details/space.crankshaft.Crankshaft)
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/2069735/193312550-4c3c5c0d-11ef-4eef-bf19-32e522398fd0.png">
+ </p>
+
+
 ## Installing Unreal Engine on Linux
 
 [Back to the Top](#table-of-contents)
