@@ -30,11 +30,13 @@
      - [Tools to Copy/Transfer files to your Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#tools-to-copytransfer-files-to-your-steam-deck)
      - [Running Android Apps on your Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#running-android-apps-on-your-steam-deck)
      - [Running Bottles on your Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#running-bottles-on-your-steam-deck)
-     - [Steam Deck Power Tools](https://github.com/mikeroyal/Steam-Deck-Guide#steam-deck-power-tools)
      - [Steam Tinker Launch](https://github.com/mikeroyal/Steam-Deck-Guide#steam-tinker-launch)
      - [RetroDECK](https://github.com/mikeroyal/Steam-Deck-Guide#RetroDECK)
      - [Adding Btrfs on Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#btrfs-on-steam-deck)
-     - [Plugin Loader for Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#plugin-loader)
+     - [Plugin Loaders for Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#plugin-loaders)
+        * [Decky Loader](https://github.com/mikeroyal/Steam-Deck-Guide#plugin-loaders#decky-loader)
+          * [Steam Deck Power Tools](https://github.com/mikeroyal/Steam-Deck-Guide#steam-deck-power-tools)
+        * [Crankshaft](https://github.com/mikeroyal/Steam-Deck-Guide#plugin-loaders#crankshaft)
      - [Installing Unreal Engine 5 on your Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#installing-unreal-engine-on-linux)
 
 2. [Gaming](https://github.com/mikeroyal/Steam-Deck-Guide#gaming)
@@ -468,22 +470,6 @@ Emulation Station Front End
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/182049940-ccba08e7-b05d-4991-b36f-1e2596c390da.png">
  </p>
-
-## Steam Deck Power Tools
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
-
-[Steam Deck PowerTools](https://github.com/NGnius/PowerTools) is a tool that provides system tweaks for power users.
-
-   - Enable & disable CPU threads & SMT
-   - Set CPU max frequency and toggle boost
-   - Set some GPU power parameters (fastPPT & slowPPT)
-   - Set the fan RPM (unsupported on SteamOS beta)
-   - Display supplementary battery info
-   - Keep settings between restarts (stored in ~/.config/powertools.json)
-  
-  <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/168942613-685cf180-3b1d-4a29-ba10-f5bdfbcfdfb6.png">
- </p>
  
  ## Steam Tinker Launch
  
@@ -514,9 +500,11 @@ Emulation Station Front End
  <img src="https://user-images.githubusercontent.com/45159366/172273657-f184233d-56d8-429b-9a63-d8a2b8e7412b.png">
  </p>
  
- ## Plugin Loader
+ ## Plugin Loaders
  [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
- 
+
+ ### Decky Loader
+
 [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) is a plugin loader tool for the Steam Deck.
 
 **Features:**
@@ -532,13 +520,29 @@ A list of available plugins for Decky Loader can be found in [this store](https:
  <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/176962910-9bf09ad0-1ab2-4524-bd50-7420afec2c4a.png">
  </p>
- 
+
+ #### Steam Deck Power Tools
+[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+
+[Steam Deck PowerTools](https://github.com/NGnius/PowerTools) is a plugin for Decky that provides system tweaks for power users.
+
+   - Enable & disable CPU threads & SMT
+   - Set CPU max frequency and toggle boost
+   - Set some GPU power parameters (fastPPT & slowPPT)
+   - Set the fan RPM (unsupported on SteamOS beta)
+   - Display supplementary battery info
+   - Keep settings between restarts (stored in ~/.config/powertools.json)
+  
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/168942613-685cf180-3b1d-4a29-ba10-f5bdfbcfdfb6.png">
+ </p>
+
+ ### Crankshaft
 [Crankshaft](https://crankshaft.space/) is a Steam client plugin manager and framework. It lets you install and create plugins to add more functionality to your Steam client. [Available as a Flatpak](https://flathub.org/apps/details/space.crankshaft.Crankshaft)
 
  <p align="center">
  <img src="https://user-images.githubusercontent.com/2069735/193312550-4c3c5c0d-11ef-4eef-bf19-32e522398fd0.png">
  </p>
-
 
 ## Installing Unreal Engine on Linux
 
