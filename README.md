@@ -163,6 +163,13 @@ Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
  JSAUX Protective Case
 </p>
 
+[Spigen Steam Deck Case](https://www.spigen.com/collections/steam-deck/products/steam-deck-case-rugged-armor?variant=41139474923567) is a case for the Steam Deck made by Spigen. It features a hard plastic element on the back which some individuals have used for modding.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88871218/193434798-16e3bc45-d5ca-4ba4-b4b9-c886ed395966.png">
+<br />
+ Spigen Case
+</p>
 
 [JSAUX Steam Deck Docking Station](https://www.jsaux.com/products/steam-deck-docking-station) is a 6-in-1 Docking Station for Steam Deck. Equipped with an HDMI 4K@60Hz output, a Gigabit LAN Ethernet input, a USB-C port for charging, and three USB-A 3.0 ports, letting you explore a new way to play with Steam Deck. It supports 100W(Maximum) power delivery, which is enough power to charge your Steam Deck at full speed (45W) when paired with the original charger.
 
