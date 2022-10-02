@@ -171,12 +171,20 @@ Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
  Custom skins cut template
 </p>
 
-[JSAUX Steam Deck Docking Station](https://www.jsaux.com/products/steam-deck-docking-station) is a 6-in-1 Docking Station for Steam Deck. Equipped with an HDMI 4K@60Hz output, a Gigabit LAN Ethernet input, a USB-C port for charging, and three USB-A 3.0 ports, letting you explore a new way to play with Steam Deck. It supports 100W(Maximum) power delivery, which is enough power to charge your Steam Deck at full speed (45W) when paired with the original charger.
+[JSAUX Steam Deck Docking Station](https://www.jsaux.com/products/upgraded-docking-station-for-steam-deck) is a 6-in-1 Docking Station for Steam Deck. Equipped with an HDMI 4K@60Hz output, a Gigabit LAN Ethernet input, a USB-C port for charging, and three USB-A 3.0 ports, letting you explore a new way to play with Steam Deck. It supports 100W(Maximum) power delivery, which is enough power to charge your Steam Deck at full speed (45W) when paired with the original charger.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/186289763-9eca1e86-ed13-4cd4-a1ce-c4e433442d78.png">
 <br />
 JSAUX Steam Deck Docking Station
+</p>
+
+[JSAUX Steam Deck Docking Station With M.2](https://www.jsaux.com/products/m-2-docking-station-for-steam-deck-hb0604) is a 6-in-1 Docking Station for Steam Deck. Equipped with an HDMI 4K@60Hz output, a Gigabit LAN Ethernet input, a USB-C port for charging, two USB-A 3.0 ports, and a full size M.2 slot. It supports 100W(Maximum) power delivery, which is enough power to charge your Steam Deck at full speed (45W) when paired with the original charger. The M.2 slot supports 2230, 2242, 2260, or 2280 M.2 drives with M or M&B key at up to 900MB/s. The drive is automatically mounted when attached to the dock using a script provided by JSAUX.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88871218/193434546-dac68ed0-02d5-44d2-a1cf-7244d0792f74.png">
+<br />
+JSAUX Steam Deck Docking Station M.2
 </p>
 
 [NexDock](https://nexdock.com/features/) is an accessory with a HDMI-in port and Type-C cable NexDock that turns the Steam Deck into a fully functional computer.
@@ -220,7 +228,7 @@ PS 5  DualSense™ Controller
 
 [Anker PowerCore Battery Bank](https://www.amazon.com/Anker-Portable-PowerCore-Essential-Compatible/dp/B08LG2X98F)
 
-[Anker USB C Hub](https://www.anker.com/products/114/142/usb-c-hubs)
+[Anker USB C Hub](https://www.anker.com/collections/hubs)
 
 
 ## Steam Deck Development
@@ -418,6 +426,32 @@ Emulation Station Front End
 **[Steam Deck Windows Resources](https://help.steampowered.com/en/faqs/view/6121-ECCD-D643-BAA8)**
 
 **[Recovery instructions](https://help.steampowered.com/en/faqs/view/1B71-EDF2-EB6D-2BB3) for getting back to the default Steam Deck OS.**
+
+**Creating a Windows 10/11 Bootable flash drive**
+
+[Rufus](https://rufus.ie/) is a utility that helps format and create bootable USB flash drives.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158471950-74640216-66ed-407b-a615-e643284ba0b8.png">
+  <br />
+  Rufus
+</p>
+
+**In Rufus 3.19:**
+
+Add a new selection dialog for Windows 11 setup customization:
+
+  * Secure Boot and TPM bypass have now been moved to this dialog.
+  * Allows to bypass the mandatory requirement for a Microsoft account on Windows 11 22H2.
+    **(Note: Network must be temporarily disabled for the local account creation to be proposed).**
+  * Added an option to skip all collection questions (Sets all answers to “Don’t allow”).
+  * Added an option for setting internal drives offline for Windows To Go.
+  
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/183272077-015b8bb2-af94-443a-a455-f2018fcbd52a.png">
+  <br />
+  Rufus 3.19 Windows 11 setup customization.
+</p>
 
 **[Windows 11](https://www.microsoft.com/en-us/software-download/windows11)**
 
