@@ -147,12 +147,20 @@ Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
  Back
 </p>
 
-[JSAUX Steam Deck Docking Station](https://www.jsaux.com/products/steam-deck-docking-station) is a 6-in-1 Docking Station for Steam Deck. Equipped with an HDMI 4K@60Hz output, a Gigabit LAN Ethernet input, a USB-C port for charging, and three USB-A 3.0 ports, letting you explore a new way to play with Steam Deck. It supports 100W(Maximum) power delivery, which is enough power to charge your Steam Deck at full speed (45W) when paired with the original charger.
+[JSAUX Steam Deck Docking Station](https://www.jsaux.com/products/upgraded-docking-station-for-steam-deck) is a 6-in-1 Docking Station for Steam Deck. Equipped with an HDMI 4K@60Hz output, a Gigabit LAN Ethernet input, a USB-C port for charging, and three USB-A 3.0 ports, letting you explore a new way to play with Steam Deck. It supports 100W(Maximum) power delivery, which is enough power to charge your Steam Deck at full speed (45W) when paired with the original charger.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/186289763-9eca1e86-ed13-4cd4-a1ce-c4e433442d78.png">
 <br />
 JSAUX Steam Deck Docking Station
+</p>
+
+[JSAUX Steam Deck Docking Station With M.2](https://www.jsaux.com/products/m-2-docking-station-for-steam-deck-hb0604) is a 6-in-1 Docking Station for Steam Deck. Equipped with an HDMI 4K@60Hz output, a Gigabit LAN Ethernet input, a USB-C port for charging, two USB-A 3.0 ports, and a full size M.2 slot. It supports 100W(Maximum) power delivery, which is enough power to charge your Steam Deck at full speed (45W) when paired with the original charger. The M.2 slot supports 2230, 2242, 2260, or 2280 M.2 drives with M or M&B key at up to 900MB/s. The drive is automatically mounted when attached to the dock using a script provided by JSAUX.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88871218/193434546-dac68ed0-02d5-44d2-a1cf-7244d0792f74.png">
+<br />
+JSAUX Steam Deck Docking Station M.2
 </p>
 
 [NexDock](https://nexdock.com/features/) is an accessory with a HDMI-in port and Type-C cable NexDock that turns the Steam Deck into a fully functional computer.
