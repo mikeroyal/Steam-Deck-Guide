@@ -147,6 +147,23 @@ Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
  Back
 </p>
 
+[JSAUX Protective Standing Case](https://www.jsaux.com/products/steam-deck-stand-protector) is a case for the Steam Deck made by JSAUX which features a kick stand.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88871218/193434666-38889d22-e17c-4183-9874-650dd4d41e92.png">
+<br />
+ JSAUX Protective Standing Case front and back view
+</p>
+
+[JSAUX Protective Case](https://www.jsaux.com/products/steam-deck-protective-case) is a case for the Steam Deck made by JSAUX.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88871218/193434692-46fad5ea-4f70-4c66-9f15-4b308f18d1df.png">
+<br />
+ JSAUX Protective Case
+</p>
+
+
 [JSAUX Steam Deck Docking Station](https://www.jsaux.com/products/steam-deck-docking-station) is a 6-in-1 Docking Station for Steam Deck. Equipped with an HDMI 4K@60Hz output, a Gigabit LAN Ethernet input, a USB-C port for charging, and three USB-A 3.0 ports, letting you explore a new way to play with Steam Deck. It supports 100W(Maximum) power delivery, which is enough power to charge your Steam Deck at full speed (45W) when paired with the original charger.
 
 <p align="center">
