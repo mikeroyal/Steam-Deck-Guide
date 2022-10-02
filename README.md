@@ -204,7 +204,7 @@ PS 5  DualSense™ Controller
 
 [Anker PowerCore Battery Bank](https://www.amazon.com/Anker-Portable-PowerCore-Essential-Compatible/dp/B08LG2X98F)
 
-[Anker USB C Hub](https://www.anker.com/products/114/142/usb-c-hubs)
+[Anker USB C Hub](https://www.anker.com/collections/hubs)
 
 
 ## Steam Deck Development
