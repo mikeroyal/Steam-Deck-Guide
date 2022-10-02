@@ -163,6 +163,14 @@ Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
  Xtremeskins skin
 </p>
 
+[Custom Skins](https://drive.google.com/file/d/1rQFoLlpMUKFEJcRIh80UvpmdVXZIsEZz/view) If you have access to the equipment it is possible to make your own skins from vinyl. This file provides the necessary cut template.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88871218/193435273-4f2c9363-6f03-4e91-b6aa-60628caffab6.png">
+<br />
+ Custom skins cut template
+</p>
+
 [JSAUX Steam Deck Docking Station](https://www.jsaux.com/products/steam-deck-docking-station) is a 6-in-1 Docking Station for Steam Deck. Equipped with an HDMI 4K@60Hz output, a Gigabit LAN Ethernet input, a USB-C port for charging, and three USB-A 3.0 ports, letting you explore a new way to play with Steam Deck. It supports 100W(Maximum) power delivery, which is enough power to charge your Steam Deck at full speed (45W) when paired with the original charger.
 
 <p align="center">
