@@ -395,10 +395,6 @@ Emulation Station Front End
 
 **[Recovery instructions](https://help.steampowered.com/en/faqs/view/1B71-EDF2-EB6D-2BB3) for getting back to the default Steam Deck OS.**
 
-**[Windows 11 ISO](https://www.microsoft.com/en-us/software-download/windows11)**
-
-**[Windows 10 ISO](https://support.microsoft.com/en-us/windows/create-an-iso-file-for-windows-10-38547366-1dcb-7afd-1726-9eb222d72705)
-
 **Creating a Windows 10/11 Bootable flash drive**
 
 [Rufus](https://rufus.ie/) is a utility that helps format and create bootable USB flash drives.
@@ -424,6 +420,8 @@ Add a new selection dialog for Windows 11 setup customization:
   <br />
   Rufus 3.19 Windows 11 setup customization.
 </p>
+
+**[Windows 11](https://www.microsoft.com/en-us/software-download/windows11)**
 
 <h3 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/124997795-20cf2400-e000-11eb-8954-4944286b8ea8.png">
