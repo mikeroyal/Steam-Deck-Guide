@@ -147,6 +147,30 @@ Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
  Back
 </p>
 
+[dbrand Skins](https://dbrand.com/shop/steam-deck-skins) Skins for the Steam Deck made by dbrand.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88871218/193435035-6b799061-f08d-4948-810f-59ca59a9be13.png">
+<br />
+ dbrand Skin
+</p>
+
+[Xtremeskins.co.uk Skins](https://www.xtremeskins.co.uk/products/steam-deck-skins) Skins for the Steam Deck made by Xtremeskins. Note that Xtremeskins is based in the UK. They ship globally, but it may take some time.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88871218/193435142-3012f99f-e3b3-4f9c-ba38-52c257058d7b.png">
+<br />
+ Xtremeskins skin
+</p>
+
+[Custom Skins](https://drive.google.com/file/d/1rQFoLlpMUKFEJcRIh80UvpmdVXZIsEZz/view) If you have access to the equipment it is possible to make your own skins from vinyl. This file provides the necessary cut template.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88871218/193435273-4f2c9363-6f03-4e91-b6aa-60628caffab6.png">
+<br />
+ Custom skins cut template
+</p>
+
 [JSAUX Protective Standing Case](https://www.jsaux.com/products/steam-deck-stand-protector) is a case for the Steam Deck made by JSAUX which features a kick stand.
 
 <p align="center">
