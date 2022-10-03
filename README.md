@@ -171,6 +171,30 @@ Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
  Custom skins cut template
 </p>
 
+[JSAUX Protective Standing Case](https://www.jsaux.com/products/steam-deck-stand-protector) is a case for the Steam Deck made by JSAUX which features a kick stand.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88871218/193434666-38889d22-e17c-4183-9874-650dd4d41e92.png">
+<br />
+ JSAUX Protective Standing Case front and back view
+</p>
+
+[JSAUX Protective Case](https://www.jsaux.com/products/steam-deck-protective-case) is a case for the Steam Deck made by JSAUX.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88871218/193434692-46fad5ea-4f70-4c66-9f15-4b308f18d1df.png">
+<br />
+ JSAUX Protective Case
+</p>
+
+[Spigen Steam Deck Case](https://www.spigen.com/collections/steam-deck/products/steam-deck-case-rugged-armor?variant=41139474923567) is a case for the Steam Deck made by Spigen. It features a hard plastic element on the back which some individuals have used for modding.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88871218/193434798-16e3bc45-d5ca-4ba4-b4b9-c886ed395966.png">
+<br />
+ Spigen Case
+</p>
+
 [JSAUX Steam Deck Docking Station](https://www.jsaux.com/products/upgraded-docking-station-for-steam-deck) is a 6-in-1 Docking Station for Steam Deck. Equipped with an HDMI 4K@60Hz output, a Gigabit LAN Ethernet input, a USB-C port for charging, and three USB-A 3.0 ports, letting you explore a new way to play with Steam Deck. It supports 100W(Maximum) power delivery, which is enough power to charge your Steam Deck at full speed (45W) when paired with the original charger.
 
 <p align="center">
