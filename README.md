@@ -420,7 +420,7 @@ ArcoLinux Desktop
 ArchTitus Desktop
 </h3>
 
-**[Fedora 35](https://getfedora.org/)**
+**[Fedora Linux](https://getfedora.org/)**
 
 <h3 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/142779592-8b70c81e-ac10-4bb3-91b5-efe25fa9afb4.png">
