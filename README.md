@@ -455,11 +455,16 @@ Emulation Station Front End
 ## Getting Windows 10 or 11 on the Steam Deck
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
-**[Steam Deck Windows Resources](https://help.steampowered.com/en/faqs/view/6121-ECCD-D643-BAA8)**
+ **Useful YouTube videos:**
 
-**[Recovery instructions](https://help.steampowered.com/en/faqs/view/1B71-EDF2-EB6D-2BB3) for getting back to the default Steam Deck OS.**
+ * [Steam Deck Windows Install to a microSD | Wagner's TechTalk | YouTube](https://www.youtube.com/watch?v=pnpZboy_VQE)
+ * [Windows On The Steam Deck: Benchmarks, Gaming, 4K | ETAPrime | YouTube](https://www.youtube.com/watch?v=vkqIjr4Ni6E)
 
-**Creating a Windows 10/11 Bootable flash drive**
+ **[Steam Deck Windows Resources](https://help.steampowered.com/en/faqs/view/6121-ECCD-D643-BAA8)**
+
+ **[Recovery instructions](https://help.steampowered.com/en/faqs/view/1B71-EDF2-EB6D-2BB3) for getting back to the default Steam Deck OS.**
+
+**Creating a Windows 10/11 Bootable Device (MicroSD or USB)**
 
 [Rufus](https://rufus.ie/) is a utility that helps format and create bootable USB flash drives.
 
