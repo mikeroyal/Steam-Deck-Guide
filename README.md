@@ -133,6 +133,23 @@ Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
 ## Steam Deck Accessories
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
+[Steam Deck™ Docking Station ($89)](https://store.steampowered.com/steamdeckdock) is a Docking Station for Steam Deck. 
+
+**Tech Specs for Dock:**
+
+ * 3 x USB-A 3.1 Gen1 Ports
+ * Gigabit Ethernet
+ * DisplayPort 1.4
+ * HDMI 2.0
+ * MST (Multi-Stream Transport) enabling multi-monitor support
+ * Supports up to 4k 60hz, or 1440p 120hz
+ * FreeSync support
+ 
+ <video src="https://user-images.githubusercontent.com/45159366/194502961-f59f60ca-fa18-4ea7-ad6a-99bc7f63f667.mp4" controls="controls" style="max-width: 730px;">
+</video>
+
+Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.com/steamdeckdock)
+
 [PROJECT Killswitch](https://dbrand.com/killswitch) is a custom protective case for the Steam Deck designed by [dbrand](https://dbrand.com/).
 
 <p align="center">
