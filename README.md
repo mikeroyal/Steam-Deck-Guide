@@ -38,6 +38,7 @@
           * [Steam Deck Power Tools](https://github.com/mikeroyal/Steam-Deck-Guide#steam-deck-power-tools)
         * [Crankshaft](https://github.com/mikeroyal/Steam-Deck-Guide#plugin-loaders#crankshaft)
      - [Installing Unreal Engine 5 on your Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#installing-unreal-engine-on-linux)
+     - [Installing a different desktop environment (Cinnamon)](https://github.com/mikeroyal/Steam-Deck-Guide#installing-a-different-desktop-environment-cinnamon)
 
 2. [Gaming](https://github.com/mikeroyal/Steam-Deck-Guide#gaming)
 
@@ -691,6 +692,10 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
  - [Unreal Engine C++ API Reference](https://docs.unrealengine.com/5.0/en-US/API/index.html)
 
  - [Unreal Engine Python API Reference](https://docs.unrealengine.com/5.0/en-US/PythonAPI/index.html)
+ 
+## Installing a different desktop environment (Cinnamon)
+
+[How to install Cinnamon on your Steam Deck](https://dev.to/fstanis/how-to-install-cinnamon-on-your-steam-deck-1boe)
  
 # Gaming
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
