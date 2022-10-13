@@ -1,9 +1,9 @@
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/142779553-82147e51-7e6d-47bd-9db6-fe2f5ad95355.png">
   <br />
-  Guia de Steam Deck (En Español)
+  Guía de Steam Deck - (Work In Progress)
   <br />
-  (Work In Progress)
+  (En Español)
 </h1>
 
 <p align="center">
@@ -12,66 +12,66 @@
 </p>
 
 
-#### A guide covering Steam Deck including the applications and tools that will make you a better and more efficient with your Steam Deck device.
+#### Una guía que cubre todo acerca de la Steamdeck, incluyendo aplicaciones y herramientas que mejoraran la experiencia con tu SteamDeck y el sistema SteamOS.
 
-**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf) or the handy online tool [AnyConv](https://anyconv.com/md-to-pdf-converter/).**
+**Nota: Puedes fácilmente convertir este archivo markdown a PDF con [VSCode](https://code.visualstudio.com/) usando esta extensión [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf) o tambien con esta herramienta online [AnyConv](https://anyconv.com/md-to-pdf-converter/).**
 
-**Note 2: This guide will constantly be updated with new info as becomes available and please feel to make an [issue](https://github.com/mikeroyal/Steam-Deck-Guide/issues) if you think something should be added.**
+**Nota 2: Esta guía estará constantemente actualizandose con nueva información tan pronto sea posible, tambien puedes hacerme saber si hay [errores](https://github.com/ainus64/Steam-Deck-Guide-Spanish/issues) o si crees que hay algo que debe ser añadido.**
 
-# Table of Contents
+# Tabla de Contenidos
 
-1. [Getting Started with the Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#getting-started-with-the-steam-deck)
+1. [Empezando con Steam Deck](https://github.com/ainus64/Steam-Deck-Guide-Spanish#getting-started-with-the-steam-deck)
 
-     - [Steam Deck Accessories](https://github.com/mikeroyal/Steam-Deck-Guide#Steam-Deck-Accessories)
-     - [Steam Deck Development](https://github.com/mikeroyal/Steam-Deck-Guide#steam-deck-development)
-     - [SteamDB](https://github.com/mikeroyal/Steam-Deck-Guide#steamdb)
-     - [Getting Software](https://github.com/mikeroyal/Steam-Deck-Guide#getting-software)
-     - [Other Linux Operating Systems for the Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#Other-Linux-Operating-Systems-for-the-Steam-Deck)
-     - [Getting Windows 10 or 11 on the Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#Getting-Windows-10-or-11-on-the-Steam-Deck)
-     - [Improving Battery Life](https://github.com/mikeroyal/Steam-Deck-Guide#improving-battery-life)
-     - [Tools to Copy/Transfer files to your Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#tools-to-copytransfer-files-to-your-steam-deck)
-     - [Running Android Apps on your Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#running-android-apps-on-your-steam-deck)
-     - [Running Bottles on your Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#running-bottles-on-your-steam-deck)
-     - [Steam Tinker Launch](https://github.com/mikeroyal/Steam-Deck-Guide#steam-tinker-launch)
-     - [RetroDECK](https://github.com/mikeroyal/Steam-Deck-Guide#RetroDECK)
-     - [Adding Btrfs on Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#btrfs-on-steam-deck)
-     - [Plugin Loaders for Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#plugin-loaders)
-        * [Decky Loader](https://github.com/mikeroyal/Steam-Deck-Guide#plugin-loaders#decky-loader)
-          * [Steam Deck Power Tools](https://github.com/mikeroyal/Steam-Deck-Guide#steam-deck-power-tools)
-        * [Crankshaft](https://github.com/mikeroyal/Steam-Deck-Guide#plugin-loaders#crankshaft)
-     - [Installing Unreal Engine 5 on your Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#installing-unreal-engine-on-linux)
+     - [Accesorios de Steam Deck](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Steam-Deck-Accessories)
+     - [Steam Deck Development](https://github.com/ainus64/Steam-Deck-Guide-Spanish#steam-deck-development)
+     - [SteamDB](https://github.com/ainus64/Steam-Deck-Guide-Spanish#steamdb)
+     - [Getting Software](https://github.com/ainus64/Steam-Deck-Guide-Spanish#getting-software)
+     - [Other Linux Operating Systems for the Steam Deck](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Other-Linux-Operating-Systems-for-the-Steam-Deck)
+     - [Getting Windows 10 or 11 on the Steam Deck](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Getting-Windows-10-or-11-on-the-Steam-Deck)
+     - [Improving Battery Life](https://github.com/ainus64/Steam-Deck-Guide-Spanish#improving-battery-life)
+     - [Tools to Copy/Transfer files to your Steam Deck](https://github.com/ainus64/Steam-Deck-Guide-Spanish#tools-to-copytransfer-files-to-your-steam-deck)
+     - [Running Android Apps on your Steam Deck](https://github.com/ainus64/Steam-Deck-Guide-Spanish#running-android-apps-on-your-steam-deck)
+     - [Running Bottles on your Steam Deck](https://github.com/ainus64/Steam-Deck-Guide-Spanish#running-bottles-on-your-steam-deck)
+     - [Steam Tinker Launch](https://github.com/ainus64/Steam-Deck-Guide-Spanish#steam-tinker-launch)
+     - [RetroDECK](https://github.com/ainus64/Steam-Deck-Guide-Spanish#RetroDECK)
+     - [Adding Btrfs on Steam Deck](https://github.com/ainus64/Steam-Deck-Guide-Spanish#btrfs-on-steam-deck)
+     - [Plugin Loaders for Steam Deck](https://github.com/ainus64/Steam-Deck-Guide-Spanish#plugin-loaders)
+        * [Decky Loader](https://github.com/ainus64/Steam-Deck-Guide-Spanish#plugin-loaders#decky-loader)
+          * [Steam Deck Power Tools](https://github.com/ainus64/Steam-Deck-Guide-Spanish#steam-deck-power-tools)
+        * [Crankshaft](https://github.com/ainus64/Steam-Deck-Guide-Spanish#plugin-loaders#crankshaft)
+     - [Installing Unreal Engine 5 on your Steam Deck](https://github.com/ainus64/Steam-Deck-Guide-Spanish#installing-unreal-engine-on-linux)
 
-2. [Gaming](https://github.com/mikeroyal/Steam-Deck-Guide#gaming)
+2. [Gaming](https://github.com/ainus64/Steam-Deck-Guide-Spanish#gaming)
 
-     - [Steam](https://github.com/mikeroyal/Steam-Deck-Guide#steam)
-     - [ProtonDB](https://github.com/mikeroyal/Steam-Deck-Guide#protondb)
-     - [Lutris](https://github.com/mikeroyal/Steam-Deck-Guide#lutris)
-        * [Epic Games Store integration](https://github.com/mikeroyal/Steam-Deck-Guide#Epic-Games-Store-integration)
-        * [Blizzard Battle.net integration](https://github.com/mikeroyal/Steam-Deck-Guide#blizzard-battlenet-intgeration)
-        * [EA Play integration](https://github.com/mikeroyal/Steam-Deck-Guide#EA-Play-integration)
-        * [Origin integration](https://github.com/mikeroyal/Steam-Deck-Guide#Origin-integration)
-        * [Ubisoft Connect integration](https://github.com/mikeroyal/Steam-Deck-Guide#Ubisoft-Connect-integration)
-        * [GOG Galaxy integration](https://github.com/mikeroyal/Steam-Deck-Guide#GOG-Galaxy-integration)
-     - [GameHub](https://github.com/mikeroyal/Steam-Deck-Guide#gamehub)
-     - [Epic Games Store](https://github.com/mikeroyal/Steam-Deck-Guide#epic-games-store)
-     - [Game Streaming](https://github.com/mikeroyal/Steam-Deck-Guide#game-streaming)
-     - [Game Emulators](https://github.com/mikeroyal/Steam-Deck-Guide#game-emulators)
+     - [Steam](https://github.com/ainus64/Steam-Deck-Guide-Spanish#steam)
+     - [ProtonDB](https://github.com/ainus64/Steam-Deck-Guide-Spanish#protondb)
+     - [Lutris](https://github.com/ainus64/Steam-Deck-Guide-Spanish#lutris)
+        * [Epic Games Store integration](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Epic-Games-Store-integration)
+        * [Blizzard Battle.net integration](https://github.com/ainus64/Steam-Deck-Guide-Spanish#blizzard-battlenet-intgeration)
+        * [EA Play integration](https://github.com/ainus64/Steam-Deck-Guide-Spanish#EA-Play-integration)
+        * [Origin integration](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Origin-integration)
+        * [Ubisoft Connect integration](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Ubisoft-Connect-integration)
+        * [GOG Galaxy integration](https://github.com/ainus64/Steam-Deck-Guide-Spanish#GOG-Galaxy-integration)
+     - [GameHub](https://github.com/ainus64/Steam-Deck-Guide-Spanish#gamehub)
+     - [Epic Games Store](https://github.com/ainus64/Steam-Deck-Guide-Spanish#epic-games-store)
+     - [Game Streaming](https://github.com/ainus64/Steam-Deck-Guide-Spanish#game-streaming)
+     - [Game Emulators](https://github.com/ainus64/Steam-Deck-Guide-Spanish#game-emulators)
 
-3. [Game Development](https://github.com/mikeroyal/Steam-Deck-Guide#game-development)
+3. [Game Development](https://github.com/ainus64/Steam-Deck-Guide-Spanish#game-development)
 
-4. [Vulkan Development](https://github.com/mikeroyal/Steam-Deck-Guide#vulkan-development)
+4. [Vulkan Development](https://github.com/ainus64/Steam-Deck-Guide-Spanish#vulkan-development)
 
-5. [DirectX Development](https://github.com/mikeroyal/Steam-Deck-Guide#directx-development)
+5. [DirectX Development](https://github.com/ainus64/Steam-Deck-Guide-Spanish#directx-development)
 
-6. [OpenGL Development](https://github.com/mikeroyal/Steam-Deck-Guide#opengl-development)
+6. [OpenGL Development](https://github.com/ainus64/Steam-Deck-Guide-Spanish#opengl-development)
 
-7. [Wayland Development](https://github.com/mikeroyal/Steam-Deck-Guide#wayland-development)
+7. [Wayland Development](https://github.com/ainus64/Steam-Deck-Guide-Spanish#wayland-development)
 
-8. [Audio Development](https://github.com/mikeroyal/Steam-Deck-Guide#audio-development)
+8. [Audio Development](https://github.com/ainus64/Steam-Deck-Guide-Spanish#audio-development)
 
 
 # Getting Started with the Steam Deck
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
 
 [Steam Deck](https://www.steamdeck.com/) is a handheld gaming computer developed by [Valve Corporation](https://valvesoftware.com/) in cooperation with [Advanced Micro Devices (AMD)](https://www.amd.com/). It allows users to play their entire Steam game library but can be modified by the user to run other gaming storefronts or applications. The Steam Deck started shipping in February 2022.
 
@@ -133,7 +133,7 @@ Docked: Up to 8K @ 60Hz or 4K @ 120Hz.
 Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
 
 ## Steam Deck Accessories
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
 
 [Steam Deck™ Docking Station ($89)](https://store.steampowered.com/steamdeckdock) is a Docking Station for Steam Deck. 
 
@@ -283,7 +283,7 @@ Nintendo Switch Pro Controller
 
 
 ## Steam Deck Development
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
 
 **Quick Links to Development Resources**
 
@@ -344,7 +344,7 @@ Deck Verified Program Categories. Source: [Steam Deck](https://www.steamdeck.com
 Steam Library Compatibility Badges for Games. Source: [Steam Deck](https://www.steamdeck.com/en/verified)
 
 ## SteamDB
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
 
 [SteamDB](https://steamdb.info/instantsearch/) is a database of everything on Steam. Important note SteamDB is a hobby project and is not affiliated with Valve or Steam.
    
@@ -356,7 +356,7 @@ Steam Library Compatibility Badges for Games. Source: [Steam Deck](https://www.s
 
 
 ## Getting Software
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
 
 [Discover](https://apps.kde.org/discover/) is an software center that let's you manage software from multiple sources, including your operating system's software repository, Flatpak repos, the Snap store, or even AppImages from store.kde.org. Also, Discover allows you to find, install, and manage add-ons for Plasma and all your favorite KDE apps.
 
@@ -380,7 +380,7 @@ Steam Library Compatibility Badges for Games. Source: [Steam Deck](https://www.s
 
 
 ## Other Linux Operating Systems for the Steam Deck.
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
 
 [HoloISO](https://github.com/theVakhovskeIsTaken/holoiso) is a SteamOS 3 (Holo) archiso configuration. It aims to bring the Steam Deck's Holo OS into a generic, installable format, and provide a close-to-official SteamOS experience.
 
@@ -472,7 +472,7 @@ Emulation Station Front End
 </h3>
 
 ## Getting Windows 10 or 11 on the Steam Deck
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
 
  **Useful YouTube videos:**
 
@@ -524,7 +524,7 @@ Add a new selection dialog for Windows 11 setup customization:
 </h3>
 
 ## Improving Battery Life
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
 
 [Steam Deck - How To Get The Best Battery Life In Games! | The Phawx YouTube](https://www.youtube.com/watch?v=zB6tkjuXX8A-Y)
 
@@ -542,7 +542,7 @@ Add a new selection dialog for Windows 11 setup customization:
  [Power Control App | Project-SBC YouTube](https://www.youtube.com/watch?v=PcSV1tto2OM-Y)
  
 ## Tools to Copy/Transfer files to your Steam Deck
- [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+ [Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
  
 [KDE Connect](https://kdeconnect.kde.org/) is a tool that lets you easily link up your phone to your computer, your computer to your tablet; or your computer to your Steam Deck device. It can be used to share files across devices, read and send SMS directly from your laptop, and lock up your computer remotely.
 
@@ -563,7 +563,7 @@ Add a new selection dialog for Windows 11 setup customization:
 [Usermode FTP Server](https://gitlab.com/ergoithz/umftpd) is a tool that let's you start an FTP server as user and transfer files with any FTP client. Allowing you to access your files directly with many file browsers' builtin FTP support: Windows File Explorer, Thunar, Gnome Files, Dolphin and many more. [Usermode FTP Server on FlatHub](https://flathub.org/apps/details/eu.ithz.umftpd)
 
 ## Running Android Apps on your Steam Deck
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
 
 [Waydroid](https://github.com/waydroid/waydroid) is a container-based approach to boot a full Android system on a regular Linux system. Make sure to checkout the [Waydroid Arch wiki page](https://wiki.archlinux.org/title/Waydroid). 
 
@@ -587,7 +587,7 @@ Add a new selection dialog for Windows 11 setup customization:
  
  ## Steam Tinker Launch
  
- [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+ [Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
  
  [Steam Tinker Launch](https://github.com/frostworx/steamtinkerlaunch) is a Linux wrapper tool for use with the Steam client which allows customizing and start tools and options for games quickly on the fly.
  
@@ -606,7 +606,7 @@ Add a new selection dialog for Windows 11 setup customization:
  </p>
  
  ## Btrfs on Steam Deck
- [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+ [Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
  
  [SteamOS Btrfs](https://gitlab.com/popsulfr/steamos-btrfs/) is a project that will help get you from using ext4 on your Steam Deck's microSD card or home directory, to [Btrfs](https://btrfs.wiki.kernel.org/). 
  
@@ -615,7 +615,7 @@ Add a new selection dialog for Windows 11 setup customization:
  </p>
  
  ## Plugin Loaders
- [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+ [Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
 
  ### Decky Loader
 
@@ -636,7 +636,7 @@ A list of available plugins for Decky Loader can be found in [this store](https:
  </p>
 
  #### Steam Deck Power Tools
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
 
 [Steam Deck PowerTools](https://github.com/NGnius/PowerTools) is a plugin for Decky that provides system tweaks for power users.
 
@@ -695,7 +695,7 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
  - [Unreal Engine Python API Reference](https://docs.unrealengine.com/5.0/en-US/PythonAPI/index.html)
  
 # Gaming
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
 
 ## Steam
 
@@ -718,7 +718,7 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 [ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) is a tool to install and manage [Proton-GE](https://github.com/GloriousEggroll/proton-ge-custom) and [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) for Steam and [Wine-GE](https://github.com/GloriousEggroll/wine-ge-custom) for Lutris with this graphical user interface. Based on AUNaseef's [ProtonUp](https://github.com/AUNaseef/protonup), made with Python 3 and Qt 6.
 
 ## ProtonDB
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
 
 [ProtonDB](https://www.protondb.com) is a collection of over 100,000 gaming reports from other gamers as they test games with Proton on Linux and provide aggregate scores of how well games perform. A growing pool of suggestions provides tweaks that you can try to get games working while Proton continues development. In addition to this, you may explore the Steam game catalog on this site to browse and discover a wide range of titles that were previously unavailable for use on Linux.
 
@@ -733,7 +733,7 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 </p>
 
 ## Lutris
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
 
 [Lutris](https://lutris.net) is a gaming client for Linux. It gives you access to all your video games with the exception of the current console generation. Also, integrates nicely with other stores like GOG, Steam, Battle.net, Origin, Ubisoft Connect and many other sources that allow you to import your existing game library and community maintained install scripts give you a completely automated setup.
 
@@ -782,7 +782,7 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
         
 
 ## GameHub
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
 
 [GameHub](https://github.com/tkashkin/GameHub) is a unified library for all your games. It allows you to store your games from different platforms into one program to make it easier for you to manage your games.
 
@@ -808,7 +808,7 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 
 
 ## Epic Games Store
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
 
 [Heroic](https://heroicgameslauncher.com/) is an Open Source Game Launcher for Linux, Windows and macOS (for both Native and Windows Games using Crossover). It supports launching games from the Epic Games Store using Legendary, a CLI alternative to the Epic Games Launcher. [Flatpak for Heroic Games Launcher](https://flathub.org/apps/details/com.heroicgameslauncher.hgl)
 
@@ -819,7 +819,7 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 </p>
 
 ## Game Streaming
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
 
 [Geforce NOW](https://www.nvidia.com/en-us/geforce-now/download/) is NVIDIA's Cloud Gaming Service.
 
@@ -852,7 +852,7 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 </p>
 
 ## Game Emulators
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
 
 [EmuDeck](https://www.emudeck.com/) is a tool that takes care of everything for your retrogaming needs from RetroArch Configuration, Bezels, Gamepad Configuration for GameCube, Wii, Citra, SNES, etc. EmuDeck will even install EmulationStation Desktop Edition and carry over all their custom configurations and no need to configure ROM paths or anything. 
 
@@ -936,7 +936,7 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
    - [r/Roms](https://www.reddit.com/r/Roms/)
 
 # Game Development
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/97361059-45151700-185c-11eb-9d12-dae51c79eb8a.png">
@@ -1078,7 +1078,7 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 [GameBlocks](https://www.gameblocks.com/) is a Server Side Anti-Cheat & Middleware software.
 
 # Vulkan Development
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/129622224-8c4cca51-9200-4d70-9d16-2610d704713a.png">
@@ -1152,7 +1152,7 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 [Vulkan.jl](https://github.com/JuliaGPU/Vulkan.jl) is a lightweight wrapper around the Vulkan graphics and compute library. It exposes abstractions over the underlying C interface, primarily geared towards developers looking for a more natural way to work with Vulkan with minimal overhead.
 
 # DirectX Development
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/142779599-6a46ab05-c64a-48fe-a775-3e4f46e41f63.png">
@@ -1218,7 +1218,7 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 [RenderDoc](https://renderdoc.org) is a stand-alone graphics debugger that allows quick and easy single-frame capture and detailed introspection of any application using Vulkan, D3D11, OpenGL & OpenGL ES or D3D12 across Windows, Linux, Android, Stadia, or Nintendo Switch™.
 
 # OpenGL Development
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/131386211-f507b5d4-a3c9-4c21-aadd-2aa5bde94d1e.png">
@@ -1300,7 +1300,7 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 [Mesa 3D Graphics Library](https://docs.mesa3d.org/index.html) is a project that began as an open-source implementation of the OpenGL specification. A system for rendering interactive 3D graphics. Mesa ties into several other open-source projects: the [Direct Rendering Infrastructure](https://dri.freedesktop.org/), [X.org](https://x.org/), and [Wayland](https://wayland.freedesktop.org/) to provide OpenGL support on Linux, FreeBSD, and other operating systems.
 
 # Wayland Development
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/104235197-79cf4e00-5409-11eb-97a6-a12f7bd8ad2a.png">
@@ -1386,7 +1386,7 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 [Wine-wayland](https://github.com/varmd/wine-wayland) is an application that allows you to running DX9/DX11 and Vulkan games using pure Wayland and Wine/DXVK.
 
 # Audio Development
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/142936394-b546784e-231a-4391-9dd8-c686e5a7eee9.png">
@@ -1447,10 +1447,12 @@ How WirePlumber, the PipeWire session manager works. Source: [Collabora](https:/
 
 ## Contribute
 
-- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Steam-Deck-Guide/pulls).
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/ainus64/Steam-Deck-Guide-Spanish/pulls).
 
 ## License
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](https://github.com/ainus64/Steam-Deck-Guide-Spanish#table-of-contents)
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
+
+
 
