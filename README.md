@@ -1,7 +1,9 @@
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/142779553-82147e51-7e6d-47bd-9db6-fe2f5ad95355.png">
   <br />
-  Steam Deck Guide
+  Guia de Steam Deck (En Español)
+  <br />
+  (Work In Progress)
 </h1>
 
 <p align="center">
