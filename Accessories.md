@@ -4,19 +4,17 @@
 
 ## Table of Contents
 
-- [Steam Deck Accessories](#steam-deck-accessories)
-  - [Table of Contents](#table-of-contents)
-  - [Docks](#docks)
-    - [USB-C Adapters](#usb-c-adapters)
-  - [Cases](#cases)
-  - [Skins](#skins)
-  - [Controllers](#controllers)
-  - [Screen Protectors](#screen-protectors)
-  - [Storage](#storage)
-    - [MicroSD Cards](#microsd-cards)
-    - [SSds](#ssds)
-  - [Chargers](#chargers)
-  - [Batteries](#batteries)
+- [Docks](#docks)
+  - [USB-C Adapters](#usb-c-adapters)
+- [Cases](#cases)
+- [Skins](#skins)
+- [Controllers](#controllers)
+- [Screen Protectors](#screen-protectors)
+- [Storage](#storage)
+  - [MicroSD Cards](#microsd-cards)
+  - [SSds](#ssds)
+- [Chargers](#chargers)
+- [Batteries](#batteries)
 
 ## Docks
 
@@ -62,13 +60,13 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
   <br />
 </p>
 
+**NexDock 2-in-1. Source: [NexDock](https://nexdock.com/features/)**
+
 ### USB-C Adapters
 
 <!-- TODO Extend -->
 
 [Anker USB C Hub](https://www.anker.com/collections/hubs)
-
-**NexDock 2-in-1. Source: [NexDock](https://nexdock.com/features/)**
 
 ## Cases
 
