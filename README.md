@@ -17,8 +17,21 @@ A guide covering Steam Deck including the applications and tools that will make 
 
 # Table of Contents
 
+- [Getting Started with the Steam Deck](#getting-started-with-the-steam-deck)
+  - [Improving Battery Life](#improving-battery-life)
+  - [Steam Tinker Launch](#steam-tinker-launch)
+- [Getting Started](./Getting%20Started.md)
+- [Glossary](./Glossary.md)
+- [Accessories](./Accessories.md)
+- [Games and Software](./Games%20and%20Software/README.md)
+  - [Games](./Games%20and%20Software/Games.md)
+  - [Software](./Games%20and%20Software/Software.md)
+  - [Operating Systems](./Games%20and%20Software/Operating%20Systems.md)
+- [Developers](./Developers/README.md)
+- [Contribute](#contribute)
+- [License](#license)
 
-# Getting Started with the Steam Deck
+## Getting Started with the Steam Deck
 
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
@@ -59,7 +72,7 @@ Docked: Up to 8K @ 60Hz or 4K @ 120Hz.
 
 Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
 
-## Improving Battery Life
+### Improving Battery Life
 
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
@@ -78,7 +91,7 @@ Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
 
 [Power Control App | Project-SBC YouTube](https://www.youtube.com/watch?v=PcSV1tto2OM-Y)
 
-## Steam Tinker Launch
+### Steam Tinker Launch
 
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 

@@ -6,11 +6,26 @@
 
 ## Table of Contents
 
-- []()
+- [Steam](#steam)
+  - [Proton](#proton)
+- [Lutris](#lutris)
+- [Bottles](#bottles)
+- [Other Launchers](#other-launchers)
+  - [Installing Other Launchers](#other-launchers)
+  - [Adding Games from Other Launchers to Steam](#adding-games-from-other-launchers-to-steam)
+  - [List of Other Launchers](#list-of-other-launchers)
+- [Game Streaming](#game-streaming)
+  - [Cloud](#cloud)
+  - [Local Game Streaming](#local-game-streaming)
+- [Emulation](#emulation)
+  - [Emulators](#emulators)
+- [Android](#android)
 
 ## Steam
 
-[Steam](https://store.steampowered.com/about/) Obviously 
+[Back to the Top](#games-and-software)
+
+[Steam](https://store.steampowered.com/about/) Obviously
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45159366/106686402-13100100-657f-11eb-9012-6bdac264a808.png">
@@ -18,17 +33,23 @@
 
 ### Proton
 
+[Back to the Top](#games-and-software)
+
 [Proton](https://github.com/ValveSoftware/Proton/) is a tool for use with the Steam client which allows games which are exclusive to Windows to run on the Linux operating system. It uses Wine to facilitate this.
 
 [ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) is a tool to install and manage [Proton-GE](https://github.com/GloriousEggroll/proton-ge-custom) and [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) for Steam and [Wine-GE](https://github.com/GloriousEggroll/wine-ge-custom) for Lutris with this graphical user interface. Based on AUNaseef's [ProtonUp](https://github.com/AUNaseef/protonup), made with Python 3 and Qt 6.
 
 ## Lutris
 
+[Back to the Top](#games-and-software)
+
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
 [Lutris](https://lutris.net) is a gaming client for Linux. It gives you access to all your video games with the exception of the current console generation. Also, integrates nicely with other stores like GOG, Steam, Battle.net, Origin, Ubisoft Connect and many other sources that allow you to import your existing game library and community maintained install scripts give you a completely automated setup.
 
 ## Bottles
+
+[Back to the Top](#games-and-software)
 
 [Bottles](https://usebottles.com/) is a software tool that let's you run Windows software on Linux. It's built-in dependency installation system grants automatic software compatibility access. The download manager can download the official components such as: the runner (Wine, Proton), DXVK, dependencies, etc. Available on [FlatHub](https://flathub.org/apps/details/com.usebottles.bottles) or throught [KDE Discover](https://apps.kde.org/discover/) store.
 
@@ -38,13 +59,17 @@
 
 ## Other Launchers
 
-### Installing other Launchers
+[Back to the Top](#games-and-software)
+
+### Installing Other Launchers
+
+[Back to the Top](#games-and-software)
 
 ### Adding Games from Other Launchers to Steam
 
-### GameHub
+[Back to the Top](#games-and-software)
 
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+### List of Other Launchers
 
 [GameHub](https://github.com/tkashkin/GameHub) is a unified library for all your games. It allows you to store your games from different platforms into one program to make it easier for you to manage your games.
 
@@ -68,19 +93,7 @@
   - [Humble Bundle (including Humble Trove)](https://www.humblebundle.com/)
   - [itch.io](https://itch.io/)
 
-### Heroic
-
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
-
 [Heroic](https://heroicgameslauncher.com/) is an Open Source Game Launcher for Linux, Windows and macOS (for both Native and Windows Games using Crossover). It supports launching games from the Epic Games Store using Legendary, a CLI alternative to the Epic Games Launcher. [Flatpak for Heroic Games Launcher](https://flathub.org/apps/details/com.heroicgameslauncher.hgl)
-
-### Epic Games Store
-
-[Back to the Top](#table-of-contents)
-
-[Add Epic Games Store](https://lutris.net/games/epic-games-store/)
-
-<img src="https://user-images.githubusercontent.com/45159366/106686406-14412e00-657f-11eb-97c4-c80c6e25a374.png">
 
 [Epic Games Store](https://www.epicgames.com/store/) is a digital video game storefront for Microsoft Windows and macOS, operated by Epic Games.
 
@@ -88,41 +101,21 @@
   <img src="https://user-images.githubusercontent.com/45159366/111918016-3fed7a00-8a40-11eb-964e-930c801c1c72.png">
 </p>
 
-### Good Old Games (GOG) Galaxy
-
-[Back to the Top](#table-of-contents)
-
 [GOG GALAXY](https://lutris.net/games/gog-galaxy/) is a fully optional client to install, play and update your games.
 
 <img src="https://user-images.githubusercontent.com/45159366/189615528-385c01a8-f780-49e0-9502-db00d8082d9d.png">
-
-### Blizzard
-
-[Back to the Top](#table-of-contents)
 
 [Blizzard Battle.net](https://lutris.net/games/battlenet/) is an internet-based online gaming, digital distribution, and digital rights management platform developed by Activision and Blizzard Entertainment. Battle.net is the launcher for World of Warcraft, Diablo III, StarCraft II, Hearthstone, Heroes of the Storm, Overwatch and Call of Duty.
 
 <img src="https://user-images.githubusercontent.com/45159366/189614458-d51a15cb-d02d-4b1f-9e77-e712dcdb1d73.png">
 
-### Ubisoft Connect
-
-[Back to the Top](#table-of-contents)
-
 [Ubisoft Connect](https://lutris.net/games/ubisoft-connect/) is a digital distribution, digital rights management, multiplayer and communications service created by Ubisoft to provide an experience similar to the achievements/trophies offered by various other game companies.
 
 <img src="https://user-images.githubusercontent.com/45159366/189614471-422cbad8-1ae7-4f06-ad81-7f3b68550569.png">
 
-### EA Play
-
-[Back to the Top](#table-of-contents)
-
 [EA Play](https://lutris.net/games/ea-desktop/) is a subscription-based video game service from Electronic Arts for the Xbox One, Xbox Series X/S, PlayStation 4, PlayStation 5 and Microsoft Windows platforms, offering access to selected games published by Electronic Arts along with additional incentives.
 
 <img src="https://user-images.githubusercontent.com/45159366/189614466-476e0c4e-bab9-44bd-86c4-8aeadd739b63.png">
-
-### Origin
-
-[Back to the Top](#table-of-contents)
 
 [Origin](https://lutris.net/games/origin/) is an online gaming, digital distribution and digital rights management (DRM) platform developed by Electronic Arts that allows users to purchase games on the internet for PC and mobile platforms, and download them with the Origin client (formerly EA Download Manager, EA Downloader and EA Link).
 
@@ -130,9 +123,11 @@
 
 ## Game Streaming
 
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](#games-and-software)
 
 ### Cloud
+
+[Back to the Top](#games-and-software)
 
 [Geforce NOW](https://www.nvidia.com/en-us/geforce-now/download/) is NVIDIA's Cloud Gaming Service.
 
@@ -151,6 +146,8 @@
 </p>
 
 ### Local Game Streaming
+
+[Back to the Top](#games-and-software)
 
 [Steam Remote Play Together](https://store.steampowered.com/remoteplay/#together) is a steam service that let's you share your Steam local multi-player games with friends over the internet, for free. Using Remote Play Together, one player owns and runs the game, then up to four players can join.
 
@@ -176,7 +173,7 @@
 
 ## Emulation
 
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](#games-and-software)
 
 Also checkout these subreddits for more great Game Emulators recommendations
 
@@ -216,7 +213,7 @@ Also checkout these subreddits for more great Game Emulators recommendations
 
 [Cartridge](https://github.com/unclebacon-live/cartridge) is a self-hosted game library made with Laravel + Vue.js.
 
-### Cartridge Features
+Cartridge Features
 
 - Scan for ROM files and match with IGDB game information
 - Serve ROM download links alongside game details
@@ -232,6 +229,8 @@ Also checkout these subreddits for more great Game Emulators recommendations
 </p>
 
 ### Emulators
+
+[Back to the Top](#games-and-software)
 
 [Dolphin](https://dolphin-emu.org) is an emulator for two recent Nintendo video game consoles: the GameCube and the Wii. It allows PC gamers to enjoy games for these two consoles in full HD (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, networked multiplayer, and even more. [Dolphin Flatpak](https://flathub.org/apps/details/org.DolphinEmu.dolphin-emu)
 
@@ -269,7 +268,7 @@ Also checkout these subreddits for more great Game Emulators recommendations
 
 ## Android
 
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](#games-and-software)
 
 [Waydroid](https://github.com/waydroid/waydroid) is a container-based approach to boot a full Android system on a regular Linux system. Make sure to checkout the [Waydroid Arch wiki page](https://wiki.archlinux.org/title/Waydroid).
 

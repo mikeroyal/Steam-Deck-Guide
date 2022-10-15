@@ -1,4 +1,4 @@
-# Games and Software
+# Developers
 
 [Back to Home](/README.md#table-of-contents)
 
@@ -12,9 +12,11 @@
 
 ## Steam Deck Development
 
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](#developers)
 
 ### Quick Links to Development Resources
+
+[Back to the Top](#developers)
 
 - [Getting your game ready for Steam Deck](https://partner.steamgames.com/doc/steamdeck/recommendations)
 
@@ -74,7 +76,7 @@ Steam Library Compatibility Badges for Games. Source: [Steam Deck](https://www.s
 
 ## Installing Unreal Engine on Linux
 
-[Back to the Top](#table-of-contents)
+[Back to the Top](#developers)
 
 The easiest way to install Unreal Engine 5 on your Linux system is using the Epic Asset Manager that's availble on [FlatHub](https://flathub.org/) as a [Flatpak](https://flatpak.org). If you don't have Flatpak installed on your Linux system follow these [simple instructions to get started](https://flatpak.org/setup/).
 
@@ -91,6 +93,8 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 </p>
 
 ### Quick links to Development Resources
+
+[Back to the Top](#developers)
 
 - [Sign-up for Epic Games Acount](https://www.epicgames.com/account/password)
 
@@ -110,7 +114,7 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 
 ## Game Development
 
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](#developers)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/97361059-45151700-185c-11eb-9d12-dae51c79eb8a.png">
@@ -123,6 +127,8 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 </p>
 
 ## Game Engines
+
+[Back to the Top](#developers)
 
 **[Checkout the Unity Engine](https://unity.com/)**
 
@@ -145,6 +151,8 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 <img src="https://user-images.githubusercontent.com/45159366/104788139-401e8000-5746-11eb-9647-058dee01a00e.png">
 
 ## Game Development Learning Resources
+
+[Back to the Top](#developers)
 
 [Unreal Online Learning](https://www.unrealengine.com/en-US/onlinelearning-courses) is a free learning platform that offers hands-on video courses and guided learning paths.
 
@@ -175,6 +183,8 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 [Game Design and Development Specialization Course from Coursera](https://www.coursera.org/specializations/game-development)
 
 ## Game Development Tools
+
+[Back to the Top](#developers)
 
 [Unreal Engine](https://www.unrealengine.com) is a game engine developed by Epic Games with the world's most open and advanced real-time 3D creation tool. Continuously evolving to serve not only its original purpose as a state-of-the-art game engine, today it gives creators across industries the freedom and control to deliver cutting-edge content, interactive experiences, and immersive virtual worlds.
 
@@ -250,7 +260,7 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 
 ## Vulkan Development
 
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](#developers)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/129622224-8c4cca51-9200-4d70-9d16-2610d704713a.png">
@@ -258,6 +268,8 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 </p>
 
 ## Vulkan Learning Resources
+
+[Back to the Top](#developers)
 
 [Vulkan®](https://www.khronos.org/vulkan/) is a modern cross-platform graphics and compute API that provides high-efficiency, cross-platform access to modern GPUs used in a wide variety of devices from PCs and consoles to mobile phones and embedded platforms. Vulkan is currently in development by the Khronos consortium.
 
@@ -276,6 +288,8 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 [Khronos Community Forums](https://community.khronos.org/)
 
 ## Vulkan Tools, Libraries, and Frameworks
+
+[Back to the Top](#developers)
 
 [Vulkan SDK](https://vulkan.lunarg.com) is a set of tools that enables Vulkan developers to develop Vulkan applications.
 
@@ -325,7 +339,7 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 
 ## DirectX Development
 
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](#developers)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/142779599-6a46ab05-c64a-48fe-a775-3e4f46e41f63.png">
@@ -333,6 +347,8 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 </p>
 
 ## DirectX Learning Resources
+
+[Back to the Top](#developers)
 
 [Microsoft DirectX®](https://support.microsoft.com/en-us/topic/how-to-install-the-latest-version-of-directx-d1f5ffa5-dae2-246c-91b1-ee1e973ed8c2) is a low-level API that handles tasks related to multimedia for game programming and video on Microsoft platforms(Windows & Xbox).
 
@@ -355,6 +371,8 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 [DirectX 11 Programming Course | Udemy](https://www.udemy.com/course/directx11/)
 
 ## DirectX Tools, Libraries, and Frameworks
+
+[Back to the Top](#developers)
 
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
@@ -392,7 +410,7 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 
 ## OpenGL Development
 
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](#developers)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/131386211-f507b5d4-a3c9-4c21-aadd-2aa5bde94d1e.png">
@@ -400,6 +418,8 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 </p>
 
 ## OpenGL Learning Resources
+
+[Back to the Top](#developers)
 
 [Open Graphics Library(OpenGL)™](https://www.opengl.org/) is an API used across multiple  programming languages and platforms for hardware-accelerated rendering of 2D/3D vector graphics currently developed by the [Khronos Group](https://www.khronos.org/).
 
@@ -434,6 +454,8 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 [WebGL Reference Cards](https://www.khronos.org/developers/reference-cards/)
 
 ## OpenGL Tools, Libraries, and Frameworks
+
+[Back to the Top](#developers)
 
 [BuGLe](https://www.opengl.org/sdk/tools/BuGLe/) is a debugger for Linux and other UNIX-like OSes. BuGLe combines a graphical OpenGL debugger with a selection of filters on the OpenGL command stream. The debugger allows viewing of state, textures, framebuffers and shaders, while the filters allow for logging, error checking, video capture and more.
 
@@ -475,7 +497,7 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 
 ## Wayland Development
 
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](#developers)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/104235197-79cf4e00-5409-11eb-97a6-a12f7bd8ad2a.png">
@@ -483,6 +505,8 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 </p>
 
 ## Wayland Learning Resources
+
+[Back to the Top](#developers)
 
 [Wayland](https://wayland.freedesktop.org) is a protocol for a compositor to talk to its clients as well as a C library implementation of that protocol. The compositor can be a standalone display server running on Linux kernel modesetting and evdev input devices, an [X application](https://www.x.org/wiki/XServer/), or a Wayland client itself.
 
@@ -530,6 +554,8 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 
 ## Wayland Tools
 
+[Back to the Top](#developers)
+
 [Weston](https://gitlab.freedesktop.org/wayland/weston) is a lightweight and functional Wayland compositor.
 
 [XWayland](https://wayland.freedesktop.org/xserver.html) is an X Server running as a Wayland client(for backwards compatibility), allowing the [Xorg server](https://www.x.org/wiki/XServer/) can be modified to use wayland input devices for input and forward either the root window or individual top-level windows as wayland surfaces.
@@ -562,7 +588,7 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 
 ## Audio Development
 
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](#developers)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/142936394-b546784e-231a-4391-9dd8-c686e5a7eee9.png">
@@ -570,6 +596,8 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 </p>
 
 ## Audio Learning Resources
+
+[Back to the Top](#developers)
 
 [How Audio is implemented with PipeWire](https://docs.pipewire.org/page_audio.html)
 
@@ -604,6 +632,8 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 How WirePlumber, the PipeWire session manager works. Source: [Collabora](https://www.collabora.com/news-and-blog/blog/2020/05/07/wireplumber-the-pipewire-session-manager/)
 
 ## Audio Tools
+
+[Back to the Top](#developers)
 
 [PipeWire](https://pipewire.org) is a server and user space API to deal with multimedia pipelines. It provides a low-latency, graph based processing engine on top of audio and video devices that can be used to support the use cases currently handled by both pulseaudio and JACK. PipeWire was designed with a powerful security model that makes interacting with audio and video devices from containerized applications easy. Nodes in the graph can be implemented as separate processes, communicating with sockets and exchanging multimedia content using fd passing.
 

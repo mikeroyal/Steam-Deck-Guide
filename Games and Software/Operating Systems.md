@@ -1,4 +1,4 @@
-# Games and Software
+# Operating Systems
 
 [Back to Home](/README.md#table-of-contents)
 
@@ -7,11 +7,17 @@
 ## Table of Contents
 
 - [Linux](#linux)
+  - [SteamOS](#steamos)
+  - [Other Linux Distributions](#other-linux-distributions)
 - [Windows](#windows)
 
 ## Linux
 
-[Back to the Top](#games-and-software)
+[Back to the Top](#operating-systems)
+
+### SteamOS
+
+[Back to the Top](#operating-systems)
 
 [Steam OS 3.0](https://store.steampowered.com/steamdeck) is an [immutable](https://en.wikipedia.org/wiki/Immutable_object) Operating System(OS) using the [KDE Plasma](https://kde.org/plasma-desktop) desktop. This allows you to install applications in containers using [Flatpak](https://flatpak.org/), rather than onto the root filesystem. This means not only that the installation of applications is isolated from the core filesystem, but also that the ability for malicious applications to compromise/break your system is significantly reduced.
 
@@ -35,6 +41,10 @@
 </p>
 
 HoloISO Desktop. Credit: [theVakhovskeIsTaken](https://github.com/theVakhovskeIsTaken/)
+
+### Other Linux Distributions
+
+[Back to the Top](#operating-systems)
 
 [Nobara Project](https://gitlab.com/GloriousEggroll/nobara-images) is an unofficial Fedora Linux Spin that's tailored for Gaming. It adds the necessary packages/tools (such as [Lutris](https://lutris.net/) and [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/)), and fixes issues to make Fedora awesome for gaming. This project is developed and maintained by [Thomas Crider AKA Glorious Eggroll](https://gitlab.com/GloriousEggroll).
 
@@ -120,7 +130,7 @@ WineapOS Desktop. Credit: [LukeShortCloud](https://github.com/LukeShortCloud)
 
 <!-- TODO Reformat -->
 
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](#operating-systems)
 
 ### Useful YouTube videos
 

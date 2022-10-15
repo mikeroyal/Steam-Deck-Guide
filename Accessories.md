@@ -13,8 +13,9 @@
 - [Storage](#storage)
   - [MicroSD Cards](#microsd-cards)
   - [SSds](#ssds)
-- [Chargers](#chargers)
-- [Batteries](#batteries)
+- [Power](#power)
+  - [Chargers](#chargers)
+  - [Batteries](#batteries)
 
 ## Docks
 
@@ -63,6 +64,8 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
 **NexDock 2-in-1. Source: [NexDock](https://nexdock.com/features/)**
 
 ### USB-C Adapters
+
+[Back to Top](#steam-deck-accessories)
 
 <!-- TODO Extend -->
 
@@ -188,7 +191,11 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
 
 [Back to Top](#steam-deck-accessories)
 
+The Steam Deck supports expansion via a MicroSD card slot which supports up to 2tb MicroSD cards. Additionally the deck uses a 2230 m.2 SSD drive, meaning that some users have sourced large (up to 2tb!) drives to upgrade their Decks.
+
 ### MicroSD Cards
+
+[Back to Top](#steam-deck-accessories)
 
 <!-- TODO Add specs overview/explination -->
 
@@ -210,7 +217,9 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
 
 [M.2 2230 SSDs on NewEgg](https://www.newegg.com/p/pl?d=m.2+2230+ssd)
 
-## Chargers
+## Power
+
+### Chargers
 
 [Back to Top](#steam-deck-accessories)
 
@@ -220,7 +229,7 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
 
 [Anker 45w Ultra Slim Charging PowerPort](https://www.amazon.com/Charger-Anker-Ultra-Slim-PowerPort-Laptops/dp/B0841J6CMK)
 
-## Batteries
+### Batteries
 
 [Back to Top](#steam-deck-accessories)
 
