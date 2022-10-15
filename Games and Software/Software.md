@@ -54,6 +54,35 @@ A list of available plugins for Decky Loader can be found in [this store](https:
  <img src="https://user-images.githubusercontent.com/45159366/168942613-685cf180-3b1d-4a29-ba10-f5bdfbcfdfb6.png">
  </p>
 
+### Steam Deck
+
+[Back to Top](#games-and-software)
+
+[Steam Tinker Launch](https://github.com/frostworx/steamtinkerlaunch) is a Linux wrapper tool for use with the Steam client which allows customizing and start tools and options for games quickly on the fly.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/176962906-5d388e16-955e-4936-a676-c591d0937acd.png">
+</p>
+
+#### Improving Battery Life
+
+[Back to Top](#games-and-software)
+
+[Steam Deck - How To Get The Best Battery Life In Games! | The Phawx YouTube](https://www.youtube.com/watch?v=zB6tkjuXX8A-Y)
+
+[auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) is an automatic CPU speed & power optimizer for Linux based on active monitoring of laptop's battery state, CPU usage, CPU temperature and system load. Ultimately allowing you to improve battery life without making any compromises.
+
+- [auto-cpufreq - tool demo (Automatic CPU speed & power optimizer for Linux) | YouTube](https://www.youtube.com/watch?v=QkYRpVEEIlg-Y)
+
+[Power-Control-Panel](https://github.com/project-sbc/Power-Control-Panel) is a software tool that allows easy change of TDP on **windows handheld devices(including Steam Deck)**. Features include:
+
+- Configurable profiles with charger vs battery values -xinput TDP change capability (hold LB, RB, and a dpad direction)
+- Assign an exe to a profile to auto start when exe opens
+- Auto startup at logon to system tray
+- Touch friendly interface, keyboard (mostly) not required.
+
+[Power Control App | Project-SBC YouTube](https://www.youtube.com/watch?v=PcSV1tto2OM-Y)
+
 ## File Transfer
 
 [Back to Top](#games-and-software)
