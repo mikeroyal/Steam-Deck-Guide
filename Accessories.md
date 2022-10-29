@@ -54,6 +54,14 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
     JSAUX Steam Deck Docking Station M.2
 </p>
 
+[Deckmate ($49.00 USD)](https://deckmate.me/) is a swiss-army accessory for your Steam Deck. It's essentially four accessories in one, as the complete system includes a kickstand alongside mounts for your wall, VESA bracket, microSD holder, and anything else that’ll stick to the portable’s back.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/198820996-01f793bd-8749-453f-99c9-810c22138429.png">
+  <br />
+    Deckmate
+</p>
+
 [NexDock](https://nexdock.com/features/) is an accessory with a HDMI-in port and Type-C cable NexDock that turns the Steam Deck into a fully functional computer.
 
 <p align="center">
