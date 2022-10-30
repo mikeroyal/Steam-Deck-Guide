@@ -94,14 +94,6 @@ WineapOS Desktop. Credit: [LukeShortCloud](https://github.com/LukeShortCloud)
       ArcoLinux Desktop
 </p>
 
-[ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) created by [ChrisTitusTech](https://www.youtube.com/channel/UCg6gPGh8HU2U01vaFCAsvmQ)
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/142780015-51242184-ff8b-4705-b6b3-f1913b734bf2.png">
-    <br />
-      ArchTitus Desktop
-</p>
-
 [Fedora Linux](https://getfedora.org/)
 
 <p align="center">
