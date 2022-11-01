@@ -272,6 +272,8 @@ Cartridge Features
 
 [Waydroid](https://github.com/waydroid/waydroid) is a container-based approach to boot a full Android system on a regular Linux system. Make sure to checkout the [Waydroid Arch wiki page](https://wiki.archlinux.org/title/Waydroid).
 
+* [Setting up WayDroid by Philipp Richter](https://gitlab.com/popsulfr/steam-deck-tricks#android-via-waydroid)
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45159366/189516892-24454312-836a-4a88-a6b8-a3e9aaa8612c.png">
     <br />
