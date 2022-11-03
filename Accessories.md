@@ -169,6 +169,10 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
 
 [PlayStation 5 DualSense™ Wireless Controller](https://www.playstation.com/en-us/accessories/dualsense-wireless-controller/)
 
+* [Update the wireless controller firmware](https://controller.dl.playstation.net/controller/lang/gb/fwupdater.html)
+
+**Note:** make sure to use [Bottles](https://usebottles.com/) to run this firmware update.
+ 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45159366/187094347-109c80cd-5cc3-4a97-8a8f-0181687ab0d4.png">
   <br />
