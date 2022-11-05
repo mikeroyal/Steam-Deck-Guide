@@ -46,6 +46,13 @@
 
 [AMD FidelityFX Super Resolution (FSR) 2.0](https://github.com/GPUOpen-Effects/FidelityFX-FSR2) is an open source, high-quality solution for producing high resolution frames from lower resolution inputs. It uses temporal data and optimized anti-aliasing to boost framerates in supported games while delivering similar or better image quality than native resolution without requiring dedicated machine learning hardware.
 
+[AMD FidelityFX Super Resolution 3 (FSR 3)](https://www.amd.com/en/technologies/fidelityfx-super-resolution), is the latest version of the company’s upscaling tech. AMD claims it’ll provide 2x times increase in frame rate over FSR 2, boosted by the new AMD Fluid Motion Frames technology.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/200111466-0469f86c-2450-4ae6-8f09-4c578c6b630d.png">
+<br />
+</p>
+
 [MangoHud](https://github.com/flightlessmango/MangoHud) is a Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 
 [GOverlay](https://github.com/benjamimgois/goverlay) is an open source project aimed to create a Graphical UI to manage Vulkan/OpenGL overlays. It is still in early development.
