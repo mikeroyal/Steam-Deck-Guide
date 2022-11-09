@@ -53,6 +53,8 @@
 <br />
 </p>
 
+[AMD Precision Boost Overdrive 2 (PBO2)](https://www.amd.com/en/support/kb/faq/cpu-pb2) is a performance-maximizing technology available will work with the Ryzen 5000 or newer AMD processors improving your PC's performance by raising clockspeeds, which makes the processor and your applications run faster. This technology will not be applied retroactively to previous-gen models, like Ryzen 3000 chips or newer.
+
 [MangoHud](https://github.com/flightlessmango/MangoHud) is a Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 
 [GOverlay](https://github.com/benjamimgois/goverlay) is an open source project aimed to create a Graphical UI to manage Vulkan/OpenGL overlays. It is still in early development.
