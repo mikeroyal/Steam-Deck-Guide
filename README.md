@@ -70,6 +70,22 @@ Docked: Up to 8K @ 60Hz or 4K @ 120Hz.
 
 Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
 
+[Deck Verified](https://www.steamdeck.com/en/verified) is a program that reviews games in Steam's catalog verifying their compatibility with the Steam Deck. So when you visit your Library on Steam Deck, you’ll find a compatibility badge on each title, reflecting the kind of experience you can expect when playing each game on Steam Deck.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/142779573-254b3ce4-e0e8-401f-a343-bf5b3aa29b66.png">
+<br />
+</p>
+
+Deck Verified Program Categories. Source: [Steam Deck](https://www.steamdeck.com/en/verified)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/142779574-d0410dc5-12cd-41ef-9cfa-03488c50b2ff.png">
+<br />
+</p>
+
+Steam Library Compatibility Badges for Games. Source: [Steam Deck](https://www.steamdeck.com/en/verified)
+
 ## Contribute
 
 - [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Steam-Deck-Guide/pulls).
