@@ -8,6 +8,7 @@
   - [USB-C Adapters](#usb-c-adapters)
 - [Cases](#cases)
 - [Skins](#skins)
+- [Bootup Animations](Botup-Animations)
 - [Controllers](#controllers)
 - [Screen Protectors](#screen-protectors)
 - [Storage](#storage)
@@ -149,6 +150,18 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
   <img src="https://user-images.githubusercontent.com/88871218/193435273-4f2c9363-6f03-4e91-b6aa-60628caffab6.png">
   <br />
     Custom skins cut template
+</p>
+
+## Bootup Animations
+
+[Back to Top](#steam-deck-accessories)
+
+[Steam Deck Repo](https://steamdeckrepo.com/) is a collection of cool start-up animations/videos on your Steam Deck.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/201617415-e32b5ee0-c843-4743-bc5d-8894aec53531.png">
+  <br />
+    
 </p>
 
 ## Controllers
