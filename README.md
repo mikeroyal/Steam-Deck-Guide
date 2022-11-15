@@ -1,13 +1,8 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/142779553-82147e51-7e6d-47bd-9db6-fe2f5ad95355.png">
+  <img src="https://user-images.githubusercontent.com/46809884/201680680-18f4e3ba-9508-4817-bddd-9e674e259c37.jpg" width="250">
     <br />
       Steam Deck Guide
 </h1>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/142779557-400f19c8-6084-41ee-9449-fb08a15d6c45.png">
-    <br />
-</p>
 
 A guide covering Steam Deck including the applications and tools that will make you a better and more efficient with your Steam Deck device.
 
@@ -30,8 +25,6 @@ A guide covering Steam Deck including the applications and tools that will make 
 - [License](#license)
 
 ## Steam Deck
-
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
 [Steam Deck](https://www.steamdeck.com/) is a handheld gaming computer developed by [Valve Corporation](https://valvesoftware.com/) in cooperation with [Advanced Micro Devices (AMD)](https://www.amd.com/). It allows users to play their entire Steam game library but can be modified by the user to run other gaming storefronts or applications. The Steam Deck started shipping in February 2022.
 
@@ -75,7 +68,5 @@ Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
 - [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Steam-Deck-Guide/pulls).
 
 ## License
-
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).

@@ -23,8 +23,6 @@
 
 ## Steam
 
-[Back to the Top](#games-and-software)
-
 [Steam](https://store.steampowered.com/about/) Obviously
 
 <p align="center">
@@ -33,23 +31,15 @@
 
 ### Proton
 
-[Back to the Top](#games-and-software)
-
 [Proton](https://github.com/ValveSoftware/Proton/) is a tool for use with the Steam client which allows games which are exclusive to Windows to run on the Linux operating system. It uses Wine to facilitate this.
 
 [ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) is a tool to install and manage [Proton-GE](https://github.com/GloriousEggroll/proton-ge-custom) and [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) for Steam and [Wine-GE](https://github.com/GloriousEggroll/wine-ge-custom) for Lutris with this graphical user interface. Based on AUNaseef's [ProtonUp](https://github.com/AUNaseef/protonup), made with Python 3 and Qt 6.
 
 ## Lutris
 
-[Back to the Top](#games-and-software)
-
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
-
 [Lutris](https://lutris.net) is a gaming client for Linux. It gives you access to all your video games with the exception of the current console generation. Also, integrates nicely with other stores like GOG, Steam, Battle.net, Origin, Ubisoft Connect and many other sources that allow you to import your existing game library and community maintained install scripts give you a completely automated setup.
 
 ## Bottles
-
-[Back to the Top](#games-and-software)
 
 [Bottles](https://usebottles.com/) is a software tool that let's you run Windows software on Linux. It's built-in dependency installation system grants automatic software compatibility access. The download manager can download the official components such as: the runner (Wine, Proton), DXVK, dependencies, etc. Available on [FlatHub](https://flathub.org/apps/details/com.usebottles.bottles) or throught [KDE Discover](https://apps.kde.org/discover/) store.
 
@@ -59,15 +49,9 @@
 
 ## Other Launchers
 
-[Back to the Top](#games-and-software)
-
 ### Installing Other Launchers
 
-[Back to the Top](#games-and-software)
-
 ### Adding Games from Other Launchers to Steam
-
-[Back to the Top](#games-and-software)
 
 ### List of Other Launchers
 
@@ -129,11 +113,7 @@
 
 ## Game Streaming
 
-[Back to the Top](#games-and-software)
-
 ### Cloud
-
-[Back to the Top](#games-and-software)
 
 [Geforce NOW](https://www.nvidia.com/en-us/geforce-now/download/) is NVIDIA's Cloud Gaming Service.
 
@@ -159,8 +139,6 @@ Shadow](https://shadow.tech/) is a fully-featured, cloud-based, high-end compute
 
 ### Local Game Streaming
 
-[Back to the Top](#games-and-software)
-
 [Steam Remote Play Together](https://store.steampowered.com/remoteplay/#together) is a steam service that let's you share your Steam local multi-player games with friends over the internet, for free. Using Remote Play Together, one player owns and runs the game, then up to four players can join.
 
 [Steam Link app](https://store.steampowered.com/steamlink/about) is available free of charge, streaming your Steam PC games to phones, tablets, and TV.
@@ -184,8 +162,6 @@ Shadow](https://shadow.tech/) is a fully-featured, cloud-based, high-end compute
 </p>
 
 ## Emulation
-
-[Back to the Top](#games-and-software)
 
 Also checkout these subreddits for more great Game Emulators recommendations
 
@@ -242,8 +218,6 @@ Cartridge Features
 
 ### Emulators
 
-[Back to the Top](#games-and-software)
-
 [Dolphin](https://dolphin-emu.org) is an emulator for two recent Nintendo video game consoles: the GameCube and the Wii. It allows PC gamers to enjoy games for these two consoles in full HD (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, networked multiplayer, and even more. [Dolphin Flatpak](https://flathub.org/apps/details/org.DolphinEmu.dolphin-emu)
 
 [Citra](https://citra-emu.org/) is an open-source emulator for the Nintendo 3DS capable of playing many of your favorite games. [Citra Flatpak](https://flathub.org/apps/details/org.citra_emu.citra)
@@ -279,8 +253,6 @@ Cartridge Features
 [Xenia](https://github.com/xenia-project/xenia) is an Xbox 360 Emulator.
 
 ## Android
-
-[Back to the Top](#games-and-software)
 
 [Waydroid](https://github.com/waydroid/waydroid) is a container-based approach to boot a full Android system on a regular Linux system. Make sure to checkout the [Waydroid Arch wiki page](https://wiki.archlinux.org/title/Waydroid).
 

@@ -19,8 +19,6 @@
 
 ## Docks
 
-[Back to Top](#steam-deck-accessories)
-
 [Steam Deck™ Docking Station ($89)](https://store.steampowered.com/steamdeckdock) is a Docking Station for Steam Deck.
 
 Tech Specs for Dock:
@@ -73,15 +71,11 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
 
 ### USB-C Adapters
 
-[Back to Top](#steam-deck-accessories)
-
 <!-- TODO Extend -->
 
 [Anker USB C Hub](https://www.anker.com/collections/hubs)
 
 ## Cases
-
-[Back to Top](#steam-deck-accessories)
 
 [PROJECT Killswitch](https://dbrand.com/killswitch) is a custom protective case for the Steam Deck designed by [dbrand](https://dbrand.com/).
 
@@ -123,8 +117,6 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
 
 ## Skins
 
-[Back to Top](#steam-deck-accessories)
-
 [dbrand Skins](https://dbrand.com/shop/steam-deck-skins) Skins for the Steam Deck made by dbrand.
 
 <p align="center">
@@ -152,8 +144,6 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
 </p>
 
 ## Controllers
-
-[Back to Top](#steam-deck-accessories)
 
 <!-- TODO Steam Input Overview -->
 
@@ -193,21 +183,15 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
 
 ## Screen Protectors
 
-[Back to Top](#steam-deck-accessories)
-
 [Glass Sceen Protector for Steam Deck](https://www.amazon.com/Tempered-Protector-Compatible-Installation-Manufacturer/dp/B09L9F65JG)
 
 <!-- TODO Extend -->
 
 ## Storage
 
-[Back to Top](#steam-deck-accessories)
-
 The Steam Deck supports expansion via a MicroSD card slot which supports up to 2tb MicroSD cards. Additionally the deck uses a 2230 m.2 SSD drive, meaning that some users have sourced large (up to 2tb!) drives to upgrade their Decks.
 
 ### MicroSD Cards
-
-[Back to Top](#steam-deck-accessories)
 
 <!-- TODO Add specs overview/explination -->
 
@@ -221,8 +205,6 @@ The Steam Deck supports expansion via a MicroSD card slot which supports up to 2
 
 ### SSds
 
-[Back to Top](#steam-deck-accessories)
-
 <!-- TODO Extend -->
 
 [M.2 2230 SSDs on Amazon](https://www.amazon.com/m-2-2230-ssd/s?k=m.2+2230+ssd)
@@ -233,8 +215,6 @@ The Steam Deck supports expansion via a MicroSD card slot which supports up to 2
 
 ### Chargers
 
-[Back to Top](#steam-deck-accessories)
-
 <!-- TODO Steam Deck from IFixit -->
 
 <!-- TODO Extend -->
@@ -242,8 +222,6 @@ The Steam Deck supports expansion via a MicroSD card slot which supports up to 2
 [Anker 45w Ultra Slim Charging PowerPort](https://www.amazon.com/Charger-Anker-Ultra-Slim-PowerPort-Laptops/dp/B0841J6CMK)
 
 ### Batteries
-
-[Back to Top](#steam-deck-accessories)
 
 <!-- TODO Extend -->
 

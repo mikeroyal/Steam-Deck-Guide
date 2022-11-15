@@ -15,8 +15,6 @@
 
 ## Getting Software
 
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
-
 [Discover](https://apps.kde.org/discover/) is an software center that let's you manage software from multiple sources, including your operating system's software repository, Flatpak repos, the Snap store, or even AppImages from store.kde.org. Also, Discover allows you to find, install, and manage add-ons for Plasma and all your favorite KDE apps.
 
 <p align="center">

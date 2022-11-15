@@ -13,11 +13,7 @@
 
 ## Steam
 
-[Back to Top](#games-and-software)
-
 ### Plugins
-
-[Back to Top](#games-and-software)
 
 [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) is a plugin loader tool for the Steam Deck.
 
@@ -56,8 +52,6 @@ A list of available plugins for Decky Loader can be found in [this store](https:
 
 ### Steam Deck
 
-[Back to Top](#games-and-software)
-
 [Steam Tinker Launch](https://github.com/frostworx/steamtinkerlaunch) is a Linux wrapper tool for use with the Steam client which allows customizing and start tools and options for games quickly on the fly.
 
 <p align="center">
@@ -65,8 +59,6 @@ A list of available plugins for Decky Loader can be found in [this store](https:
 </p>
 
 #### Improving Battery Life
-
-[Back to Top](#games-and-software)
 
 [Steam Deck - How To Get The Best Battery Life In Games! | The Phawx YouTube](https://www.youtube.com/watch?v=zB6tkjuXX8A-Y)
 
@@ -84,8 +76,6 @@ A list of available plugins for Decky Loader can be found in [this store](https:
 [Power Control App | Project-SBC YouTube](https://www.youtube.com/watch?v=PcSV1tto2OM-Y)
 
 ## File Transfer
-
-[Back to Top](#games-and-software)
 
 [KDE Connect](https://kdeconnect.kde.org/) is a tool that lets you easily link up your phone to your computer, your computer to your tablet; or your computer to your Steam Deck device. It can be used to share files across devices, read and send SMS directly from your laptop, and lock up your computer remotely.
 
@@ -106,5 +96,3 @@ A list of available plugins for Decky Loader can be found in [this store](https:
 [Usermode FTP Server](https://gitlab.com/ergoithz/umftpd) is a tool that let's you start an FTP server as user and transfer files with any FTP client. Allowing you to access your files directly with many file browsers' builtin FTP support: Windows File Explorer, Thunar, Gnome Files, Dolphin and many more. [Usermode FTP Server on FlatHub](https://flathub.org/apps/details/eu.ithz.umftpd)
 
 ## Alternatives
-
-[Back to Top](#games-and-software)
