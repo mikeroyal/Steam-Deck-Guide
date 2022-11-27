@@ -6,10 +6,21 @@
 
 ## Table of Contents
 
+- [Discord](#discord)
 - [Steam](#steam)
   - [Plugins](#plugins)
 - [File Transfer](#file-transfer)
 - [Alternatives](#alternatives)
+
+## Discord
+
+[Back to the Top](#table-of-contents)
+
+[Discord](https://discord.com/) is an application with modern voice & text chat app. It provides clear voice, multiple server and channel support, mobile apps, and more. It's available on Linux, macOS, Windows, iOS, Android, and your web browser. [Flatpak verion](https://flathub.org/apps/details/com.discordapp.Discord)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/203752975-d489f776-2039-474d-82ce-1cdd3dcdeff7.png">
+</p>
 
 ## Steam
 
