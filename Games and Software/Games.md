@@ -37,6 +37,45 @@
 
 [Proton](https://github.com/ValveSoftware/Proton/) is a tool for use with the Steam client which allows games which are exclusive to Windows to run on the Linux operating system. It uses Wine to facilitate this.
 
+[Proton Next](https://github.com/ValveSoftware/Proton/wiki/Changelog) is an easier way to check out and test the upcoming stable releases of new Proton versions for Linux desktop and Steam Deck.
+
+  **The following games are now playable:**
+       - Rift
+       - Unravel 2
+       - Airborne Kingdom
+       - Nancy Drew: Legend of the Crystal Skull
+       - Re-Volt
+       - Aspire: Ina's Tale
+       - Battle Realms: Zen Edition
+       - Deathsmiles II
+       - Primal Carnage: Extinction
+       - Pico Park Classic Edition
+       - Six Ages: Ride Like the Wind
+       - Darkstar One
+       - Indiana Jones and the Emperor Tomb
+       - Bulletstorm: Full Clip Edition
+   * Fix Batman: Arkham City GOTY launching in the background on Steam Deck when set to fullscreen.
+   * Fix Marvel's Spider-Man Remastered displaying dialog about outdated drivers on AMD systems.
+   * Fix Final Fantasy IV (3D Remake) having no audio.
+   * Fix Return to Monkey Island not reacting to mouse clicks after a recent game update.
+   * Fix upsidedown videos in VRChat and many other games.
+   * Fix Call of Duty Black Ops II Zombies and Multiplayer hanging on exit.
+   * Fix Bail or Jail crashing when opening the Terms of Serivce.
+   * Improve GTA V situation with not loading textures.
+   * Fix Red Dead Redemption 2 crashing after a recent game update.
+   * Fix Final Fantasy XIV Online launcher functionality after game update.
+   * Fix cutscene stutter in Disgaea 5.
+   * Fix Thrustmaster HOTAS having non-functional dial in Elite Dangerous.
+   * Fix Planet Zoo randomly crashing.
+   * Fix SCP: Secret Labratory not being playable after a recent game update (again).
+   * Fix Tekken 7 crashing at launch.
+   * Fix Armello hanging on exit.
+   * Fix Sword Art Online: Hollow Realization freezing after the tutorial.
+   * Fix Space Engineers intro video not playing correctly.
+   * Fix Dragon's Dogma: Dark Arisen videos not playing correctly.
+   * Implement network video support for VRChat.
+   * Update dxvk to v1.10.3-28-ge3daa699.
+
 [ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) is a tool to install and manage [Proton-GE](https://github.com/GloriousEggroll/proton-ge-custom) and [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) for Steam and [Wine-GE](https://github.com/GloriousEggroll/wine-ge-custom) for Lutris with this graphical user interface. Based on AUNaseef's [ProtonUp](https://github.com/AUNaseef/protonup), made with Python 3 and Qt 6.
 
 ## Lutris
