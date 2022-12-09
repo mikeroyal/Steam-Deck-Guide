@@ -37,7 +37,7 @@
 
 [Proton](https://github.com/ValveSoftware/Proton/) is a tool for use with the Steam client which allows games which are exclusive to Windows to run on the Linux operating system. It uses Wine to facilitate this.
 
-[Proton Next](https://github.com/ValveSoftware/Proton/wiki/Changelog) is an easier way to check out and test the upcoming stable releases of new Proton versions for Linux desktop and Steam Deck.
+[Proton Experimental](https://github.com/ValveSoftware/Proton/wiki/Changelog) is an easier way to check out and test the upcoming stable releases of new Proton versions for Linux desktop and Steam Deck.
 
   **The following games are now playable:**
        - Rift
@@ -77,6 +77,8 @@
    * Update dxvk to v1.10.3-28-ge3daa699.
 
 [ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) is a tool to install and manage [Proton-GE](https://github.com/GloriousEggroll/proton-ge-custom) and [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) for Steam and [Wine-GE](https://github.com/GloriousEggroll/wine-ge-custom) for Lutris with this graphical user interface. Based on AUNaseef's [ProtonUp](https://github.com/AUNaseef/protonup), made with Python 3 and Qt 6.
+
+[ProtonPlus](https://flathub.org/apps/details/com.vysp3r.ProtonPlus) a simple Wine and Proton-based compatiblity tools manager for GNOME. It works with Steam, Lutris, Heroic Games Launcher and Bottles. 
 
 ## Lutris
 
