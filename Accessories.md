@@ -13,7 +13,7 @@
 - [Screen Protectors](#screen-protectors)
 - [Storage](#storage)
   - [MicroSD Cards](#microsd-cards)
-  - [SSds](#ssds)
+  - [SSDs](#ssds)
 - [Power](#power)
   - [Chargers](#chargers)
   - [Batteries](#batteries)
