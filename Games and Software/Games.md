@@ -80,6 +80,8 @@
 
 [ProtonPlus](https://flathub.org/apps/details/com.vysp3r.ProtonPlus) a simple Wine and Proton-based compatiblity tools manager for GNOME. It works with Steam, Lutris, Heroic Games Launcher and Bottles. 
 
+[Protontricks](https://github.com/Matoking/protontricks)  is a wrapper script that allows you to easily run [Winetricks](https://github.com/Winetricks/winetricks) commands for Steam Play/Proton games among other common Wine features, such as launching external Windows executables. [Protontricks Flatpak](https://flathub.org/apps/details/com.github.Matoking.protontricks)
+
 ## Lutris
 
 [Back to the Top](#games-and-software)
