@@ -194,10 +194,16 @@
   <img src="https://user-images.githubusercontent.com/45159366/112693072-364b8400-8e3d-11eb-9df0-d58af7ac9c9c.png">
 </p>
 
-Shadow](https://shadow.tech/) is a fully-featured, cloud-based, high-end computer. It is the only remote service that offers performance capable of competing with a local PC. Available on Windows, macOS, Linux, Android/AndroidTV, and iOS/tvOS.
+[Shadow](https://shadow.tech/) is a fully-featured, cloud-based, high-end computer. It is the only remote service that offers performance capable of competing with a local PC. Available on Windows, macOS, Linux, Android/AndroidTV, and iOS/tvOS.
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/200110962-dd631248-7a13-48bb-9b5a-acbbf8550e16.png">
+</p>
+
+[BlueStacks X](https://www.bluestacks.com/bluestacks-x.html) is a Cloud-Based Android Gaming Platform that let's you select a game to play from the 2 million+ games available either locally or stream to their PC from the cloud.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/210322565-db525aeb-3f67-4d1b-bb2f-7b56a8e2615f.png">
 </p>
 
 ### Local Game Streaming
