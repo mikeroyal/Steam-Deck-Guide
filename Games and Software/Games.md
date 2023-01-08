@@ -341,3 +341,9 @@ Cartridge Features
 </p>
 
 [Anbox](https://github.com/anbox) is a container-based software for running a full Android system on Linux distributions. Make sure to checkout the [Anbox Arch wiki page](https://wiki.archlinux.org/title/Anbox).
+
+[BlueStacks X](https://www.bluestacks.com/bluestacks-x.html) is a Cloud-Based Android Gaming Platform that let's you select a game to play from the 2 million+ games available either locally or stream to your PC from the cloud.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/210322565-db525aeb-3f67-4d1b-bb2f-7b56a8e2615f.png">
+</p>
