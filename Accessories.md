@@ -184,7 +184,9 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
 
 * [Update the wireless controller firmware](https://controller.dl.playstation.net/controller/lang/gb/fwupdater.html)
 
-**Note:** make sure to use [Bottles](https://usebottles.com/) to run this firmware update.
+* [DS4Windows](https://ds4-windows.com/) is an open-source gamepad input mapper and virtual emulator designed to use and connect your PlayStation controller (DualShock 3/4 and DualSense 5) to a Windows 10 & 11 PC. It also comes handy with emulating a Xbox controller and tricks the computer into thinking the DS4, is in fact, an Xbox game pad (virtual emulation occurs).
+
+**Note:** make sure to use [Bottles](https://usebottles.com/) to run this firmware update and DS4Windows.
  
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45159366/187094347-109c80cd-5cc3-4a97-8a8f-0181687ab0d4.png">
