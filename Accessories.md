@@ -200,6 +200,22 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
     Nintendo Switch Pro Controller
 </p>
 
+[Steam Contoller](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=steam+controller&_sacat=0)
+
+ * **Note:** Steam Controllers were discontinued on November 26, 2019, though, you can still buy them on ebay.
+
+ * [Steam Controller Setup](https://help.steampowered.com/en/faqs/view/41C5-7D8C-1671-411E)
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/211141385-fe44e2a3-ebc2-41d7-acc1-4d14957ef9aa.png">
+ 
+</p>
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/211141386-8054ef27-e7de-4ecc-96e9-b8a46e45a9ea.png">
+ 
+</p>
+
 <!-- TODO Joycon -->
 
 <!-- TODO 8-Bitdo -->
