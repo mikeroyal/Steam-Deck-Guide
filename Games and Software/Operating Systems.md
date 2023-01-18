@@ -47,6 +47,17 @@ HoloISO Desktop. Credit: [theVakhovskeIsTaken](https://github.com/theVakhovskeIs
 
 [Back to the Top](#operating-systems)
 
+[NixOS](https://nixos.org/) is a Linux distribution built on top of the [Nix package manager](https://nixos.wiki/wiki/Nix). It has tools dedicated to DevOps and deployment tasks.
+
+ * [NixOS Guide](https://github.com/mikeroyal/NixOS-Guide)
+ * [Nix on the Steam Deck - Determinate Systems](https://determinate.systems/posts/nix-on-the-steam-deck)
+ 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/128645111-b2a92dd2-f246-4df0-b05c-5b0ffce05448.png">
+  <br />
+  NixOS with the Plasma Desktop
+</p>
+
 [Nobara Project](https://gitlab.com/GloriousEggroll/nobara-images) is an unofficial Fedora Linux Spin that's tailored for Gaming. It adds the necessary packages/tools (such as [Lutris](https://lutris.net/) and [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/)), and fixes issues to make Fedora awesome for gaming. This project is developed and maintained by [Thomas Crider AKA Glorious Eggroll](https://gitlab.com/GloriousEggroll).
 
 <p align="center">
