@@ -246,25 +246,32 @@ The Steam Deck supports expansion via a MicroSD card slot which supports up to 2
 
 [Back to Top](#steam-deck-accessories)
 
-<!-- TODO Add specs overview/explination -->
+ * [Lexar MicroSD cards on Amazon](https://www.amazon.com/lexar-micro-sd-cards/s?k=lexar+micro+sd+cards)
 
-<!-- Not sure why this is here -->
-[Lexar MicroSD cards on Amazon](https://www.amazon.com/lexar-micro-sd-cards/s?k=lexar+micro+sd+cards)
+ * [SanDisk 1TB MicroSD Card on Amazon](https://www.amazon.com/SanDisk-1TB-Micro-SD-Cards/s?k=SanDisk+1TB+Micro+SD+Cards)
 
-<!-- TODO Extend -->
-[SanDisk 1TB MicroSD Card on Amazon](https://www.amazon.com/SanDisk-1TB-Micro-SD-Cards/s?k=SanDisk+1TB+Micro+SD+Cards)
+ * [Samsung 512GB EVO Select MicroSD Card on Amazon](https://www.amazon.com/SAMSUNG-Adapter-microSDXC-MB-ME512KA-AM/dp/B09B1HMJ9Z)
 
-[Samsung 512GB EVO Select MicroSD Card on Amazon](https://www.amazon.com/SAMSUNG-Adapter-microSDXC-MB-ME512KA-AM/dp/B09B1HMJ9Z)
-
-### SSds
+### SSDs
 
 [Back to Top](#steam-deck-accessories)
 
-<!-- TODO Extend -->
+ * [M.2 2230 SSDs on Amazon](https://www.amazon.com/m-2-2230-ssd/s?k=m.2+2230+ssd)
 
-[M.2 2230 SSDs on Amazon](https://www.amazon.com/m-2-2230-ssd/s?k=m.2+2230+ssd)
+ * [M.2 2230 SSDs on NewEgg](https://www.newegg.com/p/pl?d=m.2+2230+ssd)
 
-[M.2 2230 SSDs on NewEgg](https://www.newegg.com/p/pl?d=m.2+2230+ssd)
+[INLAND TN436 1TB M.2 2230 SSD PCIe Gen 4.0x4 NVMe Internal Solid State Drive, 3D TLC NAND Gaming Internal SSD, Compatible with Steam Deck & Microsoft Surface](https://www.amazon.com/dp/B0BK6BMRR6/)
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/215995107-29cd5b73-e675-4782-9d03-af019f444e9a.png">
+</p>
+
+[SABRENT Rocket 2230 NVMe 4.0 512GB High Performance PCIe 4.0 M.2 2230 SSD ](https://www.amazon.com/dp/B0BQG6FM45/)
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/215995112-49441250-5e03-46cc-8d48-bde306339547.png">
+</p>
+
 
 ## Power
 
