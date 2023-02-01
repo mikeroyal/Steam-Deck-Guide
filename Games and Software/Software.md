@@ -104,6 +104,22 @@ A list of available plugins for Decky Loader can be found in [this store](https:
 
 [Warpinator](https://github.com/linuxmint/warpinator) is a free, open-source tool for sending and receiving files between computers that are on the same network. [Warpinator Flatpak](https://flathub.org/apps/details/org.x.Warpinator)
 
+[Syncthing](https://syncthing.net/) is a continuous file synchronization program. It synchronizes files between two or more computers in real time.
+
+[Synology](https://www.synology.com/) is a tool that allows you to easily access and manage files in your Synology Drive on the go. Apart from common file types, such as documents, images, videos and music, you can also open Synology Office document, spreadsheets and slides in the user-friendly viewer provided by Drive.
+
+[Nextcloud](http://nextcloud.com/) is a suite of client-server software for creating and using file hosting services. It offers an on-premise Universal File Access and sync platform with powerful collaboration capabilities and desktop, mobile and web interfaces. 
+
+[Lsyncd (Live Syncing Mirror Daemon)](https://github.com/lsyncd/lsyncd) is a tool used in Linux systems to keep directories synchronized. These directories can be found locally, within the same machine, or remotely, on different machines. For remote synchronization, this article focuses on using SSH to accomplish it.
+
+[FileRun](https://hub.docker.com/r/filerun/filerun) is a self-hosted Google Drive alternative. It is a full featured web based file manager with an easy to use user interface.
+
+[FileBrowser](https://hub.docker.com/r/filebrowser/filebrowser) provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files. It allows the creation of multiple users and each user can have its own directory.
+
+[Rsync](https://rsync.samba.org/) is a utility in the command line which enables users to transfer and synchronize files efficiently between a computer and an external hard drive in the entire connected network.
+
+[rsync.net](https://rsync.net/) is a Cloud Storage for Offsite Backup that give you an empty UNIX filesystem to access with any SSH tool. Built on ZFS for data security and fault tolerance with support for rsync/sftp/scp/borg/rclone/restic/git-annex.
+
 [FileZilla Client](https://filezilla-project.org/) is a fast and reliable cross-platform FTP, FTPS and SFTP client with lots of useful features and an intuitive graphical user interface. [FileZilla Flatpak](https://flathub.org/apps/details/org.filezillaproject.Filezilla)
 
 [Dragit](https://github.com/sireliah/dragit) is an application for intuitive file sharing between devices. It's useful for when you want to send file from one computer to another with minimal effort. Dragit automatically detects devices in the local network with help of mDNS protocol and allows you to send file immediately. [Dragit Flatpak](https://flathub.org/apps/details/com.sireliah.Dragit)
@@ -114,7 +130,7 @@ A list of available plugins for Decky Loader can be found in [this store](https:
 
 [RiftShare](https://riftshare.app) is a cross platform (Windows, MacOS, Linux) file sharing tool that supports fully encrypted transfers both on the local network and off network using a simple passphrase. RiftShare uses [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) under the hood and is compatible with other magic-wormhole clients. It is also fully open source and licensed under the GPLv3. [RiftShare Flatpak](https://flathub.org/apps/details/app.riftshare.RiftShare)
 
-[SyncThing](https://syncthing.net/) is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Works with Mac OS X, Windows, Linux, FreeBSD, Solaris, OpenBSD, Android, and many others. Downloadable in Discover. It's also open source and licensed under the MPL-2.0 license.
+[TagSpaces](https://www.tagspaces.org/) is a free, no vendor lock-in, open source application for organizing, annotating and managing local files with the help of tags. It features advanced note taking functionalities and some capabilities of to-do apps. It's available for Windows, Linux, Mac OS and Android. 
 
 [Usermode FTP Server](https://gitlab.com/ergoithz/umftpd) is a tool that let's you start an FTP server as user and transfer files with any FTP client. Allowing you to access your files directly with many file browsers' builtin FTP support: Windows File Explorer, Thunar, Gnome Files, Dolphin and many more. [Usermode FTP Server on FlatHub](https://flathub.org/apps/details/eu.ithz.umftpd)
 
