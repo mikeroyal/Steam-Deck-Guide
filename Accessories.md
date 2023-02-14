@@ -227,6 +227,14 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
   <img src="https://user-images.githubusercontent.com/45159366/212845013-9ab88231-3185-4c27-a28f-825aee3fec5e.png">
 </p>
 
+[Amazon Luna Controller](https://www.amazon.com/luna/getting-started)
+
+* **The Luna Controller** is made for Amazon's cloud gaming service. Powered by Cloud Direct technology Connect directly to Amazon's custom game servers when playing on Luna, reducing roundtrip latency by 17 to 30 milliseconds vs. a local Bluetooth connection among Windows PC, Mac, and Fire TV. 
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/218290132-7a548dea-8c9b-4c96-8efb-24b9d8c7f74c.png">
+</p>
+
 
 ## Screen Protectors
 
