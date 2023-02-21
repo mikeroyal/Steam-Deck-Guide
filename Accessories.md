@@ -8,7 +8,7 @@
   - [USB-C Adapters](#usb-c-adapters)
 - [Cases](#cases)
 - [Skins](#skins)
-- [Bootup Animations](Botup-Animations)
+- [Bootup Animations](#Bootup-Animations)
 - [Controllers](#controllers)
 - [Screen Protectors](#screen-protectors)
 - [Storage](#storage)
