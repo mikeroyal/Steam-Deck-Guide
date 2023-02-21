@@ -283,20 +283,34 @@ The Steam Deck supports expansion via a MicroSD card slot which supports up to 2
 
 ## Power
 
+**Important Note:**
+
+ * Steam Deck Power Input: **45W USB Type-C PD3.0 power supply**.
+
+ * The Steam Deck can be charged at a **maximum speed of 45W**. 
+
+ * There’s a **5,313mAh battery** inside the Steam Deck.
+
+ * I would recommend getting a **20,000mAh power bank** for your Steam Deck as it will charge your console multiple times.
+
 ### Chargers
 
 [Back to Top](#steam-deck-accessories)
 
-<!-- TODO Steam Deck from IFixit -->
 
-<!-- TODO Extend -->
-
-[Anker 45w Ultra Slim Charging PowerPort](https://www.amazon.com/Charger-Anker-Ultra-Slim-PowerPort-Laptops/dp/B0841J6CMK)
+* [Anker 45w Ultra Slim Charging PowerPort](https://www.amazon.com/Charger-Anker-Ultra-Slim-PowerPort-Laptops/dp/B0841J6CMK)
 
 ### Batteries
 
 [Back to Top](#steam-deck-accessories)
 
-<!-- TODO Extend -->
 
-[Anker PowerCore Battery Bank](https://www.amazon.com/Anker-Portable-PowerCore-Essential-Compatible/dp/B08LG2X98F)
+ * [Anker PowerCore III (45W USB-C PD output)](https://www.amazon.com/Anker-PowerCore-Capacity-Delivery-Portable/dp/B08FX8GKJ5)
+
+ * [Anker 737 Powerbank (up to 140W USC-C PD output)](https://www.amazon.com/Anker-PowerCore-Portable-Charger-Compatible/dp/B09VPHVT2Z)
+
+ * [Anker 733 2-in-1 Power Bank and Wall Charger (up to 65W USC-C PD output)](https://www.amazon.com/Anker-GaNPrime-PowerCore-Charger-Portable/dp/B09W2H224F)
+
+* [HenHot 65W USB-C Portable Charger](https://www.amazon.com/HenHot-20000mAh-Laptop-Portable-Charger/dp/B09SLCV819)
+
+ * [Baseus 65W USB-C Power Bank with Built-in Cable](https://www.amazon.com/Portable-Charger-Baseus-20000mAh-Charging/dp/B08THFDRSZ)
