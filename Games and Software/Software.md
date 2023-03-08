@@ -6,12 +6,21 @@
 
 ## Table of Contents
 
+- [CryoUtilities](#CryoUtilities)
 - [Discord](#discord)
 - [Steam](#steam)
   - [Plugins](#plugins)
 - [File Transfer](#file-transfer)
 - [Backups](#Backups)
 - [Alternatives](#alternatives)
+
+## CryoUtilities
+
+[CryoUtilities](https://github.com/CryoByte33/steam-deck-utilities) is a utility to improve performance and help manage storage on Steam Deck. 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/222683477-3a4b79b3-c373-44a3-ad60-92e98af0bdd6.png">
+</p>
 
 ## Discord
 
