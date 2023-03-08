@@ -187,6 +187,9 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
 
 [Xbox Wireless Controller + USB-C® Cable](https://www.xbox.com/en-us/accessories/controllers/xbox-wireless-controller-usb-c)
 
+ * [XONE](https://github.com/medusalix/xone) is a Linux kernel driver for Xbox One and Xbox Series X|S accessories. It serves as a modern replacement for xpad, aiming to be compatible with Microsoft's Game Input Protocol (GIP).
+ * [XPAD neo](https://github.com/atar-axis/xpadneo) is an Advanced Linux Driver for Xbox One Wireless Controller (shipped with Xbox One S).
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45159366/187094245-3c406751-4e4b-42fd-bd2c-a72181722fad.png">
   <br />
