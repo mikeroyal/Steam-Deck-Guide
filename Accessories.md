@@ -16,7 +16,7 @@
   - [SSDs](#ssds)
 - [Power](#power)
   - [Chargers](#chargers)
-  - [Batteries](#batteries)
+  - [Batteries](#Batteries)
 
 ## Docks
 
@@ -303,17 +303,31 @@ The Steam Deck supports expansion via a MicroSD card slot which supports up to 2
 
 * [Anker 45w Ultra Slim Charging PowerPort](https://www.amazon.com/Charger-Anker-Ultra-Slim-PowerPort-Laptops/dp/B0841J6CMK)
 
-### Batteries
+* [Anker PowerCore III (45W USB-C PD output)](https://www.amazon.com/Anker-PowerCore-Capacity-Delivery-Portable/dp/B08FX8GKJ5)
 
-[Back to Top](#steam-deck-accessories)
-
-
- * [Anker PowerCore III (45W USB-C PD output)](https://www.amazon.com/Anker-PowerCore-Capacity-Delivery-Portable/dp/B08FX8GKJ5)
-
- * [Anker 737 Powerbank (up to 140W USC-C PD output)](https://www.amazon.com/Anker-PowerCore-Portable-Charger-Compatible/dp/B09VPHVT2Z)
+* [Anker 737 Powerbank (up to 140W USC-C PD output)](https://www.amazon.com/Anker-PowerCore-Portable-Charger-Compatible/dp/B09VPHVT2Z)
 
  * [Anker 733 2-in-1 Power Bank and Wall Charger (up to 65W USC-C PD output)](https://www.amazon.com/Anker-GaNPrime-PowerCore-Charger-Portable/dp/B09W2H224F)
 
 * [HenHot 65W USB-C Portable Charger](https://www.amazon.com/HenHot-20000mAh-Laptop-Portable-Charger/dp/B09SLCV819)
 
- * [Baseus 65W USB-C Power Bank with Built-in Cable](https://www.amazon.com/Portable-Charger-Baseus-20000mAh-Charging/dp/B08THFDRSZ)
+* [Baseus 65W USB-C Power Bank with Built-in Cable](https://www.amazon.com/Portable-Charger-Baseus-20000mAh-Charging/dp/B08THFDRSZ)
+
+ [Omni 20+ 20000mAh Laptop Power Bank](https://www.omnicharge.co/products/omni-20/)
+ 
+* [MAXOAK Portable Laptop Charger(26756mAh/99Wh), Portable Power Station W/1x120V AC Outlet PD 45W USB-C Solar Generator Battery Backup Power Supply](https://www.amazon.com/Portable-TSA-Approved-MAXOAK-26756mAh-Lighting-Bluetti/dp/B07VWNV5S6)
+ 
+* [MAXOAK K2 185Wh/50000mAh Power Bank for Laptop](https://maxoak.net/products/maxoak-k2-185Wh-50000mah-power-bank)
+
+* [Anker 525 Power Bank 20000mAh](https://www.anker.com/products/a1287?listingPlan=b&variant=41110977642646&discount=WS24A1287011)
+
+### Batteries
+
+[Replacement Battery for the Steam Deck](https://www.ifixit.com/products/steam-deck-battery)
+
+* [Steam Deck Battery Replacement - iFixit Repair Guide](https://www.ifixit.com/Guide/Steam+Deck+Battery+Replacement/149070)
+* [Steam Deck Parts | iFixit](https://www.ifixit.com/Parts/Steam_Deck)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/226161184-dcc69501-4efe-4890-9482-2d376909b4a4.png">
+</p>
