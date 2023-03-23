@@ -12,7 +12,13 @@ A guide covering Steam Deck including the applications and tools that will make 
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf) or the handy online tool [AnyConv](https://anyconv.com/md-to-pdf-converter/).**
 
-**Note 2: This guide will constantly be updated with new info as becomes available and please feel to make an [issue](https://github.com/mikeroyal/Steam-Deck-Guide/issues) if you think something should be added.**
+**Note 2:** For those wanting to view this Steam Deck Guide in a different language like Chinese, Japanese, Spanish, French, Italian, or German. I would recommend using the [Google Translate for Websites](https://translate.google.com/) just Copy & Paste the URL for this repo and select the Langauge you want it translated to.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/227137649-21bd98c6-40e9-466e-b616-878cfeaafd9b.png">
+</p>
+
+**Note 3: This guide will constantly be updated with new info as becomes available and please feel to make an [issue](https://github.com/mikeroyal/Steam-Deck-Guide/issues) if you think something should be added.**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45159366/142779557-400f19c8-6084-41ee-9449-fb08a15d6c45.png">
