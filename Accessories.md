@@ -218,10 +218,25 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
     Nintendo Switch Pro Controller
 </p>
 
+
 [8Bitdo Ultimate Bluetooth Controller](https://www.8bitdo.com/ultimate-bluetooth-controller/) with Charging Dock, Wireless Pro Controller for Switch, Windows and Steam Deck.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45159366/212845008-8d95f23a-a391-4370-9a93-e033ce5491c8.png">
+</p>
+
+[8BitDo SN30 Pro+ Controller](https://www.8bitdo.com/sn30-pro-plus/)
+
+  <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/226544985-d0c0301c-e927-4845-abf8-5d728943e674.png">
+</br>
+8BitDo SN30 Pro+ Controller
+</p>
+
+  <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/226544994-7628f14d-f558-48f6-92b5-940905ab3fd9.png">
+ </br>
+ 8BitDo SN30 Pro+ Controller Button Mapping
 </p>
 
 [GuliKit KingKong 2 Pro Wireless Controller](https://www.amazon.com/KingKong-Wireless-Controller-Nintendo-Switch-Bluetooth/dp/B09QJN8ZD9)
