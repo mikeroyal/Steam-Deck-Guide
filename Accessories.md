@@ -315,14 +315,19 @@ The Steam Deck supports expansion via a MicroSD card slot which supports up to 2
 
 [Back to Top](#steam-deck-accessories)
 
-
 * [Anker 45w Ultra Slim Charging PowerPort](https://www.amazon.com/Charger-Anker-Ultra-Slim-PowerPort-Laptops/dp/B0841J6CMK)
 
 * [Anker PowerCore III (45W USB-C PD output)](https://www.amazon.com/Anker-PowerCore-Capacity-Delivery-Portable/dp/B08FX8GKJ5)
 
-* [Anker 737 Powerbank (up to 140W USC-C PD output)](https://www.amazon.com/Anker-PowerCore-Portable-Charger-Compatible/dp/B09VPHVT2Z)
+* [Anker 747 Charger (GaNPrime 150W)](https://www.anker.com/products/a2340)
 
- * [Anker 733 2-in-1 Power Bank and Wall Charger (up to 65W USC-C PD output)](https://www.amazon.com/Anker-GaNPrime-PowerCore-Charger-Portable/dp/B09W2H224F)
+* [Anker 737 Charger (GaNPrime 120W)](https://www.anker.com/products/a2148)
+
+* [Anker 736 Charger (Nano II 100W)](https://www.anker.com/products/a2145)
+ 
+* [Anker 735 Charger (GaNPrime 65W)](https://www.anker.com/products/a2668)
+ 
+* [Anker 733 Power Bank (GaNPrime PowerCore 65W)](https://www.anker.com/products/a1651)
 
 * [HenHot 65W USB-C Portable Charger](https://www.amazon.com/HenHot-20000mAh-Laptop-Portable-Charger/dp/B09SLCV819)
 
