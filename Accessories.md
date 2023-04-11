@@ -10,6 +10,7 @@
 - [Skins](#skins)
 - [Bootup Animations](#Bootup-Animations)
 - [Controllers](#controllers)
+   - [Joysticks](#joysticks)  
 - [Screen Protectors](#screen-protectors)
 - [Storage](#storage)
   - [MicroSD Cards](#microsd-cards)
@@ -252,6 +253,12 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
  <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/218290132-7a548dea-8c9b-4c96-8efb-24b9d8c7f74c.png">
 </p>
+
+## Joysticks
+
+ [Gulikit Electromagnetic Module Joystick for Steam Deck](https://www.amazon.com/Electromagnetic-Steam-Deck-Thumbstick-Replacement-Accessories/dp/B0B31STJDH)
+ 
+ * [Upgrade your Steam Deck with Hall Effect Joysticks | Craft Computing YouTube](https://www.youtube.com/watch?v=Ljg_UOKPeMY)
 
 
 ## Screen Protectors
