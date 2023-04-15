@@ -9,6 +9,7 @@
 - [Cases](#cases)
 - [Skins](#skins)
 - [Bootup Animations](#Bootup-Animations)
+- [Headphones](#headphones)
 - [Controllers](#controllers)
 - [Screen Protectors](#screen-protectors)
 - [Storage](#storage)
@@ -163,6 +164,50 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
   <br />
     
 </p>
+
+## Headphones
+
+ * [Sony WH-1000XM5](https://www.sony.com/lr/electronics/headband-headphones/wh-1000xm5)
+
+ * [Sony WH-1000XM4](https://www.sony.com/lr/electronics/headband-headphones/wh-1000xm4)
+ 
+ * [SteelSeries Arctis Nova 7 Wireless](https://steelseries.com/gaming-headsets/arctis-nova-7)
+ 
+ * [HyperX Cloud Alpha Wireless](https://hyperx.com/products/hyperx-cloud-alpha-wireless)
+ 
+ * [Beyerdynamic Tygr 300 R](https://north-america.beyerdynamic.com/tygr-300-r.html)
+ 
+ * [SteelSeries Arctis 1 Wireless](https://steelseries.com/gaming-headsets/arctis-1-wireless)
+ 
+ 
+**Apple Airpods and Airpods Pro**
+ 
+ * [Airpods](https://www.apple.com/airpods/)
+ 
+ * [Airpods Pro](https://www.apple.com/airpods-pro/)
+ 
+ * [Airpods Max](https://www.apple.com/airpods-max/)
+ 
+ **Setting up Airpods on the Steam Deck**
+ 
+ 
+ * Tap on the Steam button. This will open up the sidebar.
+  
+ * Navigate to Settings > Bluetooth.
+  
+ * After this, open the lid on your Airpods, and don’t pull out the earbuds immediately. Hold the button at the back of the case and wait until the light starts flashing on your Airpods.
+  
+ * The flashing light indicates the AirPods are in pairing mode. Tap on the Airpods option in the Steam Deck and wait till the connection is established.
+ 
+ **If you still have issues connecting**
+ 
+ * Plugin the mouse and keyboard into the USB ports on your Steam Deck.
+  
+ *  Hold the power button to bring up the power menu.
+  
+ *  Choose “Switch to Desktop” to switch over to the Linux desktop.
+  
+ *  Now go the Bluetooth Settings and set it to enable on login.
 
 ## Controllers
 
