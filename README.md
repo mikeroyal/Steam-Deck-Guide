@@ -14,6 +14,10 @@ A guide covering Steam Deck including the applications and tools that will make 
 
 **Note 2:** For those wanting to view this Steam Deck Guide in a different language like Chinese, Japanese, Spanish, French, Italian, or German. I would recommend using the [Google Translate for Websites](https://translate.google.com/) just Copy & Paste the URL for this repo and select the Langauge you want it translated to.
 
+ * [Steam Deck Chinese Translation by feathersx](https://github.com/feathersx/Steam-Deck-Guide/blob/main/README.zh-CN.md)
+
+ * [Steam Deck Brazilian Portuguese Translation by valdecircarvalho](https://steamdeck.valdecir.me/)
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45159366/227137649-21bd98c6-40e9-466e-b616-878cfeaafd9b.png">
 </p>
