@@ -232,6 +232,14 @@
   <img src="https://user-images.githubusercontent.com/45159366/106686398-11463d80-657f-11eb-841a-d534829ccc3d.png">
 </p>
 
+[Greenlight](https://github.com/unknownskl/xbox-xcloud-client) is an open-source client for xCloud and xHome streaming made in Javascript and Typescript. The client is an application wrapper around [xbox-xcloud-player](https://github.com/unknownskl/xbox-xcloud-player). It runs on Linux, MacOS, Windows, and Steam Deck.
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/231687956-005c580f-7346-4791-b178-11d53ef38200.png">
+</br>
+Greenlight
+</p>
+
 ## Emulation
 
 [Back to the Top](#games-and-software)
