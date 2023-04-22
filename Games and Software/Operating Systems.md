@@ -109,7 +109,7 @@ WineapOS Desktop. Credit: [LukeShortCloud](https://github.com/LukeShortCloud)
 [Fedora Linux](https://getfedora.org/)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/205604774-0a91b502-0381-431a-acc4-823c1b477615.png">
+  <img src="https://user-images.githubusercontent.com/45159366/233298608-216b9cea-a15f-4fc1-afe7-8b37c93ebdf1.png">
     <br />
       Fedora Desktop
 </p>
