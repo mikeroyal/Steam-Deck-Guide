@@ -242,6 +242,15 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
     Xbox Controller
 </p>
 
+[Xbox Adaptive Controller](https://www.xbox.com/en-US/accessories/controllers/xbox-adaptive-controller) is a unified hub for devices that helps make gaming more accessible. Designed primarily to meet the needs of gamers with limited mobility.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/233890487-e7bdd10d-c489-41de-b0a8-6f666b093218.png">
+<br />
+</p>
+
+Xbox Adaptive Controller. Image Credit: [Microsoft](https://www.xbox.com/)
+
 [PlayStation 5 DualSense™ Wireless Controller](https://www.playstation.com/en-us/accessories/dualsense-wireless-controller/)
 
 * [Update the wireless controller firmware](https://controller.dl.playstation.net/controller/lang/gb/fwupdater.html)
