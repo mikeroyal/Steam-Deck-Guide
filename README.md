@@ -50,6 +50,7 @@ A guide covering Steam Deck including the applications and tools that will make 
 [Steam Deck](https://www.steamdeck.com/) is a handheld gaming computer developed by [Valve Corporation](https://valvesoftware.com/) in cooperation with [Advanced Micro Devices (AMD)](https://www.amd.com/). It allows users to play their entire Steam game library but can be modified by the user to run other gaming storefronts or applications. The Steam Deck started shipping in February 2022.
 
 - [Steam Deck Booklet](https://store.steampowered.com/news/app/1675200/view/3401926123919972634)
+- [Steam News Hub](https://store.steampowered.com/news/app/593110)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45159366/142779563-30ada576-1bf4-42fb-8ad5-3fa3a6e40103.png">
