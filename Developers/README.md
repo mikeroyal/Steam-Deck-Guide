@@ -30,6 +30,8 @@
 
 - [Steam Deck and Proton](https://partner.steamgames.com/doc/steamdeck/proton)
 
+- [SteamOS VSCode + Docker guide by khvn26](https://gist.github.com/khvn26/9de497852c9934ded840d53a95434942)
+
 - [Steam Deck Developer Forums](https://steamcommunity.com/groups/steamworks/discussions/27/)
 
 [Steamworks](https://partner.steamgames.com/doc/home) is a free suite of tools available to any developer to use in their game or software on Steam and the Steam Deck.
