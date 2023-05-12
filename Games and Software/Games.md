@@ -477,6 +477,8 @@ Nintendo 3DS
 
 [Xenia](https://github.com/xenia-project/xenia) is an Xbox 360 Emulator. 
 
+  - [A compatibility list for Xenia (Xbox 360 emulation) on SteamOS](https://docs.google.com/spreadsheets/d/1JmmmpMoge082wRsclijU3Ss491AWTDDdncepiARsN_0/edit?usp=sharing)
+
 ### MAME
 
 [MAME](https://www.mamedev.org/) is a Arcade Machine Emulator. [MAME Flatpak](https://flathub.org/apps/details/org.mamedev.MAME)
