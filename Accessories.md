@@ -392,15 +392,28 @@ The Steam Deck supports expansion via a MicroSD card slot which supports up to 2
 
 * [HenHot 65W USB-C Portable Charger](https://www.amazon.com/HenHot-20000mAh-Laptop-Portable-Charger/dp/B09SLCV819)
 
+* [Spigen ArcStation Pro GaN 452](https://www.spigen.com/products/arcstation-pro-gan-452-dual-port-wall-charger)
+ 
+* [Spigen ArcStation Pro 100W Dual USB C Wall Charger [GaN II]](https://www.spigen.com/collections/gan-charger/products/arcstation-pro-100w-wall-charger)
+ 
+* [Spigen ArcStation Pro 70W Wall Charger [GaN II]](https://www.spigen.com/collections/gan-charger/products/arcstation-pro-70w-wall-charger)
+ 
+* [Spigen ArcStation Pro 65W GaN 652 Dual Port Wall Charger PE2204](https://www.spigen.com/collections/wall-charger/products/arcstation-pro-gan-652-dual-port-wall-charger-pe2204)
+ 
+* [Spigen ArcStation Pro 45W Wall Charger [GaN II]](https://www.spigen.com/collections/gan-charger/products/arcstation-pro-45w-wall-charger)
+ 
+* [Spigen ArcStation Pro 45W GaN 452 Dual Port Wall Charger PE2203](https://www.spigen.com/collections/wall-charger/products/arcstation-pro-gan-452-dual-port-wall-charger-pe2203)
+
 * [Baseus 65W USB-C Power Bank with Built-in Cable](https://www.amazon.com/Portable-Charger-Baseus-20000mAh-Charging/dp/B08THFDRSZ)
 
- [Omni 20+ 20000mAh Laptop Power Bank](https://www.omnicharge.co/products/omni-20/)
+* [Omni 20+ 20000mAh Laptop Power Bank](https://www.omnicharge.co/products/omni-20/)
  
 * [MAXOAK Portable Laptop Charger(26756mAh/99Wh), Portable Power Station W/1x120V AC Outlet PD 45W USB-C Solar Generator Battery Backup Power Supply](https://www.amazon.com/Portable-TSA-Approved-MAXOAK-26756mAh-Lighting-Bluetti/dp/B07VWNV5S6)
  
 * [MAXOAK K2 185Wh/50000mAh Power Bank for Laptop](https://maxoak.net/products/maxoak-k2-185Wh-50000mah-power-bank)
 
 * [Anker 525 Power Bank 20000mAh](https://www.anker.com/products/a1287?listingPlan=b&variant=41110977642646&discount=WS24A1287011)
+
 
 ### Batteries
 
