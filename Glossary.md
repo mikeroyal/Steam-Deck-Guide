@@ -52,6 +52,8 @@ D
 
 [DuckStation](https://www.duckstation.org/) is an simulator/emulator of the Sony PlayStation 1 console, focusing on playability, speed, and long-term maintainability.
 
+[DXVK](https://github.com/doitsujin/dxvk) is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
+
 [Dynamic Cloud Sync](https://steamcommunity.com/groups/steamworks/announcements/detail/3142949576401813670) is a tool that Steam will use  to automatically upload all modified save game data to the cloud prior to the device entering sleep mode. 
 
 E
@@ -111,6 +113,8 @@ M
 [MAME](https://www.mamedev.org/) is a Arcade Machine Emulator.
 
 [MangoHud](https://github.com/flightlessmango/MangoHud) is a Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
+
+[Mesa3D](https://mesa3d.org/) is a 3D graphics library with open-source implementations of OpenGL, OpenGL ES, Vulkan, OpenCL, and more. Mesa 23.1 comes with support for several new Vulkan extensions for the Radeon Vulkan driver (RADV) for AMD Radeon GPUs.
 
 [m64p](https://m64p.github.io/) is a Nintendo 64 Emulator.
 
@@ -191,6 +195,8 @@ U
 V
 
 [Valve](https://www.valvesoftware.com/) makers of the Steam, SteamOS, and [Steam Deck](http://www.steamdeck.com/).
+
+[vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan. The project serves as the development effort for Direct3D 12 support in [Proton](https://github.com/ValveSoftware/Proton).
 
 W
 
