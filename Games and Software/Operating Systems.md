@@ -34,6 +34,14 @@
   <img src="https://user-images.githubusercontent.com/45159366/172273657-f184233d-56d8-429b-9a63-d8a2b8e7412b.png">
 </p>
 
+[ChimeraOS](https://chimeraos.org/) is a linux operating system that provides an out of the box couch gaming experience. It boots directly into Steam Big Picture and start playing your favorite games.
+
+<p align="center">
+  <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/b916cd2f-1b8e-43c7-8833-3c3b0d0715ef">
+</p>
+
+ ChimeraOS Desktop. Credit: [ChimeraOS](https://chimeraos.org/)
+
 [HoloISO](https://github.com/theVakhovskeIsTaken/holoiso) is a SteamOS 3 (Holo) archiso configuration. It aims to bring the Steam Deck's Holo OS into a generic, installable format, and provide a close-to-official SteamOS experience.
 
 <p align="center">
