@@ -428,43 +428,36 @@ Image Credit: [SD Association](https://www.sdcard.org/)
 [Back to Top](#steam-deck-accessories)
 
 * [Anker 45w Ultra Slim Charging PowerPort](https://www.amazon.com/Charger-Anker-Ultra-Slim-PowerPort-Laptops/dp/B0841J6CMK)
-
 * [Anker PowerCore III (45W USB-C PD output)](https://www.amazon.com/Anker-PowerCore-Capacity-Delivery-Portable/dp/B08FX8GKJ5)
-
 * [Anker 747 Charger (GaNPrime 150W)](https://www.anker.com/products/a2340)
-
 * [Anker 737 Charger (GaNPrime 120W)](https://www.anker.com/products/a2148)
-
 * [Anker 736 Charger (Nano II 100W)](https://www.anker.com/products/a2145)
- 
 * [Anker 735 Charger (GaNPrime 65W)](https://www.anker.com/products/a2668)
- 
 * [Anker 733 Power Bank (GaNPrime PowerCore 65W)](https://www.anker.com/products/a1651)
-
-* [HenHot 65W USB-C Portable Charger](https://www.amazon.com/HenHot-20000mAh-Laptop-Portable-Charger/dp/B09SLCV819)
-
-* [Spigen ArcStation Pro GaN 452](https://www.spigen.com/products/arcstation-pro-gan-452-dual-port-wall-charger)
- 
-* [Spigen ArcStation Pro 100W Dual USB C Wall Charger [GaN II]](https://www.spigen.com/collections/gan-charger/products/arcstation-pro-100w-wall-charger)
- 
-* [Spigen ArcStation Pro 70W Wall Charger [GaN II]](https://www.spigen.com/collections/gan-charger/products/arcstation-pro-70w-wall-charger)
- 
-* [Spigen ArcStation Pro 65W GaN 652 Dual Port Wall Charger PE2204](https://www.spigen.com/collections/wall-charger/products/arcstation-pro-gan-652-dual-port-wall-charger-pe2204)
- 
-* [Spigen ArcStation Pro 45W Wall Charger [GaN II]](https://www.spigen.com/collections/gan-charger/products/arcstation-pro-45w-wall-charger)
- 
-* [Spigen ArcStation Pro 45W GaN 452 Dual Port Wall Charger PE2203](https://www.spigen.com/collections/wall-charger/products/arcstation-pro-gan-452-dual-port-wall-charger-pe2203)
-
-* [Baseus 65W USB-C Power Bank with Built-in Cable](https://www.amazon.com/Portable-Charger-Baseus-20000mAh-Charging/dp/B08THFDRSZ)
-
-* [Omni 20+ 20000mAh Laptop Power Bank](https://www.omnicharge.co/products/omni-20/)
- 
-* [MAXOAK Portable Laptop Charger(26756mAh/99Wh), Portable Power Station W/1x120V AC Outlet PD 45W USB-C Solar Generator Battery Backup Power Supply](https://www.amazon.com/Portable-TSA-Approved-MAXOAK-26756mAh-Lighting-Bluetti/dp/B07VWNV5S6)
- 
-* [MAXOAK K2 185Wh/50000mAh Power Bank for Laptop](https://maxoak.net/products/maxoak-k2-185Wh-50000mah-power-bank)
-
 * [Anker 525 Power Bank 20000mAh](https://www.anker.com/products/a1287?listingPlan=b&variant=41110977642646&discount=WS24A1287011)
-
+* [Baseus Adaman Power Bank 65W 20000mAh](https://www.baseus.com/products/adaman-power-bank-65w-20000mah)
+* [Baseus Amblight Power Bank 65W 30000mAh](https://www.baseus.com/products/amblight-power-bank-65w-30000mah)
+* [Baseus Blade Laptop Power Bank 100W 20000mAh](https://www.baseus.com/products/blade-laptop-power-bank-100w-20000mah)
+* [Baseus 65W USB-C Power Bank with Built-in Cable](https://www.amazon.com/Portable-Charger-Baseus-20000mAh-Charging/dp/B08THFDRSZ)
+* [Baseus GaN2 3 Ports Fast Charger 65W](https://www.baseus.com/products/gan2-3-ports-fast-charger-65w)
+* [Baseus GaN2 4 Ports Fast Charger 100W](https://www.baseus.com/products/gan2-4-ports-fast-charger-100w)
+* [Baseus GaN2 Pro 3 Ports USB-C Fast Charger 120W](https://www.baseus.com/products/gan2-pro-3-ports-usb-c-fast-charger-120w)
+* [Anker 747 Charger (GaNPrime 150W)](https://www.anker.com/products/a2340)
+* [Anker 737 Charger (GaNPrime 120W)](https://www.anker.com/products/a2148)
+* [Anker 736 Charger (Nano II 100W)](https://www.anker.com/products/a2145) 
+* [Anker 735 Charger (GaNPrime 65W)](https://www.anker.com/products/a2668) 
+* [Anker 733 Power Bank (GaNPrime PowerCore 65W)](https://www.anker.com/products/a1651)
+* [Anker 525 Power Bank 20000mAh](https://www.anker.com/products/a1287?listingPlan=b&variant=41110977642646&discount=WS24A1287011)
+* [HenHot 65W USB-C Portable Charger](https://www.amazon.com/HenHot-20000mAh-Laptop-Portable-Charger/dp/B09SLCV819)
+* [Spigen ArcStation Pro GaN 452](https://www.spigen.com/products/arcstation-pro-gan-452-dual-port-wall-charger)
+* [Spigen ArcStation Pro 100W Dual USB C Wall Charger [GaN II]](https://www.spigen.com/collections/gan-charger/products/arcstation-pro-100w-wall-charger)
+* [Spigen ArcStation Pro 70W Wall Charger [GaN II]](https://www.spigen.com/collections/gan-charger/products/arcstation-pro-70w-wall-charger)
+* [Spigen ArcStation Pro 65W GaN 652 Dual Port Wall Charger PE2204](https://www.spigen.com/collections/wall-charger/products/arcstation-pro-gan-652-dual-port-wall-charger-pe2204)
+* [Spigen ArcStation Pro 45W Wall Charger [GaN II]](https://www.spigen.com/collections/gan-charger/products/arcstation-pro-45w-wall-charger)
+* [Spigen ArcStation Pro 45W GaN 452 Dual Port Wall Charger PE2203](https://www.spigen.com/collections/wall-charger/products/arcstation-pro-gan-452-dual-port-wall-charger-pe2203)
+* [Omni 20+ 20000mAh Laptop Power Bank](https://www.omnicharge.co/products/omni-20/)
+* [MAXOAK Portable Charger(26756mAh/99Wh), Portable Power Station W/1x120V AC Outlet PD 45W USB-C](https://www.amazon.com/Portable-TSA-Approved-MAXOAK-26756mAh-Lighting-Bluetti/dp/B07VWNV5S6)
+* [MAXOAK K2 185Wh/50000mAh Power Bank](https://maxoak.net/products/maxoak-k2-185Wh-50000mah-power-bank)
 
 ### Batteries
 
