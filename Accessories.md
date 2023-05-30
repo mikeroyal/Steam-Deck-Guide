@@ -169,7 +169,6 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
     Xtremeskins skin
 </p>
 
-<!-- TODO Popskin -->
 
 [Custom Skins](https://drive.google.com/file/d/1rQFoLlpMUKFEJcRIh80UvpmdVXZIsEZz/view) If you have access to the equipment it is possible to make your own skins from vinyl. This file provides the necessary cut template.
 
@@ -352,7 +351,7 @@ Xbox Adaptive Controller. Image Credit: [Microsoft](https://www.xbox.com/)
 
 [Back to Top](#steam-deck-accessories)
 
-The Steam Deck supports expansion via a MicroSD card slot which supports up to 2tb MicroSD cards. Additionally the deck uses a 2230 m.2 SSD drive, meaning that some users have sourced large (up to 2tb!) drives to upgrade their Decks.
+The Steam Deck supports expansion via a MicroSD card slot which supports up to 2TB MicroSD cards. Additionally the Steam Deck uses a 2230 m.2 SSD drive, meaning that some users have sourced large (up to 2TB!) drives to upgrade their Decks.
 
 ### MicroSD Cards
 
@@ -364,6 +363,15 @@ The Steam Deck supports expansion via a MicroSD card slot which supports up to 2
 
  * [Samsung 512GB EVO Select MicroSD Card on Amazon](https://www.amazon.com/SAMSUNG-Adapter-microSDXC-MB-ME512KA-AM/dp/B09B1HMJ9Z)
 
+**Note:** **UHS (Ultra High Definition)** is the next generation bus interface used to enable high-speed data transfer for SDHC and SDXC cards. There are three classes UHS-I (Ultra High-Speed Phase I), UHS-II (Ultra High-Speed Phase II), and UHS-III (Ultra High-Speed Phase III). For daily usage, a microSD or SD card with UHS-I interface would be sufficient with storage capacity up to 1TB. If this doesn't satisfy your needs, you can go for microSD or SD cards with UHS-II interface with current storage capacity up to 256GB.
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/08860aa9-4f9b-456f-80cd-ba4f83e83828">
+</br>
+</p>
+
+Image Credit: [SD Association](https://www.sdcard.org/)
+
 ### SSDs
 
 [Back to Top](#steam-deck-accessories)
@@ -371,17 +379,35 @@ The Steam Deck supports expansion via a MicroSD card slot which supports up to 2
  * [M.2 2230 SSDs on Amazon](https://www.amazon.com/m-2-2230-ssd/s?k=m.2+2230+ssd)
 
  * [M.2 2230 SSDs on NewEgg](https://www.newegg.com/p/pl?d=m.2+2230+ssd)
+ 
+ [SABRENT Rocket 2230 NVMe 4.0 512GB High Performance PCIe 4.0 M.2 2230 SSD ](https://www.amazon.com/dp/B0BQG6FM45/)
 
-[INLAND TN436 1TB M.2 2230 SSD PCIe Gen 4.0x4 NVMe Internal Solid State Drive, 3D TLC NAND Gaming Internal SSD, Compatible with Steam Deck & Microsoft Surface](https://www.amazon.com/dp/B0BK6BMRR6/)
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/215995112-49441250-5e03-46cc-8d48-bde306339547.png">
+</p>
+ 
+[SABRENT Rocket 2230 NVMe 4.0 1TB High Performance PCIe 4.0 M.2 2230 SSD [SB-2130-1TB]](https://www.amazon.com/INLAND-TN436-4-0x4-Internal-Gaming/dp/B0BK6BMRR6)
+
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/7e1ec042-f3ee-48a2-81d2-3d2f987ddabf">
+</p>
+
+[INLAND TN436 1TB M.2 2230 SSD PCIe Gen 4.0x4 NVMe Internal Solid State Drive, 3D TLC NAND Gaming Internal SSD](https://www.amazon.com/dp/B0BK6BMRR6/)
 
  <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/215995107-29cd5b73-e675-4782-9d03-af019f444e9a.png">
 </p>
 
-[SABRENT Rocket 2230 NVMe 4.0 512GB High Performance PCIe 4.0 M.2 2230 SSD ](https://www.amazon.com/dp/B0BQG6FM45/)
+[INLAND 2230 Internal SSD 1TB High Performance Gen4x4 M.2 2230 30mm Internal Solid State Drive PCIe 4.0, up to 4,700 MB/s](https://www.amazon.com/INLAND-Internal-Performance-Gen4x4-TN446/dp/B0BYW79X4H/)
 
  <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/215995112-49441250-5e03-46cc-8d48-bde306339547.png">
+ <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/199614ea-346c-46c9-a0a6-9bf2642eed83">
+</p>
+
+[XPC Technologies 2TB M.2 2230 NVMe PCIe SSD Gen 4.0x4 Single-Sided Drive, 5100MB/s Read, 4800 MB/s Write](https://www.amazon.com/XPC-Technologies-Single-Sided-Replacement-Upgrade/dp/B0BHQ91SGM)
+
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/dbd8ae1d-62e7-45da-bfd7-c4cb23f8b919">
 </p>
 
 
