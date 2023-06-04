@@ -397,6 +397,11 @@ The Steam Deck supports expansion via a MicroSD card slot which supports up to 2
 
 Image Credit: [SD Association](https://www.sdcard.org/)
 
+## YouTube Videos for Upgrading SSD
+ 
+ * [Upgrading my Steam Deck with a 1 TB SSD was SHOCKINGLY easy | Gardiner Bryant](https://www.youtube.com/watch?v=VT6XsXJGVsE&pp=ygUYdXBncmFkaW5nIHN0ZWFtIGRlY2sgc3Nk)
+ * [STEAM DECK SSD UPGRADE Using the SABRENT 2230 SSD! | SABRENT USA Offficial](https://www.youtube.com/watch?v=OFlE4yAtEDo&pp=ygUYdXBncmFkaW5nIHN0ZWFtIGRlY2sgc3Nk)
+ 
 ### SSDs
 
 [Back to Top](#steam-deck-accessories)
