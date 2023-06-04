@@ -452,6 +452,8 @@ Image Credit: [SD Association](https://www.sdcard.org/)
 
 ### Portable SSDs
 
+[Back to Top](#steam-deck-accessories)
+
  * **[Moving a Steam Installation and Games](https://help.steampowered.com/faqs/view/4BD4-4528-6B2E-8327)**
 
 [Sabrent XTRM Q](https://www.sabrent.com/rocket-xtrmq/) is a perfect SSD for all your needs: Games, High-res photos, Videos, Sound files, etc. It's perfect for saving, creating and editing available in 500GB, 1TB, 2TB, and 4TB drives.
