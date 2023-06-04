@@ -18,6 +18,7 @@
 - [Storage](#storage)
   - [MicroSD Cards](#microsd-cards)
   - [SSDs](#ssds)
+  - [External/Portablr SSDs](#portable-ssds)
 - [Power](#power)
   - [Chargers](#chargers)
   - [Batteries](#Batteries)
@@ -433,6 +434,33 @@ Image Credit: [SD Association](https://www.sdcard.org/)
  <p align="center">
  <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/dbd8ae1d-62e7-45da-bfd7-c4cb23f8b919">
 </p>
+
+### Portable SSDs
+
+ * **[Moving a Steam Installation and Games](https://help.steampowered.com/faqs/view/4BD4-4528-6B2E-8327)**
+
+[Sabrent XTRM Q](https://www.sabrent.com/rocket-xtrmq/) is a perfect SSD for all your needs: Games, High-res photos, Videos, Sound files, etc. It's perfect for saving, creating and editing available in 500GB, 1TB, 2TB, and 4TB drives.
+
+[Shell Thunder](https://m.fledging.net/products/shell-thunder) is a high-performance Intel-Certified Thunderbolt 3 SSD Enclosure engineered for active cooling with smart fan technology. Shell Thunder is designed for 2280 and 2260 m.2 NVME SSDs for Windows and macOS.
+
+[Orico USB4.0 NVMe SSD Enclosure](https://www.orico.cc/us/product/detail/7328.html) is a high-performance SSD Enclosure engineered with up to a 40Gbps transmission rate and 2 TB capacity. It supports Windows, macOS, and Linux devices.
+
+
+ * [Kingston XS2000 Portable SSD](https://www.amazon.com/Kingston-Performance-Pocket-Sized-SXS2000-2000G/dp/B09F6279PY)
+ * [Crucial X8](https://www.amazon.com/Crucial-X8/s?k=Crucial+X8)
+ * [Samsung Portable SSD X5](https://www.samsung.com/us/computing/memory-storage/portable-solid-state-drives/portable-ssd-x5-1tb-mu-pb1t0b-am/)
+ * [Samsung Portable SSD T7 Touch](https://www.samsung.com/us/computing/memory-storage/portable-solid-state-drives/portable-ssd-t7-touch-usb-3-2-500gb-black-mu-pc500k-ww/)
+ * [SanDisk Professional Pro-G40 SSD](https://www.westerndigital.com/products/portable-drives/sandisk-professional-pro-g40-ssd)
+ * [SanDisk Professional G-Drive ArmorATD](https://www.westerndigital.com/products/portable-drives/sandisk-professional-g-drive-armoratd-usb-3-1-hdd)
+ * [WD Black P10](https://www.westerndigital.com/products/portable-drives/wd-black-p10-game-drive-usb-3-2-hdd)
+ * [WD Black D10](https://www.westerndigital.com/products/external-drives/wd-black-d10-game-drive-usb-3-2-hdd)
+ * [WD My Passport (5TB)](https://www.westerndigital.com/products/portable-drives/wd-my-passport-usb-3-0-hdd)
+ * [OWC Envoy Pro EX With USB-C](https://www.amazon.com/OWC-Envoy-External-Storage-Solution/dp/B07T7X7HRK)
+ * [LaCie Rugged SSD Pro](https://www.lacie.com/products/rugged/)
+ * [LaCie Rugged RAID Shuttle](https://www.lacie.com/products/rugged/)
+ * [LaCie 2big RAID](https://www.lacie.com/products/big/2big/)
+ * [LaCie Mobile Drive](https://www.lacie.com/products/mobile-drive/)
+ * [CalDigit AV Pro 2](https://www.caldigit.com/av-pro-2/)
 
 
 ## Power
