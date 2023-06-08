@@ -8,6 +8,7 @@
   - [Docking Stations](#docking-stations) 
   - [USC-C Hubs](#usb-c-hubs) 
   - [USB-C Adapters](#usb-c-adapters)
+  - [USB-C Fast Charging Cables (from 3.3-10ft)](#usb-c-fast-charging-cables)
 - [Cases](#cases)
 - [Skins](#skins)
 - [Bootup Animations](#Bootup-Animations)
@@ -104,33 +105,53 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
 
 [Back to Top](#steam-deck-accessories)
 
-[Anker USB-C Hub](https://www.anker.com/collections/hubs)
+ * [Anker USB-C Hub](https://www.anker.com/collections/hubs)
 
-[Anker USB-C Hub, PowerExpand 6-in-1 ](https://www.amazon.com/Anker-PowerExpand-Ethernet-Delivery-MacBook/dp/B08C9HZ5YT/)
+ * [Anker USB-C Hub, PowerExpand 6-in-1 ](https://www.amazon.com/Anker-PowerExpand-Ethernet-Delivery-MacBook/dp/B08C9HZ5YT/)
 
-[Anker USB C Hub, 341 USB-C Hub (7-in-1) with 4K HDMI](https://www.amazon.com/Anker-Upgraded-Delivery-Pixelbook-A83460A2/dp/B07ZVKTP53/)
+ * [Anker USB C Hub, 341 USB-C Hub (7-in-1) with 4K HDMI](https://www.amazon.com/Anker-Upgraded-Delivery-Pixelbook-A83460A2/dp/B07ZVKTP53/)
 
-[Anker 332 USB-C Hub (5-in-1) with 4K HDMI Display](https://www.amazon.com/Anker-Display-MacBook-Thinkpad-Laptops/dp/B0BQLLB61B/)
+ * [Anker 332 USB-C Hub (5-in-1) with 4K HDMI Display](https://www.amazon.com/Anker-Display-MacBook-Thinkpad-Laptops/dp/B0BQLLB61B/)
 
-[Hiearcool USB-C Hub](https://www.amazon.com/Hiearcool-MacBook-Multiport-Compatible-Nintendo/dp/B07WPTG7NX/)
+ * [Hiearcool USB-C Hub](https://www.amazon.com/Hiearcool-MacBook-Multiport-Compatible-Nintendo/dp/B07WPTG7NX/)
 
-[Hiearcool USB-C Hub Carbon Black](https://www.amazon.com/Hiearcool-Adapter-MacBook-Air-Carbon-Black/dp/B09YL6YBSC/)
+ * [Hiearcool USB-C Hub Carbon Black](https://www.amazon.com/Hiearcool-Adapter-MacBook-Air-Carbon-Black/dp/B09YL6YBSC/)
 
-[Acodot USB C Hub, Acodot 9 in 1 USB-C to 4K@60HZ HDMI Multiport Adapter](https://www.amazon.com/USB-Hub-Acodot-Multiport-Adapter/dp/B0BKPYY8BC/)
+ * [Acodot USB C Hub, Acodot 9 in 1 USB-C to 4K@60HZ HDMI Multiport Adapter](https://www.amazon.com/USB-Hub-Acodot-Multiport-Adapter/dp/B0BKPYY8BC/)
 
 ### USB-C Adapters
 
 [Back to Top](#steam-deck-accessories)
 
-[JSAUX USB-C to USB Adapter (2 Pack)](https://www.amazon.com/JSAUX-Adapter-Compatible-MacBook-Samsung/dp/B07BS8SRWH/)
+ * [JSAUX USB-C to USB Adapter (2 Pack)](https://www.amazon.com/JSAUX-Adapter-Compatible-MacBook-Samsung/dp/B07BS8SRWH/)
 
-[Anker USB-C Adapter (2 Pack)](https://www.amazon.com/Adapter-Anker-High-Speed-Transfer-Notebook/dp/B08HZ6PS61/)
+ * [Anker USB-C Adapter (2 Pack)](https://www.amazon.com/Adapter-Anker-High-Speed-Transfer-Notebook/dp/B08HZ6PS61/)
 
-[Basesailor USB to USB-C Adapter (2 Pack)](https://www.amazon.com/Female-Adapter-Charger-Airpods-Samsung/dp/B079LYHNSR/)
+ * [Basesailor USB to USB-C Adapter (2 Pack)](https://www.amazon.com/Female-Adapter-Charger-Airpods-Samsung/dp/B079LYHNSR/)
 
-[Syntech USB-C to USB Adapter (2 Pack)](https://www.amazon.com/Syntech-Adapter-Thunderbolt-Compatible-MacBook/dp/B07CVX3516/)
+ * [Syntech USB-C to USB Adapter (2 Pack)](https://www.amazon.com/Syntech-Adapter-Thunderbolt-Compatible-MacBook/dp/B07CVX3516/)
 
-[Apple USB-C to USB Adapter](https://www.amazon.com/Apple-USB-C-to-USB-Adapter/dp/B00VU2OID2/)
+ * [Apple USB-C to USB Adapter](https://www.amazon.com/Apple-USB-C-to-USB-Adapter/dp/B00VU2OID2/)
+
+### USB-C Fast Charging Cables
+
+[Back to Top](#steam-deck-accessories)
+ 
+ * [Baseus Minimalist USB-C to USB-C Cable 100W](https://www.baseus.com/products/minimalist-usb-c-to-usb-c-cable-100w)
+
+ * [Baseus USB-C Fast Charging Cable 240W](https://www.baseus.com/products/usb-c-fast-charging-cable-240w)
+
+ * [Baseus PD 100W USB C to USB C Cable(6.6 ft), 5A Fast Charging USB C Cable with LED Display](https://www.amazon.com/Baseus-Charging-Display-Braided-Compatible/dp/B0B6CF1YYF?th=1)
+
+ * [Baseus Cafule USB-C to USB-C Cable( 6.6 ft) 100W](https://www.baseus.com/products/cafule-usb-c-to-usb-c-cable-100w-6-6-ft)
+
+ * [Anker 333 USB C to USB C Cable (6ft 100W, 2-Pack)](https://www.amazon.com/Anker-2-Pack-Charging-MacBook-Samsung/dp/B09LCJPZ1P/)
+
+ * [JSAUX USB C to USB C Cable 100W/5A [2-Pack 6.6ft+6.6ft], QC 4.0/USB PD Type-C Fast Charging](https://www.amazon.com/JSAUX-Charging-Braided-Compatible-Matebook/dp/B07GZH2WTV/)
+
+ * [USB C to USB C Cable, 3.2 Gen 2 USB-C Cable 10ft - 4K UHD 20Gbps USB C Cable 100W PD Fast Charging Cable](https://www.amazon.com/USB-Cable-3-1-USB-C-10ft/dp/B089FV33QX/)
+
+ * [AINOPE 100W USB C to USB C Cable 10ft, USB C Charger Cable](https://www.amazon.com/AINOPE-Charging-Braided-compatible-MacBook/dp/B094YDZQ1C/)
 
 ## Cases
 
