@@ -380,10 +380,15 @@ Xbox Adaptive Controller. Image Credit: [Microsoft](https://www.xbox.com/)
 
 ## Joysticks
 
+ [GuliKit Electromagnetic Joystick Module 2.0 for Steam Deck](https://www.gulikit.com/productinfo/1026071.html)
+
  [Gulikit Electromagnetic Module Joystick for Steam Deck](https://www.amazon.com/Electromagnetic-Steam-Deck-Thumbstick-Replacement-Accessories/dp/B0B31STJDH)
  
  * [Upgrade your Steam Deck with Hall Effect Joysticks | Craft Computing YouTube](https://www.youtube.com/watch?v=Ljg_UOKPeMY)
 
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/006c7d32-a292-4d8d-939a-1aafd313e98b">
+</p>
 
 ## Screen Protectors
 
