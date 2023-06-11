@@ -8,7 +8,7 @@
          <img alt="followers" title="Follow me on Github for Updates" src="https://custom-icon-badges.demolab.com/github/followers/mikeroyal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 	
 
 
-A guide covering Steam Deck including the applications and tools that will make you a better and more efficient with your Steam Deck device.
+A guide covering Steam Deck including the applications and tools that will make your experience with your Steam Deck device great!
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf) or the handy online tool [AnyConv](https://anyconv.com/md-to-pdf-converter/).**
 
