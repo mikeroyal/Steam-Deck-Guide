@@ -195,6 +195,31 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
     Spigen Case
 </p>
 
+[eXtremeRate Steam Deck Shells](https://extremerate.com/collections/steam-deck-shells)
+
+<p align="center">
+  <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/a21273d4-1adb-4501-9898-25a9264eb012">
+  <br />
+  eXtremeRate Steam Deck Shells
+</p>
+
+[JSAUX Transparent Back Plate for Steam Deck](https://jsaux.com/collections/steam-deck-accessory)
+
+<p align="center">
+  <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/fe1efa37-e635-4300-96d4-0a379623025e">
+  <br />
+  JSAUX Transparent Back Plate
+</p>
+
+
+[JSAUX Transparent Shell for Steam Deck (Coming Soon)](https://jsaux.com/collections/steam-deck-accessory)
+
+<p align="center">
+  <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/504146a8-ae6a-4a7e-9b7b-c6f150487cb7">
+  <br />
+  JSAUX Transparent Shell
+</p>
+
 ## Skins
 
 [Back to Top](#steam-deck-accessories)
