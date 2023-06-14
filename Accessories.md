@@ -433,6 +433,7 @@ The Steam Deck supports expansion via a MicroSD card slot which supports up to 2
 
 [Back to Top](#steam-deck-accessories)
 
+ * [SanDisk Extreme PRO microSDXC™ UHS-I CARD speed up to 200MB/s](https://www.westerndigital.com/products/memory-cards/sandisk-extreme-pro-uhs-i-microsd#SDSQXCD-1T00-GN6MA)
 * [Integral MicroSD cards](https://www.integralmemory.com/product-category/memory-cards/micro-sd/)
 * [Lexar MicroSD cards on Amazon](https://www.amazon.com/lexar-micro-sd-cards/s?k=lexar+micro+sd+cards)
 * [SanDisk 1TB MicroSD Card on Amazon](https://www.amazon.com/SanDisk-1TB-Micro-SD-Cards/s?k=SanDisk+1TB+Micro+SD+Cards)
