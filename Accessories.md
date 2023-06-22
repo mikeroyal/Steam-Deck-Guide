@@ -11,6 +11,7 @@
   - [USB-C Fast Charging Cables (from 3.3-10ft)](#usb-c-fast-charging-cables)
 - [Cases](#cases)
 - [Skins](#skins)
+- [Thumbstick Grips](thumbstick-grips)
 - [Bootup Animations](#Bootup-Animations)
 - [Headphones](#headphones)
 - [Controllers](#controllers)
@@ -248,6 +249,18 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
   <img src="https://user-images.githubusercontent.com/88871218/193435273-4f2c9363-6f03-4e91-b6aa-60628caffab6.png">
   <br />
     Custom skins cut template
+</p>
+
+## Thumbstick Grips
+
+[Back to Top](#steam-deck-accessories)
+
+[Thumb Grip Set for Steam Deck/ROG Ally](https://skullnco.com/collections/thumb-grip/products/thumb-grip-set-for-steam-deck)
+
+<p align="center">
+  <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/4c847561-dfb2-48c6-b16b-43b1b2629c21">
+  <br />
+    Custom thumbstick grips
 </p>
 
 ## Bootup Animations
@@ -509,6 +522,8 @@ Image Credit: [SD Association](https://www.sdcard.org/)
 </p>
 
 ### SSD Heatsinks
+
+[Back to Top](#steam-deck-accessories)
 
 [SSD Heatsink Thermal Pad: M.2 2230 NVME SSD Copper Heat Sink Cooling Thermal Paste](https://www.amazon.com/Steam-Deck-SSD-Heatsink-Thermal/dp/B0C1BQVZW2)
 
