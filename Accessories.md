@@ -11,7 +11,7 @@
   - [USB-C Fast Charging Cables (from 3.3-10ft)](#usb-c-fast-charging-cables)
 - [Cases](#cases)
 - [Skins](#skins)
-- [Thumbstick Grips](thumbstick-grips)
+- [Thumbstick Grips](#thumbstick-grips)
 - [Bootup Animations](#Bootup-Animations)
 - [Headphones](#headphones)
 - [Controllers](#controllers)
