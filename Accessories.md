@@ -21,6 +21,7 @@
 - [Screen Protectors](#screen-protectors)
 - [Storage](#storage)
   - [MicroSD Cards](#microsd-cards)
+  - [USB-C MicroSD Card Readers](#usb-c-microsdsd-card-readers)
   - [SSDs](#ssds)
   - [SSD Heatsinks](#ssd-heatsinks)
   - [External/Portable SSDs](#portable-ssds)
@@ -507,6 +508,39 @@ The Steam Deck supports expansion via a MicroSD card slot which supports up to 2
 </p>
 
 Image Credit: [SD Association](https://www.sdcard.org/)
+
+
+### USB-C MicroSD Card Readers
+
+[Back to Top](#steam-deck-accessories)
+
+[UGREEN USB-C Micro SD Card Reader Type C to MicroSD Card Adapter](https://www.amazon.com/UGREEN-Portable-Aluminum-Adapter-Windows/dp/B08131PLHZ) 
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/57f70ca9-33f4-4db4-b9d3-d92828a6fa53">
+</br>
+</p>
+
+[UGREEN USB-C SD Card Reader, 2-in-1 Micro SD Card Reader, for TF SD, MicroSD SDXC, and MicroSDXC UHS-I Card](https://www.amazon.com/UGREEN-Reader-Adapter-MacBook-Samsung/dp/B08CS8T8DC)
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/ed17ca2f-8460-4b9c-9633-4e3674f952ed">
+</br>
+</p>
+
+[Anker SD Card Reader, 2-in-1 USB-C Memory Reader for SDXC, SDHC, SD, MMC, RS-MMC, Micro SDHC Card, and UHS-I Cards](https://www.amazon.com/Anker-Reader-Memory-RS-MMC-Micro/dp/B07NW8RPYN)
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/4ab02a3d-eea9-4269-8a3e-746b1815ede4">
+</br>
+</p>
+
+[uni Memory Card Reader Adapter USB-C/USB 3.0, Supports SD/Micro SD/SDHC/SDXC/MMC](https://www.amazon.com/uni-Adapter-Supports-Compatible-MacBook/dp/B081VHSB2V)
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/ab5c03a0-0162-4313-a8a2-86454b201e6b">
+</br>
+</p>
 
 ## YouTube Videos for Upgrading SSD
  
