@@ -482,7 +482,6 @@ Xbox Adaptive Controller. Image Credit: [Microsoft](https://www.xbox.com/)
 
 [![Best Portable Monitor 2023](https://ytcards.demolab.com/?id=OPbxDwWJo78&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Best Portable Monitor 2023")](https://www.youtube.com/watch?v=OPbxDwWJo78)
 [![This Portable Monitor Unleashed My Steam Deck](https://ytcards.demolab.com/?id=74STU9uBe_I&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "This Portable Monitor Unleashed My Steam Deck")](https://www.youtube.com/watch?v=74STU9uBe_I)
-[![STEAM DECK Portable Monitor 1080p 60hz External 15.6" Monitor.](https://ytcards.demolab.com/?id=wdDQBcRi1sY&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "STEAM DECK Portable Monitor 1080p 60hz External 15.6" Monitor.")](https://www.youtube.com/watch?v=wdDQBcRi1sY)
 
 **1080P Monitors up to 144Hz with HDR**
 
