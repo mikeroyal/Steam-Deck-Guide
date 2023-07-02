@@ -21,7 +21,7 @@
 - [Screen Protectors](#screen-protectors)
 - [Storage](#storage)
   - [MicroSD Cards](#microsd-cards)
-  - [USB-C MicroSD Card Readers](#usb-c-microsdsd-card-readers)
+  - [USB-C MicroSD Card Readers](#usb-c-microsd-card-readers)
   - [SSDs](#ssds)
   - [SSD Heatsinks](#ssd-heatsinks)
   - [External/Portable SSDs](#portable-ssds)
