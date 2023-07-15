@@ -11,10 +11,13 @@ If you just got your Steam Deck, or have had it for a while and want to learn ab
 * [YouTube Videos on the Steam Deck](#youtube-videos-on-the-steam-deck)
 * [Gaming on Xbox Game Pass](#gaming-on-xbox-game-pass)
 * [Setting up OpenGamepadUI](#setting-up-opengamepadui)
-* [Setting up Universal Tuning Utility Handheld (Windows Only)](#setting-up-universal-tuning-utility-handheld)
+* [Adding Gryoscope Controller Support (Windows)](#adding-gyro-support)
+* [Setting up Universal Tuning Utility Handheld (Windows)](#setting-up-universal-tuning-utility-handheld)
 
 
 ## Official Steam Deck Resources
+
+[Back to the Top](#table-of-contents)
 
  * [r/SteamDeck - Reddit](https://www.reddit.com/r/SteamDeck/)
  * [SteamDeck Website](https://www.steamdeck.com/)
@@ -25,6 +28,8 @@ If you just got your Steam Deck, or have had it for a while and want to learn ab
  
 ## Steam Deck Community Resources
   
+[Back to the Top](#table-of-contents)
+
   * [Steam Deck HQ](https://www.steamdeckhq.com/)
   * [GamingOnLinux | Steam Deck](https://www.gamingonlinux.com/search-articles/?q=steam+deck&strict=on&title_only=on)
   * [overkill.wtf Steam Deck Guides](https://overkill.wtf/tag/steam-deck/)
@@ -35,6 +40,8 @@ If you just got your Steam Deck, or have had it for a while and want to learn ab
   
   
 ## YouTube Videos on the Steam Deck
+
+[Back to the Top](#table-of-contents)
 
 [![Steam Deck: All-in-one portable PC gaming.](https://ytcards.demolab.com/?id=7_0SnbF_MhU&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Steam Deck: All-in-one portable PC gaming.")](https://www.youtube.com/watch?v=7_0SnbF_MhU)
 [![How Good is the New dbrand KillSwitch for Steam Deck?](https://ytcards.demolab.com/?id=lQdSI7jy1vg&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "How Good is the New dbrand KillSwitch for Steam Deck?")](https://www.youtube.com/watch?v=lQdSI7jy1vg)
@@ -222,6 +229,25 @@ Repeat this process for each game you want to play offline. Once completed, you 
 
 <p align="center">
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/329a4f31-005c-41e0-ba64-63a050523db3">
+</p>
+
+## Adding Gyro Support
+
+[Back to the Top](#table-of-contents)
+ 
+[Handheld Companion](https://github.com/Valkirie/HandheldCompanion/releases) is a  combination of a Windows service and a touch interface optimized GUI to increase your handheld gaming computer experience. 
+
+**Features include:**
+
+  * Motion control a.k.a. gyro control through a device's inertial measurement unit (IMU, Gyroscope and Accelerometer) or external sensor. Settings availible for racing, 1st and 3rd person gaming and emulator support.
+  * Quicktools overlay, with easy access to various settings and information such as TDP, GPU, Screen Hz, Resolution, Brightness, Volume, Powermode control and battery level.
+  * Virtual controller simulation of Microsoft Xbox 360 Controller and Sony DualShock 4 Controller.
+  * Profile settings system, automatic detection of active game and applying of settings.
+  * PS Remote Play support with DS4 controller, including motion and touchpad.
+  * 3D Controller overlay for stream recordings.
+ 
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/8cc9a29d-919c-417f-9139-92bf2447f221">
 </p>
 
 ## Setting up Universal Tuning Utility Handheld
