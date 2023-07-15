@@ -4,6 +4,12 @@
 
 If you just got your Steam Deck, or have had it for a while and want to learn about the more advanced features and community applications, this is the page you want to read. This will assume you just received your device and give you lots of options for setup and customization.
 
+# Table of Contents
+
+* [Official Steam Deck Resources](#official-steam-deck-resources)
+* [Steam Deck Community Resources](#steam-deck-community-resources)
+* [YouTube Videos on the Steam Deck](#youtube-videos-on-the-steam-deck)
+
 
 ## Official Steam Deck Resources
 
@@ -31,7 +37,6 @@ If you just got your Steam Deck, or have had it for a while and want to learn ab
 [![How Good is the New dbrand KillSwitch for Steam Deck?](https://ytcards.demolab.com/?id=lQdSI7jy1vg&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "How Good is the New dbrand KillSwitch for Steam Deck?")](https://www.youtube.com/watch?v=lQdSI7jy1vg)
 [![The New EmuDeck is Here! Steam Deck Emulation Guide](https://ytcards.demolab.com/?id=Y5r2WZAImuY&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "The New EmuDeck is Here! Steam Deck Emulation Guide")](https://www.youtube.com/watch?v=Y5r2WZAImuY)
 [![Steam Deck - ULTIMATE Starter Guide](https://ytcards.demolab.com/?id=MbpGPqacCos&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Steam Deck - ULTIMATE Starter Guide")](https://www.youtube.com/watch?v=MbpGPqacCos)
-
 [![CryoUtilities 2.0 - MASSIVE Performance Boosts & Space Savings! | Steam Deck](https://ytcards.demolab.com/?id=C9EjXYZUqUs&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "CryoUtilities 2.0 - MASSIVE Performance Boosts & Space Savings! | Steam Deck")](https://www.youtube.com/watch?v=C9EjXYZUqUs)
 [![I was RIGHT about the Steam Deck - One Year Review](https://ytcards.demolab.com/?id=trsLqauDq2o&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "I was RIGHT about the Steam Deck - One Year Review")](https://www.youtube.com/watch?v=trsLqauDq2o)
 [![Steam Deck Emulation (EmuDeck 2.0) Guide](https://ytcards.demolab.com/?id=rs9jDHIDKkU&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Steam Deck Emulation (EmuDeck 2.0) Guide")](https://www.youtube.com/watch?v=rs9jDHIDKkU)
