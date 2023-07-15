@@ -11,6 +11,7 @@ If you just got your Steam Deck, or have had it for a while and want to learn ab
 * [YouTube Videos on the Steam Deck](#youtube-videos-on-the-steam-deck)
 * [Gaming on Xbox Game Pass](#gaming-on-xbox-game-pass)
 * [Setting up OpenGamepadUI](#setting-up-opengamepadui)
+* [Setting up Universal Tuning Utility Handheld (Windows Only)](#setting-up-universal-tuning-utility-handheld)
 
 
 ## Official Steam Deck Resources
@@ -221,4 +222,22 @@ Repeat this process for each game you want to play offline. Once completed, you 
 
 <p align="center">
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/329a4f31-005c-41e0-ba64-63a050523db3">
+</p>
+
+## Setting up Universal Tuning Utility Handheld
+
+[Back to the Top](#table-of-contents)
+
+[Universal x86 Tuning Utility Handheld](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility-Handheld/releases) is a tool that unlocks the full potential of your AMD based handheld.
+ 
+ **GUI controller input:**
+
+   * Previous Menu: **LB**
+   * Next Menu: **RB**
+   * Show/Hide: **LB + RB + D-Pad Up or ROG button**
+   * Navigating Menu: **Left Joystick or D-Pad**
+   * Toggling Options: **Left Joystick, D-Pad, or A**
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/a40a1dca-f5a2-427b-bdb7-dab8a15ec6bd">
 </p>
