@@ -230,6 +230,13 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
 
 [Back to Top](#steam-deck-accessories)
 
+
+[JSAUX Anti-Slip Stand for Steam Deck Dock SG0104](https://jsaux.com/products/anti-slip-stand-for-steam-deck-dock-sg0104)
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/f687dc81-6a03-4a49-9a82-ef28790a2e9b">
+</p>
+
 [KUNSLUCK Stand Base for Steam Deck](https://www.amazon.com/Stand-Valve-Steam-Anti-Slip-Silicone/dp/B09TW292LK)
 
 <p align="center">
