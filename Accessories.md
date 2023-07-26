@@ -709,6 +709,7 @@ Image Credit: [SD Association](https://www.sdcard.org/)
 
 [Back to Top](#steam-deck-accessories)
 
+* [JSAUX USB-C PD Foldable Charger For Steam Deck CH6504](https://jsaux.com/products/usb-c-pd-charger-for-steam-deck-ch6504-ch4504?variant=43639034151132)
 * [Anker 45w Ultra Slim Charging PowerPort](https://www.amazon.com/Charger-Anker-Ultra-Slim-PowerPort-Laptops/dp/B0841J6CMK)
 * [Anker PowerCore III (45W USB-C PD output)](https://www.amazon.com/Anker-PowerCore-Capacity-Delivery-Portable/dp/B08FX8GKJ5)
 * [Anker 747 Charger (GaNPrime 150W)](https://www.anker.com/products/a2340)
