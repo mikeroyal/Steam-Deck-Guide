@@ -53,6 +53,14 @@ Tech Specs for Dock:
 
 Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.com/steamdeckdock)
 
+[JSAUX 12-in-1 RGB Docking Station for Steam Deck](https://jsaux.com/products/rgb-docking-station-for-steam-deck?variant=43986703548636) has 12 functional ports, including 1-HDMI port (4K@120Hz), 2-USB-A 3.2 (10Gbps data transmission), 1-USB-A 2.0(480Mbps data transmission),1-Gigabit Ethernet port, 1-USB C-PD port, 1-3.5mm audio interface, 1-TF card slot, 1-SD card slot, 1-DisplayPort (4K@120Hz), and 2-USB C port (10Gbps data transmission). 
+
+<p align="center">
+  <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/86564461-f919-457c-8520-f85285fa85a0">
+  <br />
+    JSAUX 12-in-1 RGB Steam Deck Docking Station
+</p>
+
 [JSAUX Steam Deck Docking Station](https://www.jsaux.com/products/upgraded-docking-station-for-steam-deck) is a 6-in-1 Docking Station for Steam Deck. Equipped with an HDMI 4K@60Hz output, a Gigabit LAN Ethernet input, a USB-C port for charging, and three USB-A 3.0 ports, letting you explore a new way to play with Steam Deck. It supports 100W(Maximum) power delivery, which is enough power to charge your Steam Deck at full speed (45W) when paired with the original charger.
 
 <p align="center">
