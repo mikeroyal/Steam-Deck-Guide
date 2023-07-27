@@ -15,7 +15,7 @@
 
 [Back to Top](#sites)
 
-These sites collect lots of entries into one convenient site. Some are for games on Steam, like [SteamDB](https://steamdb.info/instantsearch/), [SteamBase](https://steambase.io/) or [ProtonDB](https://www.protondb.com), others are for user customization options, like [Steam Grid DB](https://www.steamgriddb.com/) or [Steam Deck Repo](https://steamdeckrepo.com/).
+These sites collect lots of entries into one convenient site. Some are for games on Steam, like [SteamDB](https://steamdb.info/instantsearch/), [Steambase](https://steambase.io/) or [ProtonDB](https://www.protondb.com), others are for user customization options, like [Steam Grid DB](https://www.steamgriddb.com/) or [Steam Deck Repo](https://steamdeckrepo.com/).
 
 ### Games
 
