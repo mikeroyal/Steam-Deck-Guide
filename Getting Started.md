@@ -8,6 +8,7 @@ If you just got your Steam Deck, or have had it for a while and want to learn ab
 
 * [Official Steam Deck Resources](#official-steam-deck-resources)
 * [Steam Deck Community Resources](#steam-deck-community-resources)
+* [Steam Deck Certified Refurbished Program](#steam-deck-certified-refurbished)
 * [YouTube Videos on the Steam Deck](#youtube-videos-on-the-steam-deck)
 * [Gaming on Xbox Game Pass](#gaming-on-xbox-game-pass)
 * [Setting up OpenGamepadUI](#setting-up-opengamepadui)
@@ -37,7 +38,18 @@ If you just got your Steam Deck, or have had it for a while and want to learn ab
   * [Steam Deck dbrand](https://dbrand.com/killswitch)
   * [Steam Deck Life](https://steamdecklife.com/)
   * [r/WindowsOnDeck - Reddit](https://www.reddit.com/r/WindowsOnDeck/)
-  
+
+## Steam Deck Certified Refurbished
+
+[Back to the Top](#table-of-contents)
+
+[Steam Deck Certified Refurbished](https://store.steampowered.com/sale/steamdeckrefurbished)
+
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/13b589c2-41eb-4c83-911c-f5ee722e3a1f">
+</br>
+Steam Deck Certified Refurbished Program. Image credit: Valve
+</p>
   
 ## YouTube Videos on the Steam Deck
 
