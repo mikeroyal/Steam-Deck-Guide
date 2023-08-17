@@ -294,6 +294,14 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
     Custom skins cut template
 </p>
 
+ [KO Custom Creations skins for Steam Deck](https://kocustomcreations.com/steam-deck-skins/)
+
+ <p align="center">
+  <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/fe6136fc-3a7e-4da9-955d-56cce39957da">
+  <br />
+   KO Custom Creations skins for Steam Deck
+</p>
+
 ## Thumbstick Grips
 
 [Back to Top](#steam-deck-accessories)
