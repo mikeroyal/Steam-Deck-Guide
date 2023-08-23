@@ -43,10 +43,10 @@ If you just got your Steam Deck, or have had it for a while and want to learn ab
 
 [Back to the Top](#table-of-contents)
 
-[Steam Deck Certified Refurbished (Currently out of Stcok)](https://store.steampowered.com/sale/steamdeckrefurbished)
+[Steam Deck Certified Refurbished (Currently out of Stock)](https://store.steampowered.com/sale/steamdeckrefurbished)
 
-[![So I got a Refurbished Steam Deck…](https://ytcards.demolab.com/?id=i8s_lkfvibA&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "So I got a Refurbished Steam Deck…")](https://www.youtube.com/watch?v=i8s_lkfvibA)  
-[![I Bought a Refurbished Steam Deck](https://ytcards.demolab.com/?id=VY0u5-uKONM&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "I Bought a Refurbished Steam Deck")](https://www.youtube.com/watch?v=VY0u5-uKONM)  
+[![So I got a Refurbished Steam Deck…](https://ytcards.demolab.com/?id=i8s_lkfvibA&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "So I got a Refurbished Steam Deck…")](https://www.youtube.com/watch?v=i8s_lkfvibA) 
+[![I Bought a Refurbished Steam Deck](https://ytcards.demolab.com/?id=VY0u5-uKONM&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "I Bought a Refurbished Steam Deck")](https://www.youtube.com/watch?v=VY0u5-uKONM) 
 [![Refurbished Steam Deck Unboxing Direct from Valve](https://ytcards.demolab.com/?id=QcW-p5ZbSuc&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Refurbished Steam Deck Unboxing Direct from Valve")](https://www.youtube.com/watch?v=QcW-p5ZbSuc) 
 
  <p align="center">
