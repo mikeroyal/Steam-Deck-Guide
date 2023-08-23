@@ -99,6 +99,9 @@ Steam Deck Certified Refurbished Program. Image credit: Valve
 [![Retro-Inspired Shooters available NOW on XBOX Game Pass](https://ytcards.demolab.com/?id=z9zHUt3sLbI&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Retro-Inspired Shooters available NOW on XBOX Game Pass")](https://www.youtube.com/watch?v=z9zHUt3sLbI)
 [![Best DAY ONE Games coming to Xbox Game Pass in 2023 and 2024](https://ytcards.demolab.com/?id=Qyq1FRo2OiY&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Best DAY ONE Games coming to Xbox Game Pass in 2023 and 2024")](https://www.youtube.com/watch?v=Qyq1FRo2OiY)  
 
+
+**A list of great [Game Pass](https://www.xbox.com/) Games to play on the Steam Deck:**
+
 **May 23** 
 
   * Planet of Lana (Xbox Series X|S Optimized, Xbox One, Windows PC, & Xbox Cloud Gaming)
