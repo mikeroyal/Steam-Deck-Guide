@@ -12,9 +12,7 @@
 
 A guide covering Steam Deck including the applications and tools that will make your experience with your Steam Deck device great!
 
-**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf) or the handy online tool [AnyConv](https://anyconv.com/md-to-pdf-converter/).**
-
-**Note 2:** For those wanting to view this Steam Deck Guide in a different language like Chinese, Japanese, Spanish, French, Italian, or German. I would recommend using the [Google Translate for Websites](https://translate.google.com/) just Copy & Paste the URL for this repo and select the Langauge you want it translated to.
+**Note:** For those wanting to view this Steam Deck Guide in a different language like Chinese, Japanese, Spanish, French, Italian, or German. I would recommend using the [Google Translate for Websites](https://translate.google.com/) just Copy & Paste the URL for this repo and select the Langauge you want it translated to.
 
  * [Steam Deck Chinese Translation by feathersx](https://github.com/feathersx/Steam-Deck-Guide/blob/main/README.zh-CN.md)
 
@@ -24,7 +22,7 @@ A guide covering Steam Deck including the applications and tools that will make 
   <img src="https://user-images.githubusercontent.com/45159366/227137649-21bd98c6-40e9-466e-b616-878cfeaafd9b.png">
 </p>
 
-**Note 3: This guide will constantly be updated with new info as becomes available and please feel to make an [issue](https://github.com/mikeroyal/Steam-Deck-Guide/issues) if you think something should be added.**
+**Note 2: This guide will constantly be updated with new info as becomes available and please feel to make an [issue](https://github.com/mikeroyal/Steam-Deck-Guide/issues) if you think something should be added.**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45159366/142779557-400f19c8-6084-41ee-9449-fb08a15d6c45.png">
@@ -87,7 +85,11 @@ Docked: Up to 8K @ 60Hz or 4K @ 120Hz.
 
 Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
 
-[Steam Deck Certified Refurbished](https://store.steampowered.com/sale/steamdeckrefurbished)
+[Steam Deck Certified Refurbished (Currently of out Stock)](https://store.steampowered.com/sale/steamdeckrefurbished)
+
+[![So I got a Refurbished Steam Deck…](https://ytcards.demolab.com/?id=i8s_lkfvibA&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "So I got a Refurbished Steam Deck…")](https://www.youtube.com/watch?v=i8s_lkfvibA) 
+[![I Bought a Refurbished Steam Deck](https://ytcards.demolab.com/?id=VY0u5-uKONM&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "I Bought a Refurbished Steam Deck")](https://www.youtube.com/watch?v=VY0u5-uKONM) 
+[![Refurbished Steam Deck Unboxing Direct from Valve](https://ytcards.demolab.com/?id=QcW-p5ZbSuc&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Refurbished Steam Deck Unboxing Direct from Valve")](https://www.youtube.com/watch?v=QcW-p5ZbSuc)  
  
 <p align="center">
  <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/13b589c2-41eb-4c83-911c-f5ee722e3a1f">
