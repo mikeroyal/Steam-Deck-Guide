@@ -85,7 +85,7 @@ Docked: Up to 8K @ 60Hz or 4K @ 120Hz.
 
 Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
 
-[Steam Deck Certified Refurbished (Currently of out Stock)](https://store.steampowered.com/sale/steamdeckrefurbished)
+[Steam Deck Certified Refurbished (Currently out of Stock)](https://store.steampowered.com/sale/steamdeckrefurbished)
 
 [![So I got a Refurbished Steam Deck…](https://ytcards.demolab.com/?id=i8s_lkfvibA&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "So I got a Refurbished Steam Deck…")](https://www.youtube.com/watch?v=i8s_lkfvibA) 
 [![I Bought a Refurbished Steam Deck](https://ytcards.demolab.com/?id=VY0u5-uKONM&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "I Bought a Refurbished Steam Deck")](https://www.youtube.com/watch?v=VY0u5-uKONM) 
