@@ -99,8 +99,6 @@ Steam Deck Certified Refurbished Program. Image credit: Valve
 [![Retro-Inspired Shooters available NOW on XBOX Game Pass](https://ytcards.demolab.com/?id=z9zHUt3sLbI&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Retro-Inspired Shooters available NOW on XBOX Game Pass")](https://www.youtube.com/watch?v=z9zHUt3sLbI)
 [![Best DAY ONE Games coming to Xbox Game Pass in 2023 and 2024](https://ytcards.demolab.com/?id=Qyq1FRo2OiY&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Best DAY ONE Games coming to Xbox Game Pass in 2023 and 2024")](https://www.youtube.com/watch?v=Qyq1FRo2OiY)  
 
-**A list of great [Game Pass](https://www.xbox.com/) Games to play on the ROG Ally:**
-
 **May 23** 
 
   * Planet of Lana (Xbox Series X|S Optimized, Xbox One, Windows PC, & Xbox Cloud Gaming)
@@ -181,7 +179,43 @@ Steam Deck Certified Refurbished Program. Image credit: Valve
     
    * Venba (Xbox Series X|S, Xbox One, & Windows PC)
    
-**September 6**
+**August 1**
+
+ * Celeste (Cloud, Xbox Series X|S, and PC)
+
+**August 3**
+
+ * A Short Hike (Cloud, Xbox Series X|S, and PC)
+
+**August 8**
+
+ * Broforce Forever (Cloud, Xbox Series X|S, and PC)
+
+**August 9**
+
+ * Limbo (Cloud, (Xbox Series X|S, and PC) 
+
+**August 10**
+
+ * Airborne Kingdom (Cloud, Xbox Series X|S, and PC)
+
+**August 15**
+
+ * Everspace 2 (Cloud and Xbox Series X|S) 
+
+**August 18**	
+
+ * The Texas Chain Saw Massacre (Xbox Series X|S, PC, Cloud)
+
+**August 29**	
+
+ * Sea of Stars (Xbox Series X|S, Cloud)
+ 
+**September 5**
+
+ * Gris (Cloud, Console, and PC) 
+   
+**September 6** or **September 1 with [Starfield Premium Edition Upgrade](https://www.xbox.com/games/store/starfield-premium-edition-upgrade/9PB4ZWV7S2MG/0017)**
 
    * Starfield Direct (Xbox Series X|S, Xbox One, & Windows PC)
  
