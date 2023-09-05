@@ -24,6 +24,8 @@
   - [MicroSD Cards](#microsd-cards)
   - [USB-C MicroSD Card Readers](#usb-c-microsd-card-readers)
   - [SSDs](#ssds)
+     - [M.2 2230](#2230)
+     - [M.2 2242](#2242) 
   - [SSD Heatsinks](#ssd-heatsinks)
   - [External/Portable SSDs](#portable-ssds)
 - [Power](#power)
@@ -620,6 +622,8 @@ Image Credit: [SD Association](https://www.sdcard.org/)
 
 [Back to Top](#steam-deck-accessories)
 
+### 2230
+
  * [M.2 2230 SSDs on Amazon](https://www.amazon.com/m-2-2230-ssd/s?k=m.2+2230+ssd)
  * [M.2 2230 SSDs on NewEgg](https://www.newegg.com/p/pl?d=m.2+2230+ssd)
  * [SABRENT Rocket M.2 2230 PCIe NVMe 4.0 1TB High Performance SSD ebay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=sabrent+2230+ssd&_sacat=0&LH_TitleDesc=0&rt=nc&Storage%2520Capacity=1%2520TB&_dcat=175669)
@@ -667,6 +671,29 @@ Image Credit: [SD Association](https://www.sdcard.org/)
 
  <p align="center">
  <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/dbd8ae1d-62e7-45da-bfd7-c4cb23f8b919">
+</p>
+
+### 2242 
+
+[Back to the Top](#table-of-contents)
+
+ * [M.2 NVMe SSD 2230 to 2242 Universal Adapter](https://www.moddiy.com/products/M.2-NVMe-SSD-2230-2242-2260-Universal-Adapter.html)
+ * [M.2 NVMe SSD 2230 to 2242 Adapter (3D Printed)](https://www.printables.com/model/433725-m2-ssd-2230-to-2242-adapter)
+ * [M.2 NVMe SSD 2230 to 2242 Adapter | AliExpress](https://www.aliexpress.com/w/wholesale-2230-to-2242-m.2-adapter.html)
+ * [JEYI M2 M2PLUS NGFF NVME M.2 Extended Transfer 2230, 2242, 2260, 2280 M2 Change Long Size NVME | Amazon](https://www.amazon.com/JEYI-M2PLUS-Extended-Transfer-Change/dp/B084VLMQWC)
+
+[Rocket NVMe 2242 SSD 2TB](https://sabrent.com/products/sb-1342-2tb)
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/8f3484b2-b825-4d60-b84a-a8e826bac7c7">
+</br>
+</p>
+
+[Dogfish M.2 2242 SSD 4TB 3D NAND QLC](https://www.amazon.com/Dogfish-Internal-Solid-State-Drive/dp/B0BM99LP6K)
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/5306d3b6-c7fa-4a8c-99e5-ad7de3f41fcb">
+</br>
 </p>
 
 ### SSD Heatsinks
