@@ -38,6 +38,7 @@ If you just got your Steam Deck, or have had it for a while and want to learn ab
   * [Steam Deck dbrand](https://dbrand.com/killswitch)
   * [Steam Deck Life](https://steamdecklife.com/)
   * [r/WindowsOnDeck - Reddit](https://www.reddit.com/r/WindowsOnDeck/)
+  * [Steam Deck Essentials (All Handhelds - PCs Supported) | NexusMods](https://www.nexusmods.com/starfield/mods/538)
 
 ## Steam Deck Certified Refurbished
 
