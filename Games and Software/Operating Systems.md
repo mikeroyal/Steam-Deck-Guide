@@ -73,6 +73,15 @@ HoloISO Desktop. Credit: [theVakhovskeIsTaken](https://github.com/theVakhovskeIs
     <br />
 </p>
 
+[Bazzite](https://github.com/ublue-os/bazzite) is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other handheld PCs. 
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/3304b632-46b3-4d61-bf7e-ffec4d94eb30">
+</br>
+</p>
+
+Bazzite. Image credit: [ublue-os](https://github.com/ublue-os)
+
 [WinesapOS](https://github.com/LukeShortCloud/winesapOS) is a project developed by [LukeShortCloud](https://github.com/LukeShortCloud) that provides an easy to setup installation of Linux. It can be used on a flash drive, SD card, HDD, SSD, NVMe, or any other storage device. The [release images](https://github.com/LukeShortCloud/winesapOS/releases) are based on SteamOS 3 and the KDE Plasma desktop environment to align with what Valve's [Steam Deck](https://store.steampowered.com/steamdeck/) uses.
 
 <p align="center">
