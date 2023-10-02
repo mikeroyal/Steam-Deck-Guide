@@ -219,6 +219,14 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
   eXtremeRate Steam Deck Shells
 </p>
 
+[JSAUX Transparent Back Plate for Steam Deck RGB & Vents](https://jsaux.com/products/transparent-back-plate-for-steam-deck-pc0106-rgb-vents)
+
+<p align="center">
+  <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/5bd7615d-a76a-4054-8cc7-0eda25112161">
+  <br />
+  JSAUX Transparent Back Plate for Steam Deck RGB & Vents
+</p>
+
 [JSAUX Transparent Back Plate for Steam Deck](https://jsaux.com/collections/steam-deck-accessory)
 
 <p align="center">
@@ -228,7 +236,7 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
 </p>
 
 
-[JSAUX Transparent Shell for Steam Deck (Coming Soon)](https://jsaux.com/collections/steam-deck-accessory)
+[JSAUX Transparent Shell for Steam Deck](https://jsaux.com/collections/steam-deck-accessory)
 
 <p align="center">
   <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/504146a8-ae6a-4a7e-9b7b-c6f150487cb7">
@@ -264,8 +272,6 @@ Steam Deck™ Docking Station. Video Credit: [Valve](https://store.steampowered.
 <p align="center">
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/e7330cc8-b97e-42b1-ab23-ee55a81e4aa7">
 </p>
-
-
 
 ## Skins
 
