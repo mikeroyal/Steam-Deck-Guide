@@ -32,6 +32,8 @@ A guide covering Steam Deck including the applications and tools that will make 
 # Table of Contents
 
 - [Steam Deck](#steam-deck)
+  - [Steam Deck OLED Specs](#steam-deck-old-specs)
+  - [Steam Deck LCD Specs](#steam-deck-lcd-specs)
 - [Getting Started](./Getting%20Started.md)
 - [Glossary](./Glossary.md)
 - [Accessories](./Accessories.md)
@@ -59,9 +61,38 @@ A guide covering Steam Deck including the applications and tools that will make 
 
 Steam Deck device. Source: [Steam Deck](https://www.steamdeck.com/)
 
-**Steam Deck Specs:**
+### Steam Deck OLED Specs
 
-Operating system: [SteamOS](https://en.wikipedia.org/wiki/SteamOS) 3.0 based on [ArchLinux](https://archlinux.org/).
+**[Checkout the Steam Deck OLED. Available November 16 at 10am Pacific](https://store.steampowered.com/sale/steamdeck_2023)**
+
+[![Introducing Steam Deck OLED - November 16](https://ytcards.demolab.com/?id=_vTsZMvjJ-A&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Introducing Steam Deck OLED - November 16")](https://www.youtube.com/watch?v=_vTsZMvjJ-A)
+[![The All-New Steam Deck OLED Is Almost Here! The Best Console Refresh!](https://ytcards.demolab.com/?id=WIcNVmbxqs4&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "The All-New Steam Deck OLED Is Almost Here! The Best Console Refresh!")](https://www.youtube.com/watch?v=WIcNVmbxqs4)
+[![The New Steam Deck | So Much More than just OLED](https://ytcards.demolab.com/?id=_tmWspZq0LA&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "The New Steam Deck | So Much More than just OLED")](https://www.youtube.com/watch?v=_tmWspZq0LA)
+
+**CPU:** 6nm AMP APU Zen 2 4C/8T, 2.4-3.5GHz.
+**GPU:** 8 CUs (RDNA 2), 1.6GHz (1.6 TFlops).
+**APU power:** 4-15W.
+**RAM:** 16 GB LPDDR5 on-board RAM (6400 MT/s quad 32-bit channels).
+**Operating system:** [SteamOS](https://en.wikipedia.org/wiki/SteamOS) 3.5 based on [ArchLinux](https://archlinux.org/).
+**Storage:**
+  * Steam Deck 512GB NVMe SSD ($549 USD).
+  * Steam Deck 1TB NVMe SSD ($649 USD).
+  * Both include high-speed microSD card slot.
+  
+**Display:** 1280x800 HDR OLED.
+**Display size:** 7.4” diagonal.
+**Maximum brightness:** 1,000 nits peak brightness (HDR) and 600 nits (SDR).
+**Color gamut:** 110% P3.
+**Refresh rate:** up to 90Hz with <0.1 ms response time.
+
+**Bluetooth:** Bluetooth 5.3 (support for controllers, accessories and audio) with Dedicated bluetooth antenna.
+**Wi-Fi:** Tri-band Wi-Fi 6E radio, 2.4GHz, 5GHz, and 6GHz 2 x 2 MIMO, IEEE 802.11a/b/g/n/ac/ax.
+
+**Battery:** 50Whr battery. 3-12 hours of gameplay depending on game settings.
+
+### Steam Deck LCD Specs
+
+Operating system: [SteamOS](https://en.wikipedia.org/wiki/SteamOS) 3.5 based on [ArchLinux](https://archlinux.org/).
 
 System on a chip (SoC): AMD custom APU.
 
