@@ -70,51 +70,61 @@ Steam Deck device. Source: [Steam Deck](https://www.steamdeck.com/)
 [![The New Steam Deck | So Much More than just OLED](https://ytcards.demolab.com/?id=_tmWspZq0LA&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "The New Steam Deck | So Much More than just OLED")](https://www.youtube.com/watch?v=_tmWspZq0LA)
 
 **CPU:** 6nm AMP APU Zen 2 4C/8T, 2.4-3.5GHz.
+
 **GPU:** 8 CUs (RDNA 2), 1.6GHz (1.6 TFlops).
+
 **APU power:** 4-15W.
+
 **RAM:** 16 GB LPDDR5 on-board RAM (6400 MT/s quad 32-bit channels).
+
 **Operating system:** [SteamOS](https://en.wikipedia.org/wiki/SteamOS) 3.5 based on [ArchLinux](https://archlinux.org/).
+
 **Storage:**
   * Steam Deck 512GB NVMe SSD ($549 USD).
   * Steam Deck 1TB NVMe SSD ($649 USD).
   * Both include high-speed microSD card slot.
   
 **Display:** 1280x800 HDR OLED.
+
 **Display size:** 7.4” diagonal.
+
 **Maximum brightness:** 1,000 nits peak brightness (HDR) and 600 nits (SDR).
+
 **Color gamut:** 110% P3.
+
 **Refresh rate:** up to 90Hz with <0.1 ms response time.
 
 **Bluetooth:** Bluetooth 5.3 (support for controllers, accessories and audio) with Dedicated bluetooth antenna.
+
 **Wi-Fi:** Tri-band Wi-Fi 6E radio, 2.4GHz, 5GHz, and 6GHz 2 x 2 MIMO, IEEE 802.11a/b/g/n/ac/ax.
 
 **Battery:** 50Whr battery. 3-12 hours of gameplay depending on game settings.
 
 ### Steam Deck LCD Specs
 
-Operating system: [SteamOS](https://en.wikipedia.org/wiki/SteamOS) 3.5 based on [ArchLinux](https://archlinux.org/).
+**Operating system:** [SteamOS](https://en.wikipedia.org/wiki/SteamOS) 3.5 based on [ArchLinux](https://archlinux.org/).
 
-System on a chip (SoC): AMD custom APU.
+**System on a chip (SoC):** AMD custom APU.
 
-CPU: Zen 2, 4-core, 8-threads, variable frequency @ 2.4–3.5 GHz.
+**CPU:** Zen 2, 4-core, 8-threads, variable frequency @ 2.4–3.5 GHz.
 
-Memory: 16 GB LPDDR5 @ 5500 MT/s.
+**Memory: 16 GB LPDDR5 @ 5500 MT/s.
 
-Storage Options:
+**Storage Options:**
 
-- Base model: 64 GB eMMC for $399(US).
-- Mid model: 256 GB NVMe SSD for $529(US).
-- Top model: 512 GB NVMe SSD for $649(US).
+- **Base model:** 64 GB eMMC for $399(US).
+- **Mid model:** 256 GB NVMe SSD for $529(US).
+- **Top model:** 512 GB NVMe SSD for $649(US).
 
 **All models use M.2 2230 interface.**
 
-Removable Storage: **microSD** supports up to 2TB of additional storage for games.
+**Removable Storage:** **microSD** supports up to 2TB of additional storage for games.
 
-Display: 7-inch, 1280 × 800 LCD, native 800p @ 60Hz.
+**Display:** 7-inch, 1280 × 800 LCD, native 800p @ 60Hz.
 
-Docked: Up to 8K @ 60Hz or 4K @ 120Hz.
+**Docked:** Up to 8K @ 60Hz or 4K @ 120Hz.
 
-Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
+**Graphics:** RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
 
 [Steam Deck Certified Refurbished (Currently out of Stock)](https://store.steampowered.com/sale/steamdeckrefurbished)
 
