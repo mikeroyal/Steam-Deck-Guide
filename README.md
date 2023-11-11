@@ -32,7 +32,7 @@ A guide covering Steam Deck including the applications and tools that will make 
 # Table of Contents
 
 - [Steam Deck](#steam-deck)
-  - [Steam Deck OLED Specs](#steam-deck-old-specs)
+  - [Steam Deck OLED Specs](#steam-deck-oled-specs)
   - [Steam Deck LCD Specs](#steam-deck-lcd-specs)
 - [Getting Started](./Getting%20Started.md)
 - [Glossary](./Glossary.md)
