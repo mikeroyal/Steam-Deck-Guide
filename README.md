@@ -108,7 +108,7 @@ Steam Deck device. Source: [Steam Deck](https://www.steamdeck.com/)
 
 **CPU:** Zen 2, 4-core, 8-threads, variable frequency @ 2.4–3.5 GHz.
 
-**Memory: 16 GB LPDDR5 @ 5500 MT/s.
+**Memory:** 16 GB LPDDR5 @ 5500 MT/s.
 
 **Storage Options:**
 
