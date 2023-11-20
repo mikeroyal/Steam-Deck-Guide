@@ -68,6 +68,9 @@ Steam Deck device. Source: [Steam Deck](https://www.steamdeck.com/)
 [![Introducing Steam Deck OLED - November 16](https://ytcards.demolab.com/?id=_vTsZMvjJ-A&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Introducing Steam Deck OLED - November 16")](https://www.youtube.com/watch?v=_vTsZMvjJ-A)
 [![The All-New Steam Deck OLED Is Almost Here! The Best Console Refresh!](https://ytcards.demolab.com/?id=WIcNVmbxqs4&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "The All-New Steam Deck OLED Is Almost Here! The Best Console Refresh!")](https://www.youtube.com/watch?v=WIcNVmbxqs4)
 [![The New Steam Deck | So Much More than just OLED](https://ytcards.demolab.com/?id=_tmWspZq0LA&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "The New Steam Deck | So Much More than just OLED")](https://www.youtube.com/watch?v=_tmWspZq0LA)
+[![This Is The Ultimate Portable Gaming Machine : Steam Deck OLED Review](https://ytcards.demolab.com/?id=78XuQMWbtoM&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "This Is The Ultimate Portable Gaming Machine : Steam Deck OLED Review")](https://www.youtube.com/watch?v=78XuQMWbtoM)
+[![Steam Deck OLED Review - Perfecting the Steam Deck](https://ytcards.demolab.com/?id=A3B0EDXULZ8&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Steam Deck OLED Review - Perfecting the Steam Deck")](https://www.youtube.com/watch?v=A3B0EDXULZ8)]
+[![Steam Deck OLED Unboxing! + Gaming Test (New & Improved)](https://ytcards.demolab.com/?id=LC3QTugnp7I&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Steam Deck OLED Unboxing! + Gaming Test (New & Improved)")](https://www.youtube.com/watch?v=LC3QTugnp7I)
 
 **CPU:** 6nm AMP APU Zen 2 4C/8T, 2.4-3.5GHz.
 
