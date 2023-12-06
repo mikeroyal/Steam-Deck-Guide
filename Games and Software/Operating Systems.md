@@ -59,6 +59,7 @@ HoloISO Desktop. Credit: [theVakhovskeIsTaken](https://github.com/theVakhovskeIs
 
  * [NixOS Guide](https://github.com/mikeroyal/NixOS-Guide)
  * [Nix on the Steam Deck - Determinate Systems](https://determinate.systems/posts/nix-on-the-steam-deck)
+ * [Jovian NixOS](https://github.com/Jovian-Experiments/Jovian-NixOS) is a set of packages and configurations for running NixOS on the Steam Deck.
  
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/128645111-b2a92dd2-f246-4df0-b05c-5b0ffce05448.png">
