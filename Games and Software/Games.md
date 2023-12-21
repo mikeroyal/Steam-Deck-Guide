@@ -237,6 +237,14 @@
 
 [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) is a Free and Open Source Software Client for PlayStation 4 and PlayStation 5 Remote Play for Linux, FreeBSD, OpenBSD, Android, macOS, Windows, Nintendo Switch and potentially even more platforms. [Chiaki Flatpak](https://flathub.org/apps/details/re.chiaki.Chiaki)
 
+[Chiaki4Deck](https://github.com/streetpea/chiaki4deck) is a fork of Chiaki, adding features for the Steam Deck. It is a free and Open Source Client for PlayStation 4 and PlayStation 5 Remote Play. It can be used to play in real-time on a PlayStation as long as there is a stable network connection. [Flatpak version](https://flathub.org/apps/io.github.streetpea.Chiaki4deck).
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/8c774bbe-fca1-4ae9-84a4-015a8bca0a38">
+</br>
+Chiaki4Deck UI
+</p>
+
 [Parsec](https://parsec.app/cloud-gaming) is a video game streaming platform, which offers a wide variety of games and genres to choose from and provides a high-quality and smooth gameplay. SParsec is developed in order to provide a high-quality smooth gameplay, same time to be free of all ads and in-game purchases.
 
 <p align="center">
