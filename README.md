@@ -161,3 +161,8 @@ Steam Library Compatibility Badges for Games. Source: [Steam Deck](https://www.s
 [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
+
+## Community Resource Additions
+
+<!-- Added 2026-06-24 by zlc000190 -->
+- [Meccha Chameleon Art](https://mecchachameleon.art/) — Fan-made browser companion for Meccha Chameleon, a paint-based hide-and-seek Steam game. 50+ hiding spot atlas with color analysis, bilingual (EN/中文). GitHub awesome list: https://github.com/zlc000190/AwesomeMecchaChameleonHideSpot
